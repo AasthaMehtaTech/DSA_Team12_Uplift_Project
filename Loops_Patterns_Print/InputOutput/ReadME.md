@@ -22,34 +22,35 @@ Print: 3x1=3
        3x10=30)
 
 3. Upward Star Triangle with n lines (n: I/P) (Eg: n=3)
-
+```
 *
 * *
 * * *
 
+```
 3.b. Upward centered (Eg: n=3)
-
+```
      *
     * *
    * * *
-     
+```     
 
 4. Downward Star Triangle with n lines     (Eg: n=4)
-
+```
  * * * *
  * * *
  * *
  *
-
+```
 5. Kaju Katli (For odd I/P only)(Eg:n=3)
-
+```
      *
     * *
    * * *
     * *
      *
 
-
+```
 
 ## End of week 1:
 
