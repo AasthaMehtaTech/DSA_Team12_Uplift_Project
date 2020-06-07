@@ -1,8 +1,8 @@
 Week 1 Problems: 
 
-Tutorial link: https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/tutorial/
-Some more questions: https://www.faceprep.in/c/pattern-programs-in-c/
- additional questions: https://www.geeksforgeeks.org/programs-printing-pyramid-patterns-c/
+Tutorial link: https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/tutorial/ <br>
+Some more questions: https://www.faceprep.in/c/pattern-programs-in-c/ <br>
+ additional questions: https://www.geeksforgeeks.org/programs-printing-pyramid-patterns-c/ <br>
 
 
 
