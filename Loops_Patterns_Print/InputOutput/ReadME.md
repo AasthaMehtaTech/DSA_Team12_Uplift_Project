@@ -1,8 +1,7 @@
 Week 1 Problems: 
 
 Tutorial link: https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/tutorial/ <br>
-Some more questions: https://www.faceprep.in/c/pattern-programs-in-c/ <br>
- additional questions: https://www.geeksforgeeks.org/programs-printing-pyramid-patterns-c/ <br>
+
 
 
 
@@ -10,7 +9,9 @@ Questions to be solved:
 
 # Pattern Resource
 
-(Patterns Eg Source Codes)[https://www.edureka.co/blog/30-pattern-programs-in-java/]
+(Patterns Eg Source Codes)[https://www.edureka.co/blog/30-pattern-programs-in-java/] <br>
+Some more questions: https://www.faceprep.in/c/pattern-programs-in-c/ <br>
+ additional questions: https://www.geeksforgeeks.org/programs-printing-pyramid-patterns-c/ <br>
 
 ## Day 1 - June 7,2020
 
