@@ -1,6 +1,9 @@
 Week 1 Problems: 
 
 Tutorial link: https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/tutorial/
+Some more questions: https://www.faceprep.in/c/pattern-programs-in-c/
+https://www.geeksforgeeks.org/programs-printing-pyramid-patterns-c/
+
 
 
 Questions to be solved: 
