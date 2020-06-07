@@ -10,8 +10,10 @@ Questions to be solved:
 # Pattern Resource
 
 (Patterns Eg Source Codes)[https://www.edureka.co/blog/30-pattern-programs-in-java/] <br>
+Patterns using Cpp: https://www.programiz.com/cpp-programming/examples/pyramid-pattern , 
+         https://www.educba.com/star-patterns-in-c-plus-plus/<br>
 Some more questions: https://www.faceprep.in/c/pattern-programs-in-c/ <br>
- additional questions: https://www.geeksforgeeks.org/programs-printing-pyramid-patterns-c/ <br>
+Additional questions: https://www.geeksforgeeks.org/programs-printing-pyramid-patterns-c/ <br>
 
 ## Day 1 - June 7,2020
 
