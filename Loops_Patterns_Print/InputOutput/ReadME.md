@@ -59,14 +59,16 @@ Print: 3x1=3
 ```
 ## Day 2 Problems
 1. Take N(number of rows), print the following pattern( ex: N=4)
-``` 0
+``` 
+    0
     1 1
     2 3 5
     8 13 21 34
  ```
 
  2. Take N(number of rows), print following pattern (N=4)
-  ``` 1           1
+  ``` 
+      1           1
       1 2       2 1
       1 2 3   3 2 1
       1 2 3 4 3 2 1
@@ -80,14 +82,14 @@ Print: 3x1=3
   1 * * * * * * *
   ```
   4. 
-  ## Take the following as input: number
+  Take the following as input: number
    Write a function which returns true if the number is an armstrong number and false otherwise, where Armstrong number is      defined as follows. A positive integer of n digits is called an Armstrong number of order n (order is number of digits) if.
 abcd… = pow(a,n) + pow(b,n) + pow(c,n) + pow(d,n) + ….
 1634 is an Armstrong number as 1634 = 1^4 + 6^4 + 3^4 + 4^4
 371 is an Armstrong number as 371 = 3^3 + 7^3 + 1^3
-## OUTPUT: Print boolean output for each testcase.
+OUTPUT: Print boolean output for each testcase.
 "true" if the given number is an Armstrong Number, else print "false".
-## sample case
+sample case
 input-371
 output-true
 
@@ -99,14 +101,16 @@ The first line contains N , the number of binary numbers. Next N lines contain N
 N lines,each containing a decimal equivalent of the binary number. <br>
 
 ## Sample Input <br>
- ``` 4
+ ```
+     4
      101
      1111
      00110
      111111
 ```
 ## Sample output <br>
-``` 5
+``` 
+    5
     15
     6
     63
