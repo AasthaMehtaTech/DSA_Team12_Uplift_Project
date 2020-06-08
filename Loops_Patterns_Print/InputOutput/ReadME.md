@@ -81,8 +81,7 @@ Print: 3x1=3
   1 2 * * * * *
   1 * * * * * * *
   ```
-  4. 
-  Take the following as input: number
+  4.Take the following as input: number
    Write a function which returns true if the number is an armstrong number and false otherwise, where Armstrong number is      defined as follows. A positive integer of n digits is called an Armstrong number of order n (order is number of digits) if.
 abcd… = pow(a,n) + pow(b,n) + pow(c,n) + pow(d,n) + ….
 1634 is an Armstrong number as 1634 = 1^4 + 6^4 + 3^4 + 4^4
@@ -95,12 +94,12 @@ output-true
 
 5.
 Given a binary number ,find out its decimal representation. For eg 000111 in binary is 7 in decimal.
-## Input Format <br>
+Input Format <br>
 The first line contains N , the number of binary numbers. Next N lines contain N integers each representing binary represenation of number. <br>
-## Output Format <br>
+Output Format <br>
 N lines,each containing a decimal equivalent of the binary number. <br>
 
-## Sample Input <br>
+Sample Input <br>
  ```
      4
      101
@@ -108,7 +107,7 @@ N lines,each containing a decimal equivalent of the binary number. <br>
      00110
      111111
 ```
-## Sample output <br>
+Sample output <br>
 ``` 
     5
     15
