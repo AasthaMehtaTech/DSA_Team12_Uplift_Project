@@ -1,10 +1,14 @@
 import java.util.Scanner;
+
 class Square_yash{
+	static void Square(int n){
+		System.out.print("Square of "+n+ " is "+n*n);
+	}
     public static void main(String []arr){
-    int num;
-    Scanner scan = new Scanner(System.in);
-    System.out.print("Enter a number: ");
-    num = scan.nextInt();
-    System.out.println("Sqaure of  " +num+ " is: "+num*num);
-}
+	    int inputnum;
+	    Scanner scan = new Scanner(System.in);
+	    System.out.print("Enter a Number: ");
+	    inputnum = scan.nextInt();
+	    Square(inputnum);	
+	}
 }
