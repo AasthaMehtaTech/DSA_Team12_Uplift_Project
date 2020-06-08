@@ -81,13 +81,13 @@ Print: 3x1=3
   1 2 * * * * *
   1 * * * * * * *
   ```
-  4.Take the following as input: number
-   Write a function which returns true if the number is an armstrong number and false otherwise, where Armstrong number is      defined as follows. A positive integer of n digits is called an Armstrong number of order n (order is number of digits) if.
-abcd… = pow(a,n) + pow(b,n) + pow(c,n) + pow(d,n) + ….
-1634 is an Armstrong number as 1634 = 1^4 + 6^4 + 3^4 + 4^4
-371 is an Armstrong number as 371 = 3^3 + 7^3 + 1^3
-OUTPUT: Print boolean output for each testcase.
-"true" if the given number is an Armstrong Number, else print "false".
+  4.Take the following as input: number <br>
+   Write a function which returns true if the number is an armstrong number and false otherwise, where Armstrong number is <br>      defined as follows. A positive integer of n digits is called an Armstrong number of order n (order is number of digits) if. <br>
+abcd… = pow(a,n) + pow(b,n) + pow(c,n) + pow(d,n) + …. <br>
+1634 is an Armstrong number as 1634 = 1^4 + 6^4 + 3^4 + 4^4 <br>
+371 is an Armstrong number as 371 = 3^3 + 7^3 + 1^3 <br>
+OUTPUT: Print boolean output for each testcase. <br>
+"true" if the given number is an Armstrong Number, else print "false". <br>
 sample case
 input-371
 output-true
