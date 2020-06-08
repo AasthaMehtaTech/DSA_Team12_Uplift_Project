@@ -2,8 +2,13 @@ Week 1 Problems:
 
 Tutorial link: https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/tutorial/ <br>
 
-
-
+### Guidelines To Contribute: 
+Create/Upload soln file with Name: 
+```
+DayNumber_ProblemNumber.extension✔️(Prefer this)            Eg:  Day1_P1_Aastha.cpp 
+Or
+ProblemName_YourName.cpp .java or .py                       Eg:  UpwardTriangle_Aastha.cpp
+```
 
 Questions to be solved: 
 
