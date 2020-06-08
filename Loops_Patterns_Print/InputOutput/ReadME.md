@@ -5,9 +5,9 @@ Tutorial link: https://www.hackerearth.com/practice/basic-programming/input-outp
 ### Guidelines To Contribute: 
 Create/Upload soln file with Name: 
 ```
-DayNumber_ProblemNumber.extension✔️(Prefer this)            Eg:  Day1_P1_Aastha.cpp 
+DayNumber_ProblemNumber_YourName.extension✔️(Prefer this)            Eg:  Day1_P1_Aastha.cpp 
 Or
-ProblemName_YourName.cpp .java or .py                       Eg:  UpwardTriangle_Aastha.cpp
+ProblemName_YourName.cpp .java or .py                                Eg:  UpwardTriangle_Aastha.cpp
 ```
 
 Questions to be solved: 
