@@ -15,37 +15,33 @@ public class p2_day2_vindhya
    
     static void printPattern(int n)
     {
-    	int m=1;
+    	//to keep track of number of rows
     	for(int i=1;i<=n;i++)
-    	{
-    		for(int j=1;j<n*2;j++)
-    		{
-    			if(j<=i || j>=n*2-i)
-    			{
-    				if(j<=i)
-    				{	
-    				System.out.print(j);
-    				
-    				}
-    				else
-    				{
-    					
-    					System.out.print(  m );
-    					
-    					m++;
-    				}
-    			}
-    			
-    			
-    			else
-    			{
-    				System.out.print(" ");
-    			}
-    			
-    		}
-    		m=1;
-    		System.out.println( );
-    	}
+	{
+	    int k=1; //to keep track of left side variable
+	   int l=i; //to keep track of right side variables
+	 //to keep track of number of columns	
+	    for(int j=1;j<=(2*n)-1;j++)
+	    {    
+	        if(i>=j|| j >= (2*n)-i)
+	        {
+	            if(j>=(2*n)-i)
+	            {
+	               System.out.print( l  ); 
+	                l--;
+	            }
+	            else{
+	            	System.out.print(k );
+	            	k++;
+	            }
+	        }
+	        else
+	        {
+	            	System.out.print(" ");
+	        }
+	    }
+	    
+	    	System.out.println();
     }
 }
 
