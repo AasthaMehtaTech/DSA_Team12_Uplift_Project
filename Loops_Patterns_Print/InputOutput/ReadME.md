@@ -120,6 +120,47 @@ Sample output <br>
     63
  ```
 
+## Day 3
+
+1. Take n elements as I/P, print max, min, sum of them. 
+```
+Eg: I/P:
+5
+1 5 3 2 4
+O/P : 
+Max= 5
+Min= 1
+Sum= 15
+```
+2. For an I/P array, find sum of squares of each element. 
+```
+Eg: I/P : 
+4
+1 5 2 2
+O/P:
+30
+Explanation :1^2+ 5^2+ 2^2 +2^2=1+25+2+2
+```
+3. Build a prefix array from given I/P array. 
+```
+Eg: 
+I/P : 
+4
+1 3 2 5
+O/P :
+1 4 6 11
+Explanation : 1 1+3 1+3+2 1+3+2+5
+```
+4. Find the max absolute difference between 2 consecutive elements of array. 
+```
+Eg: 
+I/P : 
+4
+1 3 2 5
+O/P :
+3
+Explanation : Differences : |1-3|=2, |3-2|=1, |2-5|=3. MAX DIFFERENCE : 3
+```
 
 ## End of week 1:
 
