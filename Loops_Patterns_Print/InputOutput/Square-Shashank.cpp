@@ -4,17 +4,9 @@ using namespace std;
 
 int main()
 {
-    int size;
-    cout << " Input the number of characters for a side: ";
-    cin >> size;
-    for (int row = 1; row <= size; ++row) 
-    {
-        for (int col = 1; col <= size; ++col) 
-        {   
-        
-            cout <<"*";
-        }
-        cout << endl;
-    }
+    int num;
+    cout << "Enter the number ";
+    cin >> num;
+        cout << "Sqaure of "<< num << " is: " << num*num;
     return 0;
 }
