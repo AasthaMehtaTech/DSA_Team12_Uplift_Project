@@ -1,1 +1,0 @@
-Participant name: Vishal Kichloo
