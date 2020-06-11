@@ -16,7 +16,7 @@ int main() {
    }
    originalNum = num;
 
-   while (originalNum != 0) {           //To find tghe armstrongs number
+   while (originalNum != 0) {           // To find the armstrongs number
       remainder = originalNum % 10;
 
       // pow() returns a double value
