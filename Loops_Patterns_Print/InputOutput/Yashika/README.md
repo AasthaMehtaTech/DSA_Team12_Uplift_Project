@@ -82,7 +82,7 @@ OUTPUT: Print boolean output for each testcase. <br>
 "true" if the given number is an Armstrong Number, else print "false". <br> <br>
 Sample Case -
 Input-371
-Output-true
+Output-true <br> <br>
 [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Yashika/Day2_P4_Yashika.cpp)
 
 ### Question 5: Given a binary number, find out its decimal representation. For eg 000111 in binary is 7 in decimal. <br>
@@ -111,7 +111,8 @@ Sample output <br>
 
 ### Question 1: Take n elements as I/P, print max, min, sum of them.
 ```
-Eg: I/P:
+Eg:
+I/P:
 5
 1 5 3 2 4
 O/P :
