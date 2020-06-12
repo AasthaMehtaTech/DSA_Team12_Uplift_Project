@@ -122,6 +122,109 @@ Sum= 15
 ```
 [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Yashika/Day3_P1_Yashika.cpp)
 
+### Question 2: For an I/P array, find sum of squares of each element.
+```
+Eg: I/P :
+4
+1 5 2 2
+O/P:
+30
+Explanation :1^2+ 5^2+ 2^2 +2^2=1+25+2+2
+```
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Yashika/Day3_P2_Yashika.cpp)
+
+### Question 3: Build a prefix array from given I/P array.
+```
+Eg:
+I/P :
+4
+1 3 2 5
+O/P :
+1 4 6 11
+Explanation : 1 1+3 1+3+2 1+3+2+5
+```
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Yashika/Day3_P3_Yashika.cpp)
+
+### Question 4: Find the max absolute difference between 2 consecutive elements of array.
+```
+Eg:
+I/P :
+4
+1 3 2 5
+O/P :
+3
+Explanation : Differences : |1-3|=2, |3-2|=1, |2-5|=3. MAX DIFFERENCE : 3
+```
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Yashika/Day3_P4_Yashika.cpp)
+
+## Day 4 Solutions
+
+### Question 1: Given an array A of size N-1 and given that there are numbers from 1 to N with one element missing, the missing number is to be found.
+```
+Eg:
+Input:
+10
+1 2 3 4 5 6 7 8 10
+Output:
+9
+```
+[My Solution]()
+
+### Question 2: Given an array arr of N integers. Find the contiguous sub-array with maximum sum.
+```
+Eg:
+Input:
+5
+1 2 3 -2 5
+Output:
+9
+```
+[My Solution]()
+
+### Question 3: Given an array A of size N containing 0s, 1s, and 2s; you need to sort the array in ascending order.
+```
+Eg:
+Input:
+5
+0 2 1 2 0
+Output:
+0 0 1 2 2
+ ```
+[My Solution]()
+
+### Question 4: Given an array arr[] and a number K where K is smaller than size of array, the task is to find the Kth smallest element in the given array. It is given that all array elements are distinct.
+```
+Eg:
+Input:
+6
+7 10 4 3 20 15
+3
+Output:
+7
+Explanation:3rd smallest element in the given array is 7.
+```
+[My Solution]()
+
+### Question 5: Take as input N, the size of array. Take N more inputs and store that in an array. Take as input “target”, a number. Write a Program which prints all pairs of numbers which sum to target.
+```
+Eg:
+Input:
+5
+1 3 4 2 5
+5
+Output:
+1 and 4
+2 and 3
+Explanation: Find any pair of elements in the array which has sum equal to target element and print them.
+```
+[My Solution]()
+
+## Day 5 Solutions
+
+### Question 1: 
+
+[My Solution]()
+
 ## Profile
 
 ![Yashika's Profile Image](https://user-images.githubusercontent.com/39722898/83765438-cc3cd500-a698-11ea-826c-8a7278d6ac0c.jpg)
