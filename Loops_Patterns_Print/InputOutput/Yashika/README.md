@@ -52,7 +52,74 @@
     2 3 5
     8 13 21 34
  ```
-[My Solution]
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Yashika/Day2_P1_Yashika.cpp)
+
+### Question 2: Take N(number of rows), print following pattern (Ex: N=4)
+  ```
+     1           1
+     1 2       2 1
+     1 2 3   3 2 1
+     1 2 3 4 3 2 1
+   ```
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Yashika/Day2_P2_Yashika.cpp)
+
+### Question 3: Take N(number of rows), print following pattern (N=5)
+  ```
+   1 2 3 4 5
+   1 2 3 4 *
+   1 2 3 * * *
+   1 2 * * * * *
+   1 * * * * * * *
+  ```
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Yashika/Day2_P3_Yashika.cpp)
+
+### Question 4: Take the following as input: number <br>
+   Write a function which returns true if the number is an armstrong number and false otherwise, where Armstrong number is <br>      defined as follows. A positive integer of n digits is called an Armstrong number of order n (order is number of digits) if. <br>
+abcd… = pow(a,n) + pow(b,n) + pow(c,n) + pow(d,n) + …. <br> <br>
+1634 is an Armstrong number as 1634 = 1^4 + 6^4 + 3^4 + 4^4 <br>
+371 is an Armstrong number as 371 = 3^3 + 7^3 + 1^3 <br>
+OUTPUT: Print boolean output for each testcase. <br>
+"true" if the given number is an Armstrong Number, else print "false". <br> <br>
+Sample Case -
+Input-371
+Output-true
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Yashika/Day2_P4_Yashika.cpp)
+
+### Question 5: Given a binary number, find out its decimal representation. For eg 000111 in binary is 7 in decimal. <br>
+Input Format <br>
+The first line contains N , the number of binary numbers. Next N lines contain N integers each representing binary represenation of number. <br>
+Output Format <br>
+N lines,each containing a decimal equivalent of the binary number. <br>
+Sample Input <br>
+ ```
+     4
+     101
+     1111
+     00110
+     111111
+```
+Sample output <br>
+```
+    5
+    15
+    6
+    63
+ ```
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Yashika/Day2_P5_Yashika.cpp)
+
+## Day 3 Solutions
+
+### Question 1: Take n elements as I/P, print max, min, sum of them.
+```
+Eg: I/P:
+5
+1 5 3 2 4
+O/P :
+Max= 5
+Min= 1
+Sum= 15
+```
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Yashika/Day3_P1_Yashika.cpp)
 
 ## Profile
 
