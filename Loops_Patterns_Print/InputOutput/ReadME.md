@@ -251,7 +251,7 @@ O/P:
 3. Print clockwise spirally increasing pattern
 ```
 I/P:
-5
+5 // Matrix Dimension: 5x5
 O/P:
 ```
 ![Spiral Pattern](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/clockwiseSpiral.JPG)
@@ -270,7 +270,7 @@ Output: 1 2 3 4 8 12 16 15 14 13 9 5 6 7 11 10
 I/P:
 [1, 0, 1],
 [1, 1, 1], 
-[1, 1, 1]
+[1, 0, 1]
 
 O/P:
 [0, 0, 0],
