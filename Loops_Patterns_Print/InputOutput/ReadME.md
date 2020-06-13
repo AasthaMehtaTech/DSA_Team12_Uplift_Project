@@ -86,8 +86,9 @@ Print: 3x1=3
   1 2 * * * * *
   1 * * * * * * *
   ```
-  4.Take the following as input: number <br>
-   Write a function which returns true if the number is an armstrong number and false otherwise, where Armstrong number is <br>      defined as follows. A positive integer of n digits is called an Armstrong number of order n (order is number of digits) if. <br>
+ 4.Take the following as input: number <br>
+ Write a function which returns true if the number is an armstrong number and false otherwise, where Armstrong number is <br>      defined as follows. 
+ ```A positive integer of n digits is called an Armstrong number of order n (order is number of digits) if. <br>
 abcd… = pow(a,n) + pow(b,n) + pow(c,n) + pow(d,n) + …. <br>
 1634 is an Armstrong number as 1634 = 1^4 + 6^4 + 3^4 + 4^4 <br>
 371 is an Armstrong number as 371 = 3^3 + 7^3 + 1^3 <br>
@@ -96,9 +97,9 @@ OUTPUT: Print boolean output for each testcase. <br>
 sample case
 input-371
 output-true
-
-5.
-Given a binary number ,find out its decimal representation. For eg 000111 in binary is 7 in decimal.
+```
+5. Given a binary number ,find out its decimal representation. 
+For eg 000111 in binary is 7 in decimal.
 Input Format <br>
 The first line contains N , the number of binary numbers. Next N lines contain N integers each representing binary represenation of number. <br>
 Output Format <br>
@@ -212,6 +213,74 @@ Output:
 2 and 3
 Explanation: Find any pair of elements in the array which has sum equal to target element and print them.
 ```
+## Day 5 ( 2D Arrays )
+
+1. Find Zigzag Sum (For Square Matrices Only)
+```
+I/P:
+3
+1 2 3 
+4 7 8 
+5 9 1
+O/P :
+28
+Explanation: 1+2+3+7+5+9+1=28
+```
+2.a. Rotate the matrix clock wise by 90 degree
+```
+I/P: 
+2 3 //no.  of rows & columns
+1 2 3 
+4 5 6
+O/P:
+4 1 
+5 2
+6 3
+```
+2.b. Rotate the matrix anti-clock wise by 90 degree
+```
+I/P:
+2 3 //no.  of rows & columns
+1 2 3 
+4 5 6
+O/P:
+3 6
+2 5 
+1 4
+```
+3. Print clockwise spirally increasing pattern
+```
+I/P:
+5
+O/P:
+```
+![Spiral Pattern](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/clockwiseSpiral.JPG)
+<br>
+4. Traverse Matrix Spirally.
+```
+Input:  1    2   3   4
+        5    6   7   8
+        9   10  11  12
+        13  14  15  16
+Output: 1 2 3 4 8 12 16 15 14 13 9 5 6 7 11 10 
+```
+5. Given a matrix, A of size M x N of 0s and 1s. If an element is 0, set its entire row and column to 0.
+[For extra description visit here](https://www.interviewbit.com/problems/set-matrix-zeros/)
+```
+I/P:
+[1, 0, 1],
+[1, 1, 1], 
+[1, 1, 1]
+
+O/P:
+[0, 0, 0],
+[1, 0, 1],
+[0, 0, 0]
+```
+
+## Level Up Array:
+Next let's dive into sorting techniques:<br>
+More Practise Problems on Arrays:[here](https://www.interviewbit.com/courses/programming/topics/arrays/)
 
 ## End of week 1:
 
