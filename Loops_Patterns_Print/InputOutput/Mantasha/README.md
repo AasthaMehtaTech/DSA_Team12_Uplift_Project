@@ -6,7 +6,7 @@
 [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day1_P1-Square_Mantasha.cpp)
 
 ### Question 2: Take a I/P number, print its table.
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Yashika/Day1_P2_Yashika.cpp)
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day1_P2-Table_Mantasha.cpp)
 
 ### Question 3a: Upward Star Triangle with n lines (n: I/P) (Eg: n=3)
 ```
@@ -14,7 +14,7 @@
 * *
 * * *
 ```
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Yashika/Day1_P3a_Yashika.cpp)
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day1_P3(a)-UpwardStarTriangle.Mantasha.cpp)
 
 ### Question 3b: Upward centered (Eg: n=3)
 ```
@@ -22,7 +22,7 @@
   * *
  * * *
 ```
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Yashika/Day1_P3b_Yashika.cpp)
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day1_P3(b)-UpwardCentered.Mantasha.cpp)
 
 ### Question 4: Downward Star Triangle with n lines (Eg: n=4)
 ```
@@ -31,7 +31,7 @@
  * *
  *
 ```
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Yashika/Day1_P4_Yashika.cpp)
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day1_P4-DownwardStarTriangle.Mantasha.cpp)
 
 ### Question 5: Kaju Katli (For odd I/P only) (Eg:n=3)
 ```
@@ -41,7 +41,7 @@
     * *
      *
 ```
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Yashika/Day1_P5_Yashika.cpp)
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day1_P5-KajuKatli.Mantasha.cpp)
 
 ## Day 2 Solutions
 
@@ -52,7 +52,7 @@
     2 3 5
     8 13 21 34
  ```
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Yashika/Day2_P1_Yashika.cpp)
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day2_P1-FibonacciPattern.cpp)
 
 ### Question 2: Take N(number of rows), print following pattern (Ex: N=4)
   ```
@@ -61,7 +61,7 @@
      1 2 3   3 2 1
      1 2 3 4 3 2 1
    ```
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Yashika/Day2_P2_Yashika.cpp)
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day2_P2-NumberPattern.cpp)
 
 ### Question 3: Take N(number of rows), print following pattern (N=5)
   ```
@@ -71,7 +71,7 @@
    1 2 * * * * *
    1 * * * * * * *
   ```
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Yashika/Day2_P3_Yashika.cpp)
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day2_P3-NumberStarPattern.cpp)
 
 ### Question 4: Take the following as input: number <br>
    Write a function which returns true if the number is an armstrong number and false otherwise, where Armstrong number is <br>      defined as follows. A positive integer of n digits is called an Armstrong number of order n (order is number of digits) if. <br>
@@ -83,7 +83,7 @@ OUTPUT: Print boolean output for each testcase. <br>
 Sample Case -
 Input-371
 Output-true <br> <br>
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Yashika/Day2_P4_Yashika.cpp)
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day2_P4-ArmstrongNumber.cpp)
 
 ### Question 5: Given a binary number, find out its decimal representation. For eg 000111 in binary is 7 in decimal. <br>
 Input Format <br>
@@ -105,7 +105,7 @@ Sample output <br>
     6
     63
  ```
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Yashika/Day2_P5_Yashika.cpp)
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day2_P5-DecimalRepresentation.cpp)
 
 ## Day 3 Solutions
 
@@ -120,7 +120,7 @@ Max= 5
 Min= 1
 Sum= 15
 ```
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Yashika/Day3_P1_Yashika.cpp)
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day3_P1-MaxMinSum.cpp)
 
 ### Question 2: For an I/P array, find sum of squares of each element.
 ```
@@ -131,7 +131,7 @@ O/P:
 30
 Explanation :1^2+ 5^2+ 2^2 +2^2=1+25+2+2
 ```
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Yashika/Day3_P2_Yashika.cpp)
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day3_P2-SumOfSquares.cpp)
 
 ### Question 3: Build a prefix array from given I/P array.
 ```
@@ -143,7 +143,7 @@ O/P :
 1 4 6 11
 Explanation : 1 1+3 1+3+2 1+3+2+5
 ```
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Yashika/Day3_P3_Yashika.cpp)
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day3_P3-PrefixSumArray.cpp)
 
 ### Question 4: Find the max absolute difference between 2 consecutive elements of array.
 ```
@@ -155,7 +155,7 @@ O/P :
 3
 Explanation : Differences : |1-3|=2, |3-2|=1, |2-5|=3. MAX DIFFERENCE : 3
 ```
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Yashika/Day3_P4_Yashika.cpp)
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day3_P4-MaxAbsoluteDifference.cpp)
 
 ## Day 4 Solutions
 
@@ -168,7 +168,7 @@ Input:
 Output:
 9
 ```
-[My Solution]()
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day 4/P1-MissingNumber.cpp)
 
 ### Question 2: Given an array arr of N integers. Find the contiguous sub-array with maximum sum.
 ```
@@ -179,7 +179,7 @@ Input:
 Output:
 9
 ```
-[My Solution]()
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day 4/P2-SubArrayWithMaximumSum.cpp)
 
 ### Question 3: Given an array A of size N containing 0s, 1s, and 2s; you need to sort the array in ascending order.
 ```
@@ -190,7 +190,7 @@ Input:
 Output:
 0 0 1 2 2
  ```
-[My Solution]()
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day 4/P3-SortArrayZero'sOne'sTwo's.cpp)
 
 ### Question 4: Given an array arr[] and a number K where K is smaller than size of array, the task is to find the Kth smallest element in the given array. It is given that all array elements are distinct.
 ```
@@ -203,7 +203,7 @@ Output:
 7
 Explanation:3rd smallest element in the given array is 7.
 ```
-[My Solution]()
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day 4/P4-KthSmallestElement.cpp)
 
 ### Question 5: Take as input N, the size of array. Take N more inputs and store that in an array. Take as input “target”, a number. Write a Program which prints all pairs of numbers which sum to target.
 ```
@@ -217,21 +217,165 @@ Output:
 2 and 3
 Explanation: Find any pair of elements in the array which has sum equal to target element and print them.
 ```
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day 4/P5-PairEqualToSum.cpp)
+
+## Day 5 Solutions( 2D Arrays )
+
+### Question 1: Find Zigzag Sum (For Square Matrices Only)
+```
+I/P:
+3
+1 2 3 
+4 7 8 
+5 9 1
+O/P :
+28
+Explanation: 1+2+3+7+5+9+1=28
+```
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day 5/P1 - ZigZagSum.cpp)
+
+### Question 2.a. Rotate the matrix clock wise by 90 degree
+```
+I/P: 
+2 3 //no.  of rows & columns
+1 2 3 
+4 5 6
+O/P:
+4 1 
+5 2
+6 3
+```
+
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day 5/P2(a) - RotateMatrixClockwiseBy90.cpp)
+
+### Question 2.b. Rotate the matrix anti-clock wise by 90 degree
+```
+I/P:
+2 3 //no.  of rows & columns
+1 2 3 
+4 5 6
+O/P:
+3 6
+2 5 
+1 4
+```
+
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day 5/P2(b) - RotateMatrixAntiClockwiseBy90.cpp)
+
+### Question 3. Print clockwise spirally increasing pattern
+```
+I/P:
+5 // Matrix Dimension: 5x5
+O/P:
+```
+![Spiral Pattern](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/clockwiseSpiral.JPG)
+<br>
+
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day 5/P3 - ClockwiseSpiralPattern.cpp)
+
+### Question 4. Traverse Matrix Spirally.
+```
+Input:  1    2   3   4
+        5    6   7   8
+        9   10  11  12
+        13  14  15  16
+Output: 1 2 3 4 8 12 16 15 14 13 9 5 6 7 11 10 
+```
+
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day 5/P4 -TraverseMatrixSpirally.cpp)
+
+### Question 5. Given a matrix, A of size M x N of 0s and 1s. If an element is 0, set its entire row and column to 0.
+[For extra description visit here](https://www.interviewbit.com/problems/set-matrix-zeros/)
+```
+I/P:
+[1, 0, 1],
+[1, 1, 1], 
+[1, 0, 1]
+
+O/P:
+[0, 0, 0],
+[1, 0, 1],
+[0, 0, 0]
+```
+
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day 5/P5 - SetMatrixZero.cpp)
+
+## Day 6 Problems
+
+### Question 1. Given an array of integers, sort the array according to frequency of elements. That is elements that have higher frequency come first. If frequencies of two elements are same, then smaller number comes first.
+```
+Eg:
+Input:
+5
+5 5 4 6 4
+Output:
+ 4 4 5 5 6
+ Explanation: The highest frequency here is 2. Both 5 and 4 have that frequency. Now since the frequencies are same then smaller element comes first. So 4 4 comes first then comes 5 5. Finally comes 6.
+The output is 4 4 5 5 6.
+```
+
 [My Solution]()
 
-## Day 5 Solutions
-
-### Question 1: 
+### Question 2. Given an integer array and a non-negative integer k,count all distinct pairs with difference equal to k, i.e., A[ i ] - A[ j] = k.
+```
+Ex:
+Input:
+5 
+1 5 4 1 2
+0
+Output:
+1
+Explanation: There is only one pair with difference 0 i.e (1,1)
+```
 
 [My Solution]()
 
-## Profile
+### Question 3. Rahul had a sorted array of numbers from which he had to find a given number quickly. His friend by mistake rotated the array. Now Rahul doesn't have time to sort the elements again. Help him to quickly find the given number from the rotated array.
+Hint: Think Binary search!!
+```
+Eg:
+Input:
+5
+4 5 1 2 3
+2
+ Output:
+ 3
+ Explanation:
+ The given rotated array is [4, 5, 1, 2, 3]. The element to be searched is 2 whose index is 3.
+ ```
+ 
+ [My Solution]()
+ 
+ ### Question 4. Given an integer x. The task is to find the square root of x. If x is not a perfect square, then return floor(√x).
+ ```
+ Eg:
+ Input:
+ 5
+ Output:
+ 2
+ Explanation:
+ Since, 5 is not perfect square, so floor of square_root of 5 is 2.
+ ```
+ 
+ [My Solution]()
+ 
+ ### Question 5. Given a matrix mat[] of size n x m, where every row and column is sorted in increasing order, and a number x is given. The task is to find whether element x is present in the matrix or not.
+ Expected Time Complexity: O(m+n)
+ ```
+ Eg: 
+ Input:
+ 3 3
+3 30 38 44 52 54 57 60 69
+62
+Output:
+0
+Explanation: 62 is not present in the matrix, so output is 0.
+```
 
-![Yashika's Profile Image](https://user-images.githubusercontent.com/39722898/83765438-cc3cd500-a698-11ea-826c-8a7278d6ac0c.jpg)
+[My Solution]()
 
-* **Name**: Yashika Kalra
-* **Slack Username**: Yashika (P)
-* **Location**: New Delhi, India
+* **Name**: *Mantasha Shakeel*
+* **Slack Username**: *Mantasha Shakeel (P)*
+* **Location**: Lucknow , India
 
-I am a final year engineering student at Amity School of Engineering and Technology, Guru Gobind Singh Indraprastha University. Currently interning as a Frontend Developer with Migrant Solutions, an Africa based company. When I'm not attending college or coding, you'll find me either sleeping or watching comedy. ;p
-
+*I am a pre-final year engineering student at Institute of Technology and Management , Lucknow. *
