@@ -283,7 +283,8 @@ Next let's dive into sorting techniques:<br>
 More Practise Problems on Arrays:[here](https://www.interviewbit.com/courses/programming/topics/arrays/)
 
 ## Resources related to Searching and Sorting : 
-https://docs.google.com/document/d/1vR5BLH5borpibYjQ0R6y00zgo-RP5JdkejS_3ilU-DI/edit?usp=sharing  
+https://docs.google.com/document/d/1vR5BLH5borpibYjQ0R6y00zgo-RP5JdkejS_3ilU-DI/edit?usp=sharing  <br>
+https://codeburst.io/algorithms-i-searching-and-sorting-algorithms-56497dbaef20
 ## Day 6 Problems
 1. Given an array of integers, sort the array according to frequency of elements. That is elements that have higher frequency come first. If frequencies of two elements are same, then smaller number comes first.
 ```
