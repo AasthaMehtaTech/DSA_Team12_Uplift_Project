@@ -282,6 +282,66 @@ O/P:
 Next let's dive into sorting techniques:<br>
 More Practise Problems on Arrays:[here](https://www.interviewbit.com/courses/programming/topics/arrays/)
 
+## Resources related to Searching and Sorting : 
+https://docs.google.com/document/d/1vR5BLH5borpibYjQ0R6y00zgo-RP5JdkejS_3ilU-DI/edit?usp=sharing  
+## Day 6 Problems
+1. Given an array of integers, sort the array according to frequency of elements. That is elements that have higher frequency come first. If frequencies of two elements are same, then smaller number comes first.
+```
+Eg:
+Input:
+5
+5 5 4 6 4
+Output:
+ 4 4 5 5 6
+ Explanation: The highest frequency here is 2. Both 5 and 4 have that frequency. Now since the frequencies are same then smaller element comes first. So 4 4 comes first then comes 5 5. Finally comes 6.
+The output is 4 4 5 5 6.
+```
+2. Given an integer array and a non-negative integer k,count all distinct pairs with difference equal to k, i.e., A[ i ] - A[ j] = k.
+```
+Ex:
+Input:
+5 
+1 5 4 1 2
+0
+Output:
+1
+Explanation: There is only one pair with difference 0 i.e (1,1)
+```
+3. Rahul had a sorted array of numbers from which he had to find a given number quickly. His friend by mistake rotated the array. Now Rahul doesn't have time to sort the elements again. Help him to quickly find the given number from the rotated array.
+Hint: Think Binary search!!
+```
+Eg:
+Input:
+5
+4 5 1 2 3
+2
+ Output:
+ 3
+ Explanation:
+ The given rotated array is [4, 5, 1, 2, 3]. The element to be searched is 2 whose index is 3.
+ ```
+ 4. Given an integer x. The task is to find the square root of x. If x is not a perfect square, then return floor(√x).
+ ```
+ Eg:
+ Input:
+ 5
+ Output:
+ 2
+ Explanation:
+ Since, 5 is not perfect square, so floor of square_root of 5 is 2.
+ ```
+ 5. Given a matrix mat[] of size n x m, where every row and column is sorted in increasing order, and a number x is given. The task is to find whether element x is present in the matrix or not.
+ Expected Time Complexity: O(m+n)
+ ```
+ Eg: 
+ Input:
+ 3 3
+3 30 38 44 52 54 57 60 69
+62
+Output:
+0
+Explanation: 62 is not present in the matrix, so output is 0.
+```
 ## End of week 1:
 
 [Hackerearth problems Link](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/)
