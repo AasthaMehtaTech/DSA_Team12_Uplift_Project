@@ -261,7 +261,7 @@ O/P:
 1 4
 ```
 
-[My Solution]https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-5/Day-5--(b)RotateMatrixAnticlockvise(90)-Shashank.cpp)
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-5/Day-5--(b)RotateMatrixAnticlockvise(90)-Shashank.cpp)
 
 ### Question 3. Print clockwise spirally increasing pattern
 ```
