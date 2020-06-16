@@ -169,7 +169,7 @@ Input:
 Output:
 9
 ```
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day4/P1-MissingNumber.cpp)
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-4/Day-4--MissingNumber-Shashank.cpp)
 
 ### Question 2: Given an array arr of N integers. Find the contiguous sub-array with maximum sum.
 ```
@@ -180,7 +180,7 @@ Input:
 Output:
 9
 ```
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day4/P2-SubArrayWithMaximumSum.cpp)
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-4/Day-4--SubArrayWithMaximumSum-Shashank.cpp)
 
 ### Question 3: Given an array A of size N containing 0s, 1s, and 2s; you need to sort the array in ascending order.
 ```
@@ -191,7 +191,7 @@ Input:
 Output:
 0 0 1 2 2
  ```
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day4/P3-SortArrayZero'sOne'sTwo's.cpp)
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-4/Day-4--SortArray-Zero's-One's-Two's-Shashank.cpp)
 
 ### Question 4: Given an array arr[] and a number K where K is smaller than size of array, the task is to find the Kth smallest element in the given array. It is given that all array elements are distinct.
 ```
@@ -204,7 +204,7 @@ Output:
 7
 Explanation:3rd smallest element in the given array is 7.
 ```
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day4/P4-KthSmallestElement.cpp)
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-4/Day-4--KthSmallestElement-Shashank.cpp)
 
 ### Question 5: Take as input N, the size of array. Take N more inputs and store that in an array. Take as input “target”, a number. Write a Program which prints all pairs of numbers which sum to target.
 ```
@@ -218,7 +218,7 @@ Output:
 2 and 3
 Explanation: Find any pair of elements in the array which has sum equal to target element and print them.
 ```
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day4/P5-PairEqualToSum.cpp)
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-4/Day-4--PairEqualToSum-Shashank.cpp)
 
 ## Day 5 Solutions( 2D Arrays )
 
@@ -233,7 +233,7 @@ O/P :
 28
 Explanation: 1+2+3+7+5+9+1=28
 ```
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day5/P1 - ZigZagSum.cpp)
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-5/Day-4--ZigZigSum-Shashank.cpp)
 
 ### Question 2.a. Rotate the matrix clock wise by 90 degree
 ```
@@ -247,7 +247,7 @@ O/P:
 6 3
 ```
 
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day5/P2(a) - RotateMatrixClockwiseBy90.cpp)
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-5/Day-5--(a)RotateMatrixClockvise(90)-Shashank.cpp)
 
 ### Question 2.b. Rotate the matrix anti-clock wise by 90 degree
 ```
@@ -261,7 +261,7 @@ O/P:
 1 4
 ```
 
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day5/P2(b) - RotateMatrixAntiClockwiseBy90.cpp)
+[My Solution]https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-5/Day-5--(b)RotateMatrixAnticlockvise(90)-Shashank.cpp)
 
 ### Question 3. Print clockwise spirally increasing pattern
 ```
@@ -272,7 +272,7 @@ O/P:
 ![Spiral Pattern](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/clockwiseSpiral.JPG)
 <br>
 
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day5/P3 - ClockwiseSpiralPattern.cpp)
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-5/Day-5--ClockviseSpiralPattern-Shashank.cpp)
 
 ### Question 4. Traverse Matrix Spirally.
 ```
@@ -283,7 +283,7 @@ Input:  1    2   3   4
 Output: 1 2 3 4 8 12 16 15 14 13 9 5 6 7 11 10 
 ```
 
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day5/P4 -TraverseMatrixSpirally.cpp)
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-5/Day-5--TraverseMatrixSpirally-Shashank.cpp)
 
 ### Question 5. Given a matrix, A of size M x N of 0s and 1s. If an element is 0, set its entire row and column to 0.
 [For extra description visit here](https://www.interviewbit.com/problems/set-matrix-zeros/)
@@ -299,7 +299,7 @@ O/P:
 [0, 0, 0]
 ```
 
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day5/P5 - SetMatrixZero.cpp)
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-5/Day-5--SetMatrixZero-Shashank.cpp)
 
 ## Day 6 Problems
 
