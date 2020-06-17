@@ -6,8 +6,7 @@
 **You can connect with me on:**
 
 * [![LinkedIn](https://img.shields.io/badge/connect-%40MantashaShakeel-%230077B5?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/mantasha-shakeel-92109317a/)
-* [![Slack](https://img.shields.io/badge/Slack-Mantasha-yellow)]
-(https://app.slack.com/client/T0145PE3493/C0140D0LQ78/user_profile/U01443BCF8X)
+* [![Slack](https://img.shields.io/badge/Slack-Mantasha-yellow)](https://app.slack.com/client/T0145PE3493/C0140D0LQ78/user_profile/U01443BCF8X)
 
 
 
