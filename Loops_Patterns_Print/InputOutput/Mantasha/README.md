@@ -10,6 +10,7 @@
 
 
 
+
 ## Day 1 Solutions
 
 ### Question 1: Take a I/P number, print its square.
@@ -384,8 +385,3 @@ Explanation: 62 is not present in the matrix, so output is 0.
 
 [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day6/P5_FindNumberPresentInMatrixOrNot.cpp)
 
-* **Name**: *Mantasha Shakeel*
-* **Slack Username**: *Mantasha Shakeel (P)*
-* **Location**: Lucknow , India
-
-*I am a pre-final year engineering student at Institute of Technology and Management , Lucknow. *
