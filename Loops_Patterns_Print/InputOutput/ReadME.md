@@ -343,6 +343,44 @@ Output:
 0
 Explanation: 62 is not present in the matrix, so output is 0.
 ```
+## Day 7- Arrays & Maths & Pointer concepts:
+Note: Try to run your code on the links provided so that you know it passes all corner test cases as well & then upload your soln here.
+
+Task: [Pointer Resources](https://www.youtube.com/playlist?list=PL2_aWCzGMAwLZp6LMUKI3cc7pgGsasm2_)
+
+1. One Missing Number in O(1) space & O(n) time.
+```
+Input: [3,0,1]
+Output: 2
+Input: [9,6,4,2,3,5,7,0,1]
+Output: 8
+```
+Hint: Sum of n natural numbers formula.<br>
+
+2. Find the duplicate in array of N integers. It could be repeated more than once. 
+[Run it here](https://leetcode.com/problems/find-the-duplicate-number/)
+```
+Input: [1,3,4,2,2]
+Output: 2
+Input: [2,2,2,4,2]
+Output: 2
+
+```
+[Reference Soln & learn about Time & Space Complexity of every Approach.](https://leetcode.com/problems/find-the-duplicate-number/solution/)<br>
+
+3. For a given array print Repeating & missing no. in O(1) space & O(n) time. [Run here](https://www.interviewbit.com/problems/repeat-and-missing-number-array/)
+```
+Input:[3 1 2 5 3] 
+Output:[3, 4]
+```
+<br>
+
+4. [Merge 2 sorted arrays without extra space](https://www.interviewbit.com/problems/merge-two-sorted-lists-ii/)<br>
+
+5. [Merge 2 intervals](https://www.interviewbit.com/problems/merge-intervals/)<br>
+
+6. [Merge 2 overlapping intervals](https://www.interviewbit.com/problems/merge-overlapping-intervals/)<br>
+
 ## End of week 1:
 
 [Hackerearth problems Link](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/)
