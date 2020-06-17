@@ -319,7 +319,7 @@ Output:
 The output is 4 4 5 5 6.
 ```
 
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day6/P1_SortArrayAccordingToFrequency.cpp)
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-6/Day-6--SortArrayAccordingToFrequency-Shashank.cpp)
 
 ### Question 2. Given an integer array and a non-negative integer k,count all distinct pairs with difference equal to k, i.e., A[ i ] - A[ j] = k.
 ```
@@ -333,7 +333,7 @@ Output:
 Explanation: There is only one pair with difference 0 i.e (1,1)
 ```
 
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day6/P2_CountDifferenceEqualToK.cpp)
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-6/Day-6--CountDifferenceEqualToK-Shashank.cpp)
 
 ### Question 3. Rahul had a sorted array of numbers from which he had to find a given number quickly. His friend by mistake rotated the array. Now Rahul doesn't have time to sort the elements again. Help him to quickly find the given number from the rotated array.
 Hint: Think Binary search!!
@@ -349,7 +349,7 @@ Input:
  The given rotated array is [4, 5, 1, 2, 3]. The element to be searched is 2 whose index is 3.
  ```
  
- [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day6/P3_RotatedArray.cpp)
+ [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-6/Day-6--RotatedArray-Shashank.cpp)
  
  ### Question 4. Given an integer x. The task is to find the square root of x. If x is not a perfect square, then return floor(√x).
  ```
@@ -362,7 +362,7 @@ Input:
  Since, 5 is not perfect square, so floor of square_root of 5 is 2.
  ```
  
- [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day6/P4_SquareRoot.cpp)
+ [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-6/Day-6-SquareRoot-Shashank.cpp)
  
  ### Question 5. Given a matrix mat[] of size n x m, where every row and column is sorted in increasing order, and a number x is given. The task is to find whether element x is present in the matrix or not.
  Expected Time Complexity: O(m+n)
@@ -377,7 +377,7 @@ Output:
 Explanation: 62 is not present in the matrix, so output is 0.
 ```
 
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day6/P5_FindNumberPresentInMatrixOrNot.cpp)
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-6/Day-6--FindNumberPresentInMatrixOrNot-Shashank.cpp)
 
 
 **You can connect me on:**
