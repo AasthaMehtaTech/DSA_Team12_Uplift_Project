@@ -389,7 +389,7 @@ Explanation: 62 is not present in the matrix, so output is 0.
 ## Day 7- Arrays & Maths & Pointer concepts:
 Note: Try to run your code on the links provided so that you know it passes all corner test cases as well & then upload your soln here.
 
-Task: [Pointer Resources](https://www.youtube.com/playlist?list=PL2_aWCzGMAwLZp6LMUKI3cc7pgGsasm2_)
+Task: [Pointer Resources]
 
 ### 1. One Missing Number in O(1) space & O(n) time.
 ```
