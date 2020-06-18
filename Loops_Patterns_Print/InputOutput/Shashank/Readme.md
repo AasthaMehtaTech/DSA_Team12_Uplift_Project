@@ -456,7 +456,7 @@ Make sure the returned intervals are also sorted.
 **For example:**<br>
 Given `[1,3],[2,6],[8,10],[15,18]`,
 return `[1,6],[8,10],[15,18]`.
-Make sure the returned intervals are sorted
+Make sure the returned intervals are sorted.
 <br>
 
 [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-7/Day-7--MergeAllOverlappingIntervals-Shashank.cpp)
