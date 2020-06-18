@@ -385,4 +385,68 @@ Explanation: 62 is not present in the matrix, so output is 0.
 ```
 
 [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-6/Day-6--FindNumberPresentInMatrixOrNot-Shashank.cpp)
+<br>
+## Day 7- Arrays & Maths & Pointer concepts:
+Note: Try to run your code on the links provided so that you know it passes all corner test cases as well & then upload your soln here.
 
+Task: [Pointer Resources](https://www.youtube.com/playlist?list=PL2_aWCzGMAwLZp6LMUKI3cc7pgGsasm2_)
+
+1. One Missing Number in O(1) space & O(n) time.
+```
+Input: [3,0,1]
+Output: 2
+Input: [9,6,4,2,3,5,7,0,1]
+Output: 8
+```
+Hint: Sum of n natural numbers formula.<br>
+
+2. Find the duplicate in array of N integers. It could be repeated more than once. 
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-7/Day-7--FindDuplicateNumber-Shashank.cpp)
+```
+Input: [1,3,4,2,2]
+Output: 2
+Input: [2,2,2,4,2]
+Output: 2
+
+```
+
+
+3. For a given array print Repeating & missing no. in O(1) space & O(n) time.
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-7/Day-7--RepeatingAndMissing-Shashank.cpp)
+```
+Input:[3 1 2 5 3] 
+Output:[3, 4]
+```
+<br>
+
+4. Given two sorted integer arrays A and B, merge B into A as one sorted array.
+   If the number of elements initialized in A and B are m and n respectively, the resulting size of array A after your code is executed    should be m + n
+ [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-7/Day-7--Merge2SortedArray-Shashank.cpp)
+ ```
+   Input : 
+         A : [1 5 8]
+         B : [6 9]
+
+   Modified A : [1 5 6 8 9]
+```
+
+5. Given a set of non-overlapping intervals, insert a new interval into the intervals (merge if necessary).
+
+You may assume that the intervals were initially sorted according to their start times.
+
+**Example 1:**<br>
+Given intervals [1,3],[6,9] insert and merge [2,5] would result in [1,5],[6,9].
+
+**Example 2:**<br>
+Given `[1,2],[3,5],[6,7],[8,10],[12,16]`, insert and merge `[4,9]` would result in `[1,2],[3,10],[12,16]`.
+This is because the new interval `[4,9]` overlaps with `[3,5],[6,7],[8,10]`.
+Make sure the returned intervals are also sorted.
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-7/Day-7--MergeIntervals-Shashank.cpp)
+
+6. Given a collection of intervals, merge all overlapping intervals.
+
+**For example:**<br>
+Given `[1,3],[2,6],[8,10],[15,18]`,
+return `[1,6],[8,10],[15,18]`.
+Make sure the returned intervals are sorted.
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-7/Day-7--MergeAllOverlappingIntervals-Shashank.cpp)
