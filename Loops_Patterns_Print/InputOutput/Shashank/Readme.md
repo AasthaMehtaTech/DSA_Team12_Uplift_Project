@@ -401,6 +401,8 @@ Output: 8
 Hint: Sum of n natural numbers formula.<br>
 
 2. Find the duplicate in array of N integers. It could be repeated more than once. 
+
+
 [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-7/Day-7--FindDuplicateNumber-Shashank.cpp)
 ```
 Input: [1,3,4,2,2]
@@ -412,6 +414,8 @@ Output: 2
 
 
 3. For a given array print Repeating & missing no. in O(1) space & O(n) time.
+<br>
+
 [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-7/Day-7--RepeatingAndMissing-Shashank.cpp)
 ```
 Input:[3 1 2 5 3] 
@@ -421,6 +425,8 @@ Output:[3, 4]
 
 4. Given two sorted integer arrays A and B, merge B into A as one sorted array.
    If the number of elements initialized in A and B are m and n respectively, the resulting size of array A after your code is executed    should be m + n
+   <br>
+   
  [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-7/Day-7--Merge2SortedArray-Shashank.cpp)
  ```
    Input : 
@@ -441,6 +447,8 @@ Given intervals [1,3],[6,9] insert and merge [2,5] would result in [1,5],[6,9].
 Given `[1,2],[3,5],[6,7],[8,10],[12,16]`, insert and merge `[4,9]` would result in `[1,2],[3,10],[12,16]`.
 This is because the new interval `[4,9]` overlaps with `[3,5],[6,7],[8,10]`.
 Make sure the returned intervals are also sorted.
+<br>
+
 [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-7/Day-7--MergeIntervals-Shashank.cpp)
 
 6. Given a collection of intervals, merge all overlapping intervals.
@@ -449,4 +457,6 @@ Make sure the returned intervals are also sorted.
 Given `[1,3],[2,6],[8,10],[15,18]`,
 return `[1,6],[8,10],[15,18]`.
 Make sure the returned intervals are sorted.
+<br>
+
 [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-7/Day-7--MergeAllOverlappingIntervals-Shashank.cpp)
