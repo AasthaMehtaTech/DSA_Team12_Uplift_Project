@@ -387,8 +387,6 @@ Explanation: 62 is not present in the matrix, so output is 0.
 [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-6/Day-6--FindNumberPresentInMatrixOrNot-Shashank.cpp)
 <br>
 ## Day 7- Arrays & Maths & Pointer concepts:
-Note: Try to run your code on the links provided so that you know it passes all corner test cases as well & then upload your soln here.
-
 
 
 ### 1. One Missing Number in O(1) space & O(n) time.
