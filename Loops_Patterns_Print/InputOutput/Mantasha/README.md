@@ -310,6 +310,25 @@ O/P:
 ```
 
 [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day5/P5_SetMatrixZero.cpp)
+## End of week 1:
+
+[Hackerearth problems Link](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/)
+
+*Choose Filter very-easy, easy then proceed with a bit advanced problems as below.
+
+1. [Roy_Profile_Pic ](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/roy-and-profile-picture/)
+
+2. [BricksMaths](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/bricks-game-5140869d/)
+
+3. [Seat_Arr_Logic](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/seating-arrangement-1/)
+
+4. [Make AP](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/arithmetic-progression-1-81131fa7/)
+
+5. [Split_house](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/split-house-547be0e9/)
+
+## Further
+
+(100 Coding  Problems for future)[https://codeburst.io/100-coding-interview-questions-for-programmers-b1cf74885fb7]
 
 ## Day 6 Problems
 
@@ -384,4 +403,59 @@ Explanation: 62 is not present in the matrix, so output is 0.
 ```
 
 [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day6/P5_FindNumberPresentInMatrixOrNot.cpp)
+
+## Day 7- Arrays & Maths & Pointer concepts:
+Note: Try to run your code on the links provided so that you know it passes all corner test cases as well & then upload your soln here.
+
+Task: [Pointer Resources](https://www.youtube.com/playlist?list=PL2_aWCzGMAwLZp6LMUKI3cc7pgGsasm2_)
+
+ ### Question 1. One Missing Number in O(1) space & O(n) time.
+```
+Input: [3,0,1]
+Output: 2
+Input: [9,6,4,2,3,5,7,0,1]
+Output: 8
+```
+Hint: Sum of n natural numbers formula.<br>
+
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day7/P1_MissingNumber.cpp)
+
+ ### Question 2. Find the duplicate in array of N integers. It could be repeated more than once. 
+[Run it here](https://leetcode.com/problems/find-the-duplicate-number/)
+```
+Input: [1,3,4,2,2]
+Output: 2
+Input: [2,2,2,4,2]
+Output: 2
+
+```
+
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day7/P2_FindTheDuplicateNumber.cpp)
+
+[Reference Soln & learn about Time & Space Complexity of every Approach.](https://leetcode.com/problems/find-the-duplicate-number/solution/)<br>
+
+ ### Question 3. For a given array print Repeating & missing no. in O(1) space & O(n) time. [Run here](https://www.interviewbit.com/problems/repeat-and-missing-number-array/)
+```
+Input:[3 1 2 5 3] 
+Output:[3, 4]
+```
+
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day7/P3_RepeatingAndMissingNumber.cpp)
+
+<br>
+
+ ### Question 4. [Merge 2 sorted arrays without extra space](https://www.interviewbit.com/problems/merge-two-sorted-lists-ii/)<br>
+
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day7/P4_MergeTwoSortedArrayWithoutExtraSpace.cpp)
+
+ ### Question 5. [Merge 2 intervals](https://www.interviewbit.com/problems/merge-intervals/)<br>
+
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day7/P5_MergeTwoInterval.cpp)
+
+ ### Question 6. [Merge 2 overlapping intervals](https://www.interviewbit.com/problems/merge-overlapping-intervals/)<br>
+
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day7/P6_MergeTwoOverlappingIntervals.cpp)
+
+<br>
+
 
