@@ -390,12 +390,19 @@ Explanation: 62 is not present in the matrix, so output is 0.
 
 
 ### 1. One Missing Number in O(1) space & O(n) time.
+Given an array containing n distinct numbers taken from 0, 1, 2, ..., n, find the one that is missing from the array.
 <br>
 
 [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-7/Day-7--MissingNumber-Shashank.cpp)
+
+
+**Example 1:
 ```
 Input: [3,0,1]
 Output: 2
+```
+**Example 2:
+```
 Input: [9,6,4,2,3,5,7,0,1]
 Output: 8
 ```
