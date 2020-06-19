@@ -396,7 +396,6 @@ Output: 2
 Input: [9,6,4,2,3,5,7,0,1]
 Output: 8
 ```
-Hint: Sum of n natural numbers formula.<br>
 
 ### 2. Find the duplicate in array of N integers. It could be repeated more than once. 
 
