@@ -390,6 +390,9 @@ Explanation: 62 is not present in the matrix, so output is 0.
 
 
 ### 1. One Missing Number in O(1) space & O(n) time.
+<br>
+
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-7/Day-7--MissingNumber-Shashank.cpp)
 ```
 Input: [3,0,1]
 Output: 2
@@ -398,7 +401,7 @@ Output: 8
 ```
 
 ### 2. Find the duplicate in array of N integers. It could be repeated more than once. 
-
+<br>
 
 [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-7/Day-7--FindDuplicateNumber-Shashank.cpp)
 ```
