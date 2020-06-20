@@ -492,3 +492,20 @@ emovecchaaefom
 ```
 
 [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-8/Day-8--RemoveCharacter-Shashank.cpp)
+
+### 2. Remove all duplicates from a given string
+
+Given a string which may contains lowercase and uppercase chracters. The task is to remove all  duplicate characters from the string and print the resultant string.  The order of remaining characters in the output should be same as in the original string.
+
+**Example:**
+**Input:**
+```
+2
+geeksforgeeks
+HappyNewYear
+```
+**Output:**
+```
+geksfor
+HapyNewYr
+```
