@@ -381,16 +381,16 @@ Output:[3, 4]
 
 6. [Merge 2 overlapping intervals](https://www.interviewbit.com/problems/merge-overlapping-intervals/)<br>
 
-Now let's Dive into some strings and Character array Problems. 
+Now let's Dive into some strings and Character array Problems. <br> 
 Resources to read from: https://docs.google.com/document/d/1GKOcQCGw3T4kSD0G5dckz1jlJfrWh4ZvXmCW05NGbCE/edit?usp=sharing
 
 
 ## Day 8 Problems
-1. [ Remove character ] (https://practice.geeksforgeeks.org/problems/remove-character/0)
+1. [Remove character] (https://practice.geeksforgeeks.org/problems/remove-character/0)
 2. [Remove all Duplicates from string] (https://practice.geeksforgeeks.org/problems/remove-all-duplicates-from-a-given-string/0)
-3.[ Merge two strings ] (https://practice.geeksforgeeks.org/problems/merge-two-strings/0)
+3.[Merge two strings] (https://practice.geeksforgeeks.org/problems/merge-two-strings/0)
 4. [Anagram] (https://practice.geeksforgeeks.org/problems/anagram/0)
-5. [ Check for subsequence ] (https://practice.geeksforgeeks.org/problems/check-for-subsequence/0)
+5. [Check for subsequence] (https://practice.geeksforgeeks.org/problems/check-for-subsequence/0)
 
 ## End of week 1:
 
