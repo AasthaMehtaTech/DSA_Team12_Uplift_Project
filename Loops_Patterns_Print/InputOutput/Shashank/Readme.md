@@ -475,9 +475,9 @@ Make sure the returned intervals are sorted
 Given two strings s1 and s2, remove those characters from first string which are present in second string. Both the strings are different and contain only lowercase characters.
 
 
-**Example:
+**Example:**
 
-**Input:
+**Input:**
 ```
 2
 geeksforgeeks
@@ -485,7 +485,7 @@ mask
 removeccharaterfrom
 string
 ```
-**Output:
+**Output:**
 ```
 geeforgee
 emovecchaaefom
