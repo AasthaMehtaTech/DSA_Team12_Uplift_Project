@@ -498,6 +498,7 @@ emovecchaaefom
 Given a string which may contains lowercase and uppercase chracters. The task is to remove all  duplicate characters from the string and print the resultant string.  The order of remaining characters in the output should be same as in the original string.
 
 **Example:**
+
 **Input:**
 ```
 2
