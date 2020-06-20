@@ -467,3 +467,28 @@ Make sure the returned intervals are sorted
 <br>
 
 [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-7/Day-7--MergeAllOverlappingIntervals-Shashank.cpp)
+
+## Day 8 Problems Solution
+
+### 1. Remove character
+
+Given two strings s1 and s2, remove those characters from first string which are present in second string. Both the strings are different and contain only lowercase characters.
+
+
+**Example:
+
+**Input:
+```
+2
+geeksforgeeks
+mask
+removeccharaterfrom
+string
+```
+**Output:
+```
+geeforgee
+emovecchaaefom
+```
+
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-8/Day-8--RemoveCharacter-Shashank.cpp)
