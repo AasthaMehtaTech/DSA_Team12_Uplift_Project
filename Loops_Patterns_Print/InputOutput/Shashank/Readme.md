@@ -532,3 +532,24 @@ adbecf
 ```
 
 [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-8/Day-8--MergeTwoStrings-Shashank.cpp)
+
+
+### 4. Anagram
+
+Given two strings a and b consisting of lowercase characters. The task is to check whether two given strings are anagram of each other or not. An anagram of a string is another string that contains same characters, only the order of characters can be different. For example, “act” and “tac” are anagram of each other.
+
+**Example:**
+
+**Input:**
+```
+2
+geeksforgeeks forgeeksgeeks
+allergy allergic
+```
+**Output:**
+```
+YES
+NO
+```
+
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-8/Day-8--Anagram-Shashank.cpp)
