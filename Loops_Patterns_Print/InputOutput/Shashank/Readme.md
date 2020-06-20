@@ -512,3 +512,23 @@ HapyNewYr
 ```
 
 [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-8/Day-8--RemoveAllDupCharacter-Shashank.cpp)
+
+### 3. Merge two strings
+
+Given two strings S1 and S2 as input, the task is to merge them alternatively i.e. the first character of S1 then the first character of S2 and so on till the strings end.
+
+**Example:**
+
+**Input:**
+```
+2
+Hello Bye
+abc def
+```
+**Output:**
+```
+HBeylelo
+adbecf
+```
+
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-8/Day-8--MergeTwoStrings-Shashank.cpp)
