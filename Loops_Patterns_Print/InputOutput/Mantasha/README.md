@@ -445,17 +445,169 @@ Output:[3, 4]
 <br>
 
  ### Question 4. [Merge 2 sorted arrays without extra space](https://www.interviewbit.com/problems/merge-two-sorted-lists-ii/)<br>
+ 
+  Given two sorted integer arrays A and B, merge B into A as one sorted array.
+If the number of elements initialized in A and B are m and n respectively, the resulting size of array A after your code is executed    should be m + n
+   <br>
+   
+ ```
+   Input : 
+         A : [1 5 8]
+         B : [6 9]
+
+   Modified A : [1 5 6 8 9]
+```
 
 [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day7/P4_MergeTwoSortedArrayWithoutExtraSpace.cpp)
 
  ### Question 5. [Merge 2 intervals](https://www.interviewbit.com/problems/merge-intervals/)<br>
 
+Given a set of non-overlapping intervals, insert a new interval into the intervals (merge if necessary).
+
+You may assume that the intervals were initially sorted according to their start times.
+
+**Example 1:**<br>
+Given intervals [1,3],[6,9] insert and merge [2,5] would result in [1,5],[6,9].
+
+**Example 2:**<br>
+Given `[1,2],[3,5],[6,7],[8,10],[12,16]`, insert and merge `[4,9]` would result in `[1,2],[3,10],[12,16]`.
+This is because the new interval `[4,9]` overlaps with `[3,5],[6,7],[8,10]`.
+Make sure the returned intervals are also sorted.
+<br>
+
+
 [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day7/P5_MergeTwoInterval.cpp)
 
  ### Question 6. [Merge 2 overlapping intervals](https://www.interviewbit.com/problems/merge-overlapping-intervals/)<br>
+ 
+  Given a collection of intervals, merge all overlapping intervals.
+
+**For example:**<br>
+Given `[1,3],[2,6],[8,10],[15,18]`,
+return `[1,6],[8,10],[15,18]`.
+Make sure the returned intervals are sorted
+<br>
 
 [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day7/P6_MergeTwoOverlappingIntervals.cpp)
 
 <br>
+Now let's Dive into some strings and Character array Problems. <br> 
+Resources to read from: https://docs.google.com/document/d/1GKOcQCGw3T4kSD0G5dckz1jlJfrWh4ZvXmCW05NGbCE/edit?usp=sharing
+<br>
+
+## Day 8 Problems Solution
+
+### Question 1. Remove character
+[Remove character](https://practice.geeksforgeeks.org/problems/remove-character/0)
+
+Given two strings s1 and s2, remove those characters from first string which are present in second string. Both the strings are different and contain only lowercase characters.
+
+
+**Example:**
+
+**Input:**
+```
+2
+geeksforgeeks
+mask
+removeccharaterfrom
+string
+```
+**Output:**
+```
+geeforgee
+emovecchaaefom
+```
+
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day8/P1_RemoveCharacter.cpp)
+
+### Question 2. Remove all duplicates from a given string
+
+[Remove all Duplicates from string](https://practice.geeksforgeeks.org/problems/remove-all-duplicates-from-a-given-string/0) <br>
+
+Given a string which may contains lowercase and uppercase chracters. The task is to remove all  duplicate characters from the string and print the resultant string.  The order of remaining characters in the output should be same as in the original string.
+
+**Example:**
+
+**Input:**
+```
+2
+geeksforgeeks
+HappyNewYear
+```
+**Output:**
+```
+geksfor
+HapyNewYr
+```
+
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day8/P2_RemoveAllDuplicatesFromString.cpp)
+
+### Question 3. Merge two strings
+
+[Merge two strings](https://practice.geeksforgeeks.org/problems/merge-two-strings/0) <br>
+
+Given two strings S1 and S2 as input, the task is to merge them alternatively i.e. the first character of S1 then the first character of S2 and so on till the strings end.
+
+**Example:**
+
+**Input:**
+```
+2
+Hello Bye
+abc def
+```
+**Output:**
+```
+HBeylelo
+adbecf
+```
+
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day8/P3_MergeTwoStrings.cpp)
+
+
+### Question 4. Anagram
+[Anagram](https://practice.geeksforgeeks.org/problems/anagram/0) 
+
+Given two strings a and b consisting of lowercase characters. The task is to check whether two given strings are anagram of each other or not. An anagram of a string is another string that contains same characters, only the order of characters can be different. For example, “act” and “tac” are anagram of each other.
+
+**Example:**
+
+**Input:**
+```
+2
+geeksforgeeks forgeeksgeeks
+allergy allergic
+```
+**Output:**
+```
+YES
+NO
+```
+
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day8/P4_Anagram.cpp)
+
+
+### Question 5. Check for subsequence
+
+ [Check for subsequence](https://practice.geeksforgeeks.org/problems/check-for-subsequence/0)
+ 
+Given two strings A and B, find if A is a subsequence of B.
+
+**Example:**
+
+**Input:**
+```
+2
+AXY YADXCP
+gksrek geeksforgeeks
+```
+**Output:**
+```
+0
+1
+```
+
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day8/P5_CheckForSubsequence.cpp)
 
 
