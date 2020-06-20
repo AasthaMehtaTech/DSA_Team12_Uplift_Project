@@ -553,3 +553,24 @@ NO
 ```
 
 [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-8/Day-8--Anagram-Shashank.cpp)
+
+
+### 5. Check for subsequence
+
+Given two strings A and B, find if A is a subsequence of B.
+
+**Example:**
+
+**Input:**
+```
+2
+AXY YADXCP
+gksrek geeksforgeeks
+```
+**Output:**
+```
+0
+1
+```
+
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-8/Day-8--CheckForSubsequence-Shashank.cpp)
