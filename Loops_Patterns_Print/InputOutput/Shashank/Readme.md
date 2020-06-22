@@ -231,6 +231,9 @@ Output:
 ```
 
 ### Question 3: Given an array A of size N containing 0s, 1s, and 2s; you need to sort the array in ascending order.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-4/Day-4--SortArray-Zero's-One's-Two's-Shashank.cpp)
+
 ```
 Eg:
 Input:
@@ -239,7 +242,6 @@ Input:
 Output:
 0 0 1 2 2
  ```
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-4/Day-4--SortArray-Zero's-One's-Two's-Shashank.cpp)
 
 ### Question 4: Given an array arr[] and a number K where K is smaller than size of array, the task is to find the Kth smallest element in the given array. It is given that all array elements are distinct.
 ```
