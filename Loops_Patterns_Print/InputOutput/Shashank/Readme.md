@@ -18,34 +18,42 @@
 )
 
 ### Question 2: Take a I/P number, print its table.
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-1/Day-1--Table-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-1/Day-1--Table-Shashank.cpp)
 
 ### Question 3a: Upward Star Triangle with n lines (n: I/P) (Eg: n=3)
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-1/Day-1--UpwardTriangle-Shashank.cpp)
 ```
 *
 * *
 * * *
 ```
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-1/Day-1--UpwardTriangle-Shashank.cpp)
+
 
 ### Question 3b: Upward centered (Eg: n=3)
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-1/Day-1--UpwardCenteredTriangle-Shashank.cpp)
 ```
    *
   * *
  * * *
 ```
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-1/Day-1--UpwardCenteredTriangle-Shashank.cpp)
+
 
 ### Question 4: Downward Star Triangle with n lines (Eg: n=4)
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-1/Day-1--DownwardTriangle-Shashank.cpp)
 ```
  * * * *
  * * *
  * *
  *
 ```
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-1/Day-1--DownwardTriangle-Shashank.cpp)
+
 
 ### Question 5: Kaju Katli (For odd I/P only) (Eg:n=3)
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-1/Day-1--KajuKatli-Shashank.cpp)
 ```
      *
     * *
@@ -53,29 +61,37 @@
     * *
      *
 ```
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-1/Day-1--KajuKatli-Shashank.cpp)
+
 
 ## Day 2 Solutions
 
+
 ### Question 1: Take N(number of rows), print the following pattern (Ex: N=4)
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-2/Day-2--FibonacciPattern-Shashank.cpp)
 ```
     0
     1 1
     2 3 5
     8 13 21 34
  ```
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-2/Day-2--FibonacciPattern-Shashank.cpp)
+
 
 ### Question 2: Take N(number of rows), print following pattern (Ex: N=4)
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-2/Day-2--NumberPattern-Shashank.cpp)
+
   ```
      1           1
      1 2       2 1
      1 2 3   3 2 1
      1 2 3 4 3 2 1
    ```
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-2/Day-2--NumberPattern-Shashank.cpp)
 
 ### Question 3: Take N(number of rows), print following pattern (N=5)
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-2/Day-2--NumberStarPattern-Shashank.cpp)
+
   ```
    1 2 3 4 5
    1 2 3 4 *
@@ -83,26 +99,33 @@
    1 2 * * * * *
    1 * * * * * * *
   ```
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-2/Day-2--NumberStarPattern-Shashank.cpp)
 
 ### Question 4: Take the following as input: number <br>
-   Write a function which returns true if the number is an armstrong number and false otherwise, where Armstrong number is <br>      defined as follows. A positive integer of n digits is called an Armstrong number of order n (order is number of digits) if. <br>
+Write a function which returns true if the number is an armstrong number and false otherwise, where Armstrong number is <br>      defined as follows. A positive integer of n digits is called an Armstrong number of order n (order is number of digits) if. <br>
 abcd… = pow(a,n) + pow(b,n) + pow(c,n) + pow(d,n) + …. <br> <br>
 1634 is an Armstrong number as 1634 = 1^4 + 6^4 + 3^4 + 4^4 <br>
 371 is an Armstrong number as 371 = 3^3 + 7^3 + 1^3 <br>
 OUTPUT: Print boolean output for each testcase. <br>
-"true" if the given number is an Armstrong Number, else print "false". <br> <br>
-Sample Case -
+"true" if the given number is an Armstrong Number, else print "false".
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-2/Day-2--ArmstrongNumber-Shashank.cpp)
+
+
+Sample Case
+```
 Input-371
-Output-true <br> <br>
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-2/Day-2--ArmstrongNumber-Shashank.cpp)
+Output-true
+```
 
 ### Question 5: Given a binary number, find out its decimal representation. For eg 000111 in binary is 7 in decimal. <br>
 Input Format <br>
 The first line contains N , the number of binary numbers. Next N lines contain N integers each representing binary represenation of number. <br>
 Output Format <br>
-N lines,each containing a decimal equivalent of the binary number. <br>
-Sample Input <br>
+N lines,each containing a decimal equivalent of the binary number.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-2/Day-2--DecimalRepresentation-Shashank.cpp)
+
+**Sample Input** 
  ```
      4
      101
@@ -110,18 +133,21 @@ Sample Input <br>
      00110
      111111
 ```
-Sample output <br>
+**Sample output** 
 ```
     5
     15
     6
     63
  ```
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-2/Day-2--DecimalRepresentation-Shashank.cpp)
 
 ## Day 3 Solutions
 
+
 ### Question 1: Take n elements as I/P, print max, min, sum of them.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-3/Day-3--MaxMinSum-Shashank.cpp)
+
 ```
 Eg:
 I/P:
@@ -132,9 +158,11 @@ Max= 5
 Min= 1
 Sum= 15
 ```
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-3/Day-3--MaxMinSum-Shashank.cpp)
 
 ### Question 2: For an I/P array, find sum of squares of each element.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-3/Day-3--SumOfSquares-Shashank.cpp)
+
 ```
 Eg: I/P :
 4
@@ -143,9 +171,11 @@ O/P:
 30
 Explanation :1^2+ 5^2+ 2^2 +2^2=1+25+2+2
 ```
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-3/Day-3--SumOfSquares-Shashank.cpp)
 
 ### Question 3: Build a prefix array from given I/P array.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-3/Day-3--PrefixSumArray-Shashank.cpp)
+
 ```
 Eg:
 I/P :
@@ -155,9 +185,11 @@ O/P :
 1 4 6 11
 Explanation : 1 1+3 1+3+2 1+3+2+5
 ```
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-3/Day-3--PrefixSumArray-Shashank.cpp)
 
 ### Question 4: Find the max absolute difference between 2 consecutive elements of array.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-3/Day-3--MaxAbsoluteDifference-Shashank.cpp)
+
 ```
 Eg:
 I/P :
@@ -167,11 +199,15 @@ O/P :
 3
 Explanation : Differences : |1-3|=2, |3-2|=1, |2-5|=3. MAX DIFFERENCE : 3
 ```
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-3/Day-3--MaxAbsoluteDifference-Shashank.cpp)
+
 
 ## Day 4 Solutions
 
+
 ### Question 1: Given an array A of size N-1 and given that there are numbers from 1 to N with one element missing, the missing number is to be found.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-4/Day-4--MissingNumber-Shashank.cpp)
+
 ```
 Eg:
 Input:
@@ -180,9 +216,11 @@ Input:
 Output:
 9
 ```
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-4/Day-4--MissingNumber-Shashank.cpp)
 
 ### Question 2: Given an array arr of N integers. Find the contiguous sub-array with maximum sum.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-4/Day-4--SubArrayWithMaximumSum-Shashank.cpp)
+
 ```
 Eg:
 Input:
@@ -191,7 +229,6 @@ Input:
 Output:
 9
 ```
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-4/Day-4--SubArrayWithMaximumSum-Shashank.cpp)
 
 ### Question 3: Given an array A of size N containing 0s, 1s, and 2s; you need to sort the array in ascending order.
 ```
