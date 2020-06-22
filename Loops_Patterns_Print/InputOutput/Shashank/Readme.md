@@ -141,6 +141,7 @@ N lines,each containing a decimal equivalent of the binary number.
     63
  ```
 
+
 ## Day 3 Solutions
 
 
@@ -293,6 +294,9 @@ Explanation: 1+2+3+7+5+9+1=28
 ```
 
 ### Question 2.a. Rotate the matrix clock wise by 90 degree
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-5/Day-5--(a)RotateMatrixClockvise(90)-Shashank.cpp)
+
 ```
 I/P: 
 2 3 //no.  of rows & columns
@@ -304,9 +308,11 @@ O/P:
 6 3
 ```
 
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-5/Day-5--(a)RotateMatrixClockvise(90)-Shashank.cpp)
 
 ### Question 2.b. Rotate the matrix anti-clock wise by 90 degree
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-5/Day-5--(b)RotateMatrixAnticlockvise(90)-Shashank.cpp)
+
 ```
 I/P:
 2 3 //no.  of rows & columns
@@ -318,20 +324,22 @@ O/P:
 1 4
 ```
 
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-5/Day-5--(b)RotateMatrixAnticlockvise(90)-Shashank.cpp)
 
-### Question 3. Print clockwise spirally increasing pattern
+### Question 3. [Print clockwise spirally increasing pattern](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/clockwiseSpiral.JPG)
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-5/Day-5--ClockviseSpiralPattern-Shashank.cpp)
+
 ```
 I/P:
 5 // Matrix Dimension: 5x5
 O/P:
 ```
-![Spiral Pattern](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/clockwiseSpiral.JPG)
-<br>
 
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-5/Day-5--ClockviseSpiralPattern-Shashank.cpp)
 
 ### Question 4. Traverse Matrix Spirally.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-5/Day-5--TraverseMatrixSpirally-Shashank.cpp)
+
 ```
 Input:  1    2   3   4
         5    6   7   8
@@ -340,10 +348,11 @@ Input:  1    2   3   4
 Output: 1 2 3 4 8 12 16 15 14 13 9 5 6 7 11 10 
 ```
 
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-5/Day-5--TraverseMatrixSpirally-Shashank.cpp)
 
 ### Question 5. Given a matrix, A of size M x N of 0s and 1s. If an element is 0, set its entire row and column to 0.
-[For extra description visit here](https://www.interviewbit.com/problems/set-matrix-zeros/)
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-5/Day-5--SetMatrixZero-Shashank.cpp)
+
 ```
 I/P:
 [1, 0, 1],
@@ -355,12 +364,16 @@ O/P:
 [1, 0, 1],
 [0, 0, 0]
 ```
+[For extra description click here](https://www.interviewbit.com/problems/set-matrix-zeros/)
 
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-5/Day-5--SetMatrixZero-Shashank.cpp)
+
 
 ## Day 6 Problems
 
 ### Question 1. Given an array of integers, sort the array according to frequency of elements. That is elements that have higher frequency come first. If frequencies of two elements are same, then smaller number comes first.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-6/Day-6--SortArrayAccordingToFrequency-Shashank.cpp)
+
 ```
 Eg:
 Input:
@@ -372,9 +385,11 @@ Output:
 The output is 4 4 5 5 6.
 ```
 
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-6/Day-6--SortArrayAccordingToFrequency-Shashank.cpp)
 
 ### Question 2. Given an integer array and a non-negative integer k,count all distinct pairs with difference equal to k, i.e., A[ i ] - A[ j] = k.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-6/Day-6--CountDifferenceEqualToK-Shashank.cpp)
+
 ```
 Ex:
 Input:
@@ -386,10 +401,11 @@ Output:
 Explanation: There is only one pair with difference 0 i.e (1,1)
 ```
 
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-6/Day-6--CountDifferenceEqualToK-Shashank.cpp)
 
 ### Question 3. Rahul had a sorted array of numbers from which he had to find a given number quickly. His friend by mistake rotated the array. Now Rahul doesn't have time to sort the elements again. Help him to quickly find the given number from the rotated array.
-Hint: Think Binary search!!
+
+####  [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-6/Day-6--RotatedArray-Shashank.cpp)
+
 ```
 Eg:
 Input:
@@ -402,9 +418,11 @@ Input:
  The given rotated array is [4, 5, 1, 2, 3]. The element to be searched is 2 whose index is 3.
  ```
  
- [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-6/Day-6--RotatedArray-Shashank.cpp)
  
- ### Question 4. Given an integer x. The task is to find the square root of x. If x is not a perfect square, then return floor(√x).
+### Question 4. Given an integer x. The task is to find the square root of x. If x is not a perfect square, then return floor(√x).
+ 
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-6/Day-6-SquareRoot-Shashank.cpp)
+ 
  ```
  Eg:
  Input:
@@ -415,9 +433,11 @@ Input:
  Since, 5 is not perfect square, so floor of square_root of 5 is 2.
  ```
  
- [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-6/Day-6-SquareRoot-Shashank.cpp)
  
- ### Question 5. Given a matrix mat[] of size n x m, where every row and column is sorted in increasing order, and a number x is given. The task is to find whether element x is present in the matrix or not.
+### Question 5. Given a matrix mat[] of size n x m, where every row and column is sorted in increasing order, and a number x is given. The task is to find whether element x is present in the matrix or not.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-6/Day-6--FindNumberPresentInMatrixOrNot-Shashank.cpp)
+
  Expected Time Complexity: O(m+n)
  ```
  Eg: 
@@ -430,7 +450,6 @@ Output:
 Explanation: 62 is not present in the matrix, so output is 0.
 ```
 
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-6/Day-6--FindNumberPresentInMatrixOrNot-Shashank.cpp)
 <br>
 ## Day 7- Arrays & Maths & Pointer concepts:
 
@@ -439,7 +458,7 @@ Explanation: 62 is not present in the matrix, so output is 0.
 Given an array containing n distinct numbers taken from 0, 1, 2, ..., n, find the one that is missing from the array.
 <br>
 
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-7/Day-7--MissingNumber-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-7/Day-7--MissingNumber-Shashank.cpp)
 
 
 **Example 1:**
