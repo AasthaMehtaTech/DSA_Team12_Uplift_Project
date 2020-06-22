@@ -259,6 +259,9 @@ Explanation:3rd smallest element in the given array is 7.
 ```
 
 ### Question 5: Take as input N, the size of array. Take N more inputs and store that in an array. Take as input “target”, a number. Write a Program which prints all pairs of numbers which sum to target.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-4/Day-4--PairEqualToSum-Shashank.cpp)
+
 ```
 Eg:
 Input:
@@ -270,11 +273,14 @@ Output:
 2 and 3
 Explanation: Find any pair of elements in the array which has sum equal to target element and print them.
 ```
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-4/Day-4--PairEqualToSum-Shashank.cpp)
+
 
 ## Day 5 Solutions( 2D Arrays )
 
 ### Question 1: Find Zigzag Sum (For Square Matrices Only)
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-5/Day-4--ZigZigSum-Shashank.cpp)
+
 ```
 I/P:
 3
@@ -285,7 +291,6 @@ O/P :
 28
 Explanation: 1+2+3+7+5+9+1=28
 ```
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-5/Day-4--ZigZigSum-Shashank.cpp)
 
 ### Question 2.a. Rotate the matrix clock wise by 90 degree
 ```
