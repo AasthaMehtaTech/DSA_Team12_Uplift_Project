@@ -244,6 +244,9 @@ Output:
  ```
 
 ### Question 4: Given an array arr[] and a number K where K is smaller than size of array, the task is to find the Kth smallest element in the given array. It is given that all array elements are distinct.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-4/Day-4--KthSmallestElement-Shashank.cpp)
+ 
 ```
 Eg:
 Input:
@@ -254,7 +257,6 @@ Output:
 7
 Explanation:3rd smallest element in the given array is 7.
 ```
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-4/Day-4--KthSmallestElement-Shashank.cpp)
 
 ### Question 5: Take as input N, the size of array. Take N more inputs and store that in an array. Take as input “target”, a number. Write a Program which prints all pairs of numbers which sum to target.
 ```
