@@ -574,3 +574,28 @@ gksrek geeksforgeeks
 ```
 
 [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-8/Day-8--CheckForSubsequence-Shashank.cpp)
+
+
+## Day 9 Problems Solution
+
+### 1. Reverse Integer
+
+Given a 32-bit signed integer, reverse digits of an integer.
+
+**Example 1:**
+```
+Input: 123
+Output: 321
+```
+**Example 2:**
+```
+Input: -123
+Output: -321
+```
+**Example 3:**
+```
+Input: 120
+Output: 21
+```
+
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-9/Day-9--ReverseInteger-Shashank.cpp)
