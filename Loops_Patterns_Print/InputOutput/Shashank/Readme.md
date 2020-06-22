@@ -601,7 +601,7 @@ Output: 21
 [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-9/Day-9--ReverseInteger-Shashank.cpp)
 
 
-### 2. Valid Palindrome
+### 2. [Valid Palindrome](https://leetcode.com/explore/featured/card/top-interview-questions-easy/127/strings/883/)
 
 Given a string, determine if it is a palindrome, considering only alphanumeric characters and ignoring cases.
 **Note:** For the purpose of this problem, we define empty string as valid palindrome.
