@@ -578,7 +578,7 @@ gksrek geeksforgeeks
 
 ## Day 9 Problems Solution
 
-### 1. Reverse Integer
+### 1. [Reverse Integer](https://leetcode.com/explore/featured/card/top-interview-questions-easy/127/strings/880/)
 
 Given a 32-bit signed integer, reverse digits of an integer.
 
