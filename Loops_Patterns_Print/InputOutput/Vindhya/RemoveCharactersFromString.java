@@ -15,8 +15,8 @@ public class Remove {
   static void removeele(String s1,String s2)
   {
 	  HashMap<Character,Integer> map = new HashMap<>();
-	  int size = s1.length();
-	  char y [] = s1.toCharArray();
+	  int size = s2.length();
+	  char y [] = s2.toCharArray();
 	 int i=0;
 	 while(i!=size)
 	 {
@@ -34,8 +34,8 @@ public class Remove {
 	 }
 	 int j=0;
 	 char currKey;
-	 int size2 = s2.length();
-	 char x[] = s2.toCharArray();
+	 int size2 = s1.length();
+	 char x[] = s1.toCharArray();
 	 String res = "";
 	 while(j!=size2)
 	 {
