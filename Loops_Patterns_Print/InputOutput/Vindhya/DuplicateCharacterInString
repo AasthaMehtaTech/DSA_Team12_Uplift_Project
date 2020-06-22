@@ -1,0 +1,45 @@
+import java.util.LinkedHashMap;
+import java.util.Map;
+import java.util.*;
+public class Duplicates {
+
+	public static void main(String[] args) 
+	{
+		// TODO Auto-generated method stub
+		String s = "geeksforgeeks";
+		char y[] = s.toCharArray();
+		int size = y.length;
+		Map <Character,Integer>map = new LinkedHashMap<>();
+		int i=0;
+		while(i!=size)
+		{
+			if(map.containsKey(y[i])==false)
+			{
+				 map.put(y[i],1);
+			}
+			else
+			{
+				int oldval = map.get(y[i]);
+				int newval = oldval + 1;
+				map.put(y[i], newval);
+			}
+			i++;
+		}
+		
+		String res = "";
+		for(Map.Entry<Character, Integer>data: map.entrySet())
+		{
+			res += data.getKey();
+		}
+		System.out.println(res);
+	}
+  
+}
+
+/*
+ * Hash map stores the data in random order
+ * linked hash map data is stored in the order in which user gives input
+ * Tree map data stored in the alphabetical order
+ * In map always keys are unique only values are different
+ * 
+ */
