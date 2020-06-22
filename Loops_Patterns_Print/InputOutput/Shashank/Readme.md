@@ -407,56 +407,76 @@ Input: [9,6,4,2,3,5,7,0,1]
 Output: 8
 ```
 
-### 2. Find the duplicate in array of N integers. It could be repeated more than once. 
-<br>
+### 2. [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+Given an array nums containing n + 1 integers where each integer is between 1 and n (inclusive), prove that at least one duplicate number must exist. Assume that there is only one duplicate number, find the duplicate one.
 
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-7/Day-7--FindDuplicateNumber-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-7/Day-7--FindDuplicateNumber-Shashank.cpp)
+
+**Example 1:**
 ```
 Input: [1,3,4,2,2]
 Output: 2
-Input: [2,2,2,4,2]
-Output: 2
-
+```
+**Example 2:**
+```
+Input: [3,1,3,4,2]
+Output: 3
 ```
 
 
-### 3. For a given array print Repeating & missing no. in O(1) space & O(n) time.
-<br>
 
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-7/Day-7--RepeatingAndMissing-Shashank.cpp)
+
+### 3. [Repeat and Missing Number Array](https://www.interviewbit.com/problems/repeat-and-missing-number-array/#_=_)
+
+You are given a read only array of n integers from 1 to n.
+Each integer appears exactly once except A which appears twice and B which is missing.
+Return A and B.
+**Note:** Your algorithm should have a linear runtime complexity. Could you implement it without using extra memory?
+**Note:** That in your output A should precede B.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-7/Day-7--RepeatingAndMissing-Shashank.cpp)
+
+**Example:**
 ```
 Input:[3 1 2 5 3] 
-Output:[3, 4]
+Output:[3, 4] 
+-----------------
+A = 3, B = 4
 ```
-<br>
 
-### 4. Given two sorted integer arrays A and B, merge B into A as one sorted array.
-If the number of elements initialized in A and B are m and n respectively, the resulting size of array A after your code is executed    should be m + n
-   <br>
+
+### 4. [Merge Two Sorted Lists](https://www.interviewbit.com/problems/merge-two-sorted-lists-ii/)
+Given two sorted integer arrays A and B, merge B into A as one sorted array. If the number of elements initialized in A and B are m and n respectively, the resulting size of array A after your code is executed should be `m + n`   
    
- [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-7/Day-7--Merge2SortedArray-Shashank.cpp)
- ```
-   Input : 
-         A : [1 5 8]
-         B : [6 9]
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-7/Day-7--Merge2SortedArray-Shashank.cpp)
 
-   Modified A : [1 5 6 8 9]
+**Example :**
+```
+Input : 
+     A : [1 5 8]
+     B : [6 9]
+
+Modified A : [1 5 6 8 9]
 ```
 
-### 5. Given a set of non-overlapping intervals, insert a new interval into the intervals (merge if necessary).
+### 5. [Merge Intervals](https://www.interviewbit.com/problems/merge-intervals/)
 
-You may assume that the intervals were initially sorted according to their start times.
+Given a set of non-overlapping intervals, insert a new interval into the intervals (merge if necessary).
+*You may assume that the intervals were initially sorted according to their start times.*
 
-**Example 1:**<br>
-Given intervals [1,3],[6,9] insert and merge [2,5] would result in [1,5],[6,9].
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-7/Day-7--MergeIntervals-Shashank.cpp)
 
-**Example 2:**<br>
+**Example 1:**
+
+Given intervals `[1,3],[6,9]` insert and merge `[2,5]` would result in `[1,5],[6,9]`.
+
+**Example 2:**
+
 Given `[1,2],[3,5],[6,7],[8,10],[12,16]`, insert and merge `[4,9]` would result in `[1,2],[3,10],[12,16]`.
 This is because the new interval `[4,9]` overlaps with `[3,5],[6,7],[8,10]`.
 Make sure the returned intervals are also sorted.
-<br>
 
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-7/Day-7--MergeIntervals-Shashank.cpp)
+
 
 ### 6. Given a collection of intervals, merge all overlapping intervals.
 
