@@ -392,6 +392,13 @@ Resources to read from: https://docs.google.com/document/d/1GKOcQCGw3T4kSD0G5dck
 4. [Anagram](https://practice.geeksforgeeks.org/problems/anagram/0) 
 5. [Check for subsequence](https://practice.geeksforgeeks.org/problems/check-for-subsequence/0)
 
+## Day 9 Problems
+1. [Reverse Integer](https://leetcode.com/explore/featured/card/top-interview-questions-easy/127/strings/880/)
+2. [Valid Palindrome](https://leetcode.com/explore/featured/card/top-interview-questions-easy/127/strings/883/) <br>
+3. [String to Integer](https://leetcode.com/explore/featured/card/top-interview-questions-easy/127/strings/884/) <br>
+4. [Count and Say](https://leetcode.com/explore/featured/card/top-interview-questions-easy/127/strings/886/)  <br>
+5. [Longest Common Prefix](https://leetcode.com/explore/featured/card/top-interview-questions-easy/127/strings/887/) <br>
+
 ## End of week 1:
 
 [Hackerearth problems Link](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/)
