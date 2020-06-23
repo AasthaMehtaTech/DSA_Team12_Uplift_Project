@@ -545,19 +545,23 @@ Make sure the returned intervals are also sorted.
 
 ### 6. Given a collection of intervals, merge all overlapping intervals.
 
-**For example:**<br>
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-7/Day-7--MergeAllOverlappingIntervals-Shashank.cpp)
+
+
+**For example:**
 Given `[1,3],[2,6],[8,10],[15,18]`,
 return `[1,6],[8,10],[15,18]`.
 Make sure the returned intervals are sorted
-<br>
 
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-7/Day-7--MergeAllOverlappingIntervals-Shashank.cpp)
+
 
 ## Day 8 Problems Solution
 
-### 1. Remove character
+### 1. [Remove character](https://practice.geeksforgeeks.org/problems/remove-character/0)
 
 Given two strings s1 and s2, remove those characters from first string which are present in second string. Both the strings are different and contain only lowercase characters.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-8/Day-8--RemoveCharacter-Shashank.cpp)
 
 
 **Example:**
@@ -576,11 +580,13 @@ geeforgee
 emovecchaaefom
 ```
 
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-8/Day-8--RemoveCharacter-Shashank.cpp)
 
-### 2. Remove all duplicates from a given string
+### 2. [Remove all duplicates from a given string](https://practice.geeksforgeeks.org/problems/remove-all-duplicates-from-a-given-string/0)
 
 Given a string which may contains lowercase and uppercase chracters. The task is to remove all  duplicate characters from the string and print the resultant string.  The order of remaining characters in the output should be same as in the original string.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-8/Day-8--RemoveAllDupCharacter-Shashank.cpp)
+
 
 **Example:**
 
@@ -596,11 +602,12 @@ geksfor
 HapyNewYr
 ```
 
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-8/Day-8--RemoveAllDupCharacter-Shashank.cpp)
 
-### 3. Merge two strings
+### 3. [Merge two strings](https://practice.geeksforgeeks.org/problems/merge-two-strings/0)
 
 Given two strings S1 and S2 as input, the task is to merge them alternatively i.e. the first character of S1 then the first character of S2 and so on till the strings end.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-8/Day-8--MergeTwoStrings-Shashank.cpp)
 
 **Example:**
 
@@ -616,12 +623,13 @@ HBeylelo
 adbecf
 ```
 
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-8/Day-8--MergeTwoStrings-Shashank.cpp)
 
 
-### 4. Anagram
+### 4. [Anagram](https://practice.geeksforgeeks.org/problems/anagram/0)
 
 Given two strings a and b consisting of lowercase characters. The task is to check whether two given strings are anagram of each other or not. An anagram of a string is another string that contains same characters, only the order of characters can be different. For example, “act” and “tac” are anagram of each other.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-8/Day-8--Anagram-Shashank.cpp)
 
 **Example:**
 
@@ -637,12 +645,13 @@ YES
 NO
 ```
 
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-8/Day-8--Anagram-Shashank.cpp)
 
 
-### 5. Check for subsequence
+### 5. [Check for subsequence](https://practice.geeksforgeeks.org/problems/check-for-subsequence/0)
 
 Given two strings A and B, find if A is a subsequence of B.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-8/Day-8--CheckForSubsequence-Shashank.cpp)
 
 **Example:**
 
@@ -658,7 +667,6 @@ gksrek geeksforgeeks
 1
 ```
 
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-8/Day-8--CheckForSubsequence-Shashank.cpp)
 
 
 ## Day 9 Problems Solution
@@ -666,6 +674,8 @@ gksrek geeksforgeeks
 ### 1. [Reverse Integer](https://leetcode.com/explore/featured/card/top-interview-questions-easy/127/strings/880/)
 
 Given a 32-bit signed integer, reverse digits of an integer.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-9/Day-9--ReverseInteger-Shashank.cpp)
 
 **Example 1:**
 ```
@@ -683,13 +693,15 @@ Input: 120
 Output: 21
 ```
 
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-9/Day-9--ReverseInteger-Shashank.cpp)
 
 
 ### 2. [Valid Palindrome](https://leetcode.com/explore/featured/card/top-interview-questions-easy/127/strings/883/)
 
 Given a string, determine if it is a palindrome, considering only alphanumeric characters and ignoring cases.
 **Note:** For the purpose of this problem, we define empty string as valid palindrome.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-9/Day-9--ValidPlindrome-Shashank.cpp)
+
 
 **Example 1:**
 ```
@@ -702,7 +714,6 @@ Input: "race a car"
 Output: false
 ```
 
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-9/Day-9--ValidPlindrome-Shashank.cpp)
 
 
 ### 3. [String To Integer](https://leetcode.com/explore/featured/card/top-interview-questions-easy/127/strings/884/)
