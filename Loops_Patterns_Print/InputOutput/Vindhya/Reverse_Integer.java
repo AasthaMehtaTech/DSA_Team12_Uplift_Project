@@ -25,5 +25,4 @@ public class reverse {
 			System.out.println(reverse(n));
 
 	}
-
 }
