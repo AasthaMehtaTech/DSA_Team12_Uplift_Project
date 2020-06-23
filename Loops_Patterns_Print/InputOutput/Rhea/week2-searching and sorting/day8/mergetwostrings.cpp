@@ -1,7 +1,15 @@
 #include<bits/stdc++.h>
 using namespace std;
-void ans(string s1,string s2){
-    int a=s1.length();
+int main(){
+    int t;
+    cin>>t;
+    while(t--)
+    {
+        string s1;
+        string s2;
+        cin>>s1;
+        cin>>s2;
+        int a=s1.length();
     int b=s2.length();
 
    int i1=0;
@@ -33,18 +41,6 @@ void ans(string s1,string s2){
             }
 
         }
-
-}
-int main(){
-    int t;
-    cin>>t;
-    while(t--)
-    {
-        string s1;
-        string s2;
-        cin>>s1;
-        cin>>s2;
-        ans(s1,s2);
         cout<<endl;
     }
 
