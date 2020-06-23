@@ -611,3 +611,157 @@ gksrek geeksforgeeks
 [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day8/P5_CheckForSubsequence.cpp)
 
 
+## Day 9 Problems Solution
+
+### 1. [Reverse Integer](https://leetcode.com/explore/featured/card/top-interview-questions-easy/127/strings/880/)
+
+Given a 32-bit signed integer, reverse digits of an integer.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day9/P1_ReverseInteger.cpp)
+
+**Example 1:**
+```
+Input: 123
+Output: 321
+```
+**Example 2:**
+```
+Input: -123
+Output: -321
+```
+**Example 3:**
+```
+Input: 120
+Output: 21
+```
+
+
+
+### 2. [Valid Palindrome](https://leetcode.com/explore/featured/card/top-interview-questions-easy/127/strings/883/)
+
+Given a string, determine if it is a palindrome, considering only alphanumeric characters and ignoring cases.
+**Note:** For the purpose of this problem, we define empty string as valid palindrome.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day9/P2_ValidPalindrome.cpp)
+
+
+**Example 1:**
+```
+Input: "A man, a plan, a canal: Panama"
+Output: true
+```
+**Example 2:**
+```
+Input: "race a car"
+Output: false
+```
+
+
+
+### 3. [String To Integer](https://leetcode.com/explore/featured/card/top-interview-questions-easy/127/strings/884/)
+
+Implement `atoi` which converts a string to an integer.
+
+The function first discards as many whitespace characters as necessary until the first non-whitespace character is found. Then, starting from this character, takes an optional initial plus or minus sign followed by as many numerical digits as possible, and interprets them as a numerical value.
+
+The string can contain additional characters after those that form the integral number, which are ignored and have no effect on the behavior of this function.
+
+If the first sequence of non-whitespace characters in str is not a valid integral number, or if no such sequence exists because either str is empty or it contains only whitespace characters, no conversion is performed.
+
+If no valid conversion could be performed, a zero value is returned.
+
+**Note:**
+
+Only the space character ' ' is considered as whitespace character.
+Assume we are dealing with an environment which could only store integers within the 32-bit signed integer range: [−2^31,  2^31 − 1]. If the numerical value is out of the range of representable values, INT_MAX (2^31 − 1) or INT_MIN (−2^31) is returned.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day9/P3_StringToInteger.cpp)
+**Example 1:**
+```
+Input: "42"
+Output: 42
+```
+**Example 2:**
+```
+Input: "   -42"
+Output: -42
+Explanation: The first non-whitespace character is '-', which is the minus sign.
+             Then take as many numerical digits as possible, which gets 42.
+```                 
+**Example 3:**
+```
+Input: "4193 with words"
+Output: 4193
+Explanation: Conversion stops at digit '3' as the next character is not a numerical digit.
+```
+**Example 4:**
+```
+Input: "words and 987"
+Output: 0
+Explanation: The first non-whitespace character is 'w', which is not a numerical 
+             digit or a +/- sign. Therefore no valid conversion could be performed.
+```    
+**Example 5:**
+```
+Input: "-91283472332"
+Output: -2147483648
+Explanation: The number "-91283472332" is out of the range of a 32-bit signed integer.
+             Thefore INT_MIN (−231) is returned.
+```
+
+
+### 4. [Count And Say](https://leetcode.com/explore/featured/card/top-interview-questions-easy/127/strings/886/)
+
+The count-and-say sequence is the sequence of integers with the first five terms as following:
+```
+1.     1
+2.     11
+3.     21
+4.     1211
+5.     111221
+```
+```
+1 is read off as "one 1" or 11.
+11 is read off as "two 1s" or 21.
+21 is read off as "one 2, then "one 1" or 1211.
+```
+
+Given an integer n where 1 ≤ n ≤ 30, generate the nth term of the count-and-say sequence. You can do so recursively, in other words from the previous member read off the digits, counting the number of digits in groups of the same digit.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day9/P4_CountAndSay.cpp)
+
+**Example 1:**
+```
+Input: 1
+Output: "1"
+Explanation: This is the base case.
+```
+**Example 2:**
+```
+Input: 4
+Output: "1211"
+Explanation: For n = 3 the term was "21" in which we have two groups "2" and "1", "2" can be read as "12" which means frequency = 1 and value = 2, the same way "1" is read as "11", so the answer is the concatenation of "12" and "11" which is "1211".
+```
+**Note:** Each term of the sequence of integers will be represented as a string.
+
+
+### 5. [Longest Common Prefix](https://leetcode.com/explore/featured/card/top-interview-questions-easy/127/strings/887/)
+
+Write a function to find the longest common prefix string amongst an array of strings.
+
+If there is no common prefix, return an empty string `""`.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day9/P5_LongestCommonPrefix.cpp)
+
+**Example 1:**
+```
+Input: ["flower","flow","flight"]
+Output: "fl"
+```
+**Example 2:**
+```
+Input: ["dog","racecar","car"]
+Output: ""
+Explanation: There is no common prefix among the input strings.
+```
+**Note:**  All given inputs are in lowercase letters a-z.
