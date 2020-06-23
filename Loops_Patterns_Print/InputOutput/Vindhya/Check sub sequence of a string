@@ -1,0 +1,35 @@
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+
+class GFG {
+	public static void main (String[] args) 
+	{
+	    
+	        Scanner sc = new Scanner(System.in);
+	        int T = sc.nextInt();
+	        for(int i=0;i<T;i++)
+	        {
+	            String s1 = sc.next();
+	            String s2 = sc.next();
+	            int k=0,j=0;
+	            while(k<s1.length()&&j<s2.length())
+	            {
+	                if(s1.charAt(k)==s2.charAt(j))
+	                {
+	                    k++;
+	                }
+	                j++;
+	            }
+	            if(k==s1.length())
+	            {
+	                System.out.println(1);
+	            }
+	            else
+	            {
+	                System.out.println(0);
+	            }
+	        }
+	 }       
+
+}
