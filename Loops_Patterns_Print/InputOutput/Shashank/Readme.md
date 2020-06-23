@@ -454,9 +454,10 @@ Explanation: 62 is not present in the matrix, so output is 0.
 ## Day 7- Arrays & Maths & Pointer concepts:
 
 
-### 1. One Missing Number in O(1) space & O(n) time.
+### 1. [Missing Number](https://leetcode.com/problems/missing-number/)
+
 Given an array containing n distinct numbers taken from 0, 1, 2, ..., n, find the one that is missing from the array.
-<br>
+
 
 #### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-7/Day-7--MissingNumber-Shashank.cpp)
 
@@ -543,7 +544,7 @@ Make sure the returned intervals are also sorted.
 
 
 
-### 6. Given a collection of intervals, merge all overlapping intervals.
+### 6. [Merge Overlapping Intervals](https://www.interviewbit.com/problems/merge-overlapping-intervals/)
 
 #### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-7/Day-7--MergeAllOverlappingIntervals-Shashank.cpp)
 
