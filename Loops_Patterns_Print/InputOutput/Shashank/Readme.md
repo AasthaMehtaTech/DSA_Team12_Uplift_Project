@@ -897,3 +897,23 @@ t = "add"
 ```
 true
 ```
+
+### 4. [Pangram Strings](https://practice.geeksforgeeks.org/problems/pangram-strings/0)
+
+Check if the given string S is a Panagram or not. A pangram is a sentence containing every letter in the English Alphabet.
+
+**Example :** The quick brown fox jumps over the lazy dog ” is a Pangram [Contains all the characters from ‘a’ to ‘z’]
+ 
+ #### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-10/Day-10--PangramStrings-Shashank.cpp)
+
+**Input**
+```
+The first line of input contains an integer T denoting the number of test cases. Then T test cases follow. 
+The first line of each test case contains a case insensitvie string S.
+```
+**Note:** The input string can contain whitespaces.
+
+**Output**
+```
+For each test case T print in a new line 1 if the string is pangram else print 0.
+```
