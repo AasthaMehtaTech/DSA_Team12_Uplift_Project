@@ -921,9 +921,9 @@ For each test case T print in a new line 1 if the string is pangram else print 0
 ### 5. [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
 
 Given an input string, reverse the string word by word.
-
  
-
+ #### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-10/Day-10--ReverseWordString-Shashank.cpp)
+ 
 **Example 1:**
 
 **Input:** 
