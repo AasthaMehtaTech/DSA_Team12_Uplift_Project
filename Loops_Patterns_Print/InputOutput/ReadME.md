@@ -399,6 +399,13 @@ Resources to read from: https://docs.google.com/document/d/1GKOcQCGw3T4kSD0G5dck
 4. [Count and Say](https://leetcode.com/explore/featured/card/top-interview-questions-easy/127/strings/886/)  <br>
 5. [Longest Common Prefix](https://leetcode.com/explore/featured/card/top-interview-questions-easy/127/strings/887/) <br>
 
+## Day 10 Problems
+1. [Check if string is rotated by two places](https://practice.geeksforgeeks.org/problems/check-if-string-is-rotated-by-two-places/0) <br>
+2.[Permutation in String](https://leetcode.com/problems/permutation-in-string/) <br>
+3.[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) <br>
+4.[ Pangram Strings](https://practice.geeksforgeeks.org/problems/pangram-strings/0) <br>
+5.[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) <br>
+
 ## End of week 1:
 
 [Hackerearth problems Link](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/)
