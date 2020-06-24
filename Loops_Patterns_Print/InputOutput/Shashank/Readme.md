@@ -917,3 +917,20 @@ The first line of each test case contains a case insensitvie string S.
 ```
 For each test case T print in a new line 1 if the string is pangram else print 0.
 ```
+
+### 5. [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
+
+Given an input string, reverse the string word by word.
+
+ 
+
+**Example 1:**
+
+**Input:** 
+```
+"the sky is blue"
+```
+**Output:**
+```
+"blue is sky the"
+```
