@@ -825,3 +825,35 @@ Output: ""
 Explanation: There is no common prefix among the input strings.
 ```
 **Note:**  All given inputs are in lowercase letters a-z.
+
+
+## Day 10 Problems
+
+
+### 1. [Check if string is rotated by two places](https://practice.geeksforgeeks.org/problems/check-if-string-is-rotated-by-two-places/0)
+
+Given two strings a and b. The task is to find if a string 'a' can be obtained by rotating another string 'b' by 2 places.
+**Input:**
+The first line of input contains an integer T denoting the no of test cases. Then T test cases follow. In the next two line are two string a and b.
+**Output:**
+For each test case in a new line print 1 if the string 'a' can be obtained by rotating string 'b' by two places else print 0.
+
+*Constraints:*
+1 <= T <= 50
+1 <= length of a, b < 100
+
+**Example:**
+
+**Input:**
+```
+2
+amazon
+azonam
+geeksforgeeks
+geeksgeeksfor
+```
+**Output:**
+```
+1
+0
+```
