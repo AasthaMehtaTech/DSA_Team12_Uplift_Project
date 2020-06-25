@@ -765,3 +765,114 @@ Output: ""
 Explanation: There is no common prefix among the input strings.
 ```
 **Note:**  All given inputs are in lowercase letters a-z.
+
+## Day 10 Problems
+
+
+### 1. [Check if string is rotated by two places](https://practice.geeksforgeeks.org/problems/check-if-string-is-rotated-by-two-places/0)
+
+Given two strings a and b. The task is to find if a string 'a' can be obtained by rotating another string 'b' by 2 places.
+**Input:**
+The first line of input contains an integer T denoting the no of test cases. Then T test cases follow. In the next two line are two string a and b.
+**Output:**
+For each test case in a new line print 1 if the string 'a' can be obtained by rotating string 'b' by two places else print 0.
+
+*Constraints:*
+1 <= T <= 50
+1 <= length of a, b < 100
+
+#### [My Solution]
+(https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day-10/
+P1_CheckStringRotatedByTwoPlaces.cpp)
+
+**Example:**
+
+**Input:**
+```
+2
+amazon
+azonam
+geeksforgeeks
+geeksgeeksfor
+```
+**Output:**
+```
+1
+0
+```
+
+### 2. [Permutation in String](https://leetcode.com/problems/permutation-in-string/)
+
+Given two strings s1 and s2, write a function to return true if s2 contains the permutation of s1. In other words, one of the first string's permutations is the substring of the second string.
+
+ #### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day-10/P2_PermutationInString.cpp)
+
+**Example 1:**
+
+**Input:**
+```
+s1 = "ab" s2 = "eidbaooo"
+```
+**Output:**
+```
+True
+Explanation: s2 contains one permutation of s1 ("ba").
+```
+
+### 3. [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
+
+Given two strings s and t, determine if they are isomorphic.
+Two strings are isomorphic if the characters in s can be replaced to get t.
+All occurrences of a character must be replaced with another character while preserving the order of characters. No two characters may map to the same character but a character may map to itself.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day-10/P3_IsomorphicStrings.cpp)
+
+**Example 1:**
+
+**Input:**
+```
+s = "egg", 
+t = "add"
+```
+**Output:**
+```
+true
+```
+
+### 4. [Pangram Strings](https://practice.geeksforgeeks.org/problems/pangram-strings/0)
+
+Check if the given string S is a Panagram or not. A pangram is a sentence containing every letter in the English Alphabet.
+
+**Example :** The quick brown fox jumps over the lazy dog ” is a Pangram [Contains all the characters from ‘a’ to ‘z’]
+ 
+ #### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day-10/P4_PangramStrings.cpp)
+
+**Input**
+```
+The first line of input contains an integer T denoting the number of test cases. Then T test cases follow. 
+The first line of each test case contains a case insensitvie string S.
+```
+**Note:** The input string can contain whitespaces.
+
+**Output**
+```
+For each test case T print in a new line 1 if the string is pangram else print 0.
+```
+
+### 5. [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
+
+Given an input string, reverse the string word by word.
+ 
+ #### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day-10/P5_ReverseWordsInAString.cpp)
+ 
+**Example 1:**
+
+**Input:** 
+```
+"the sky is blue"
+```
+**Output:**
+```
+"blue is sky the"
+```
+
