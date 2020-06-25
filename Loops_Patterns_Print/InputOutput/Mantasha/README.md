@@ -781,9 +781,7 @@ For each test case in a new line print 1 if the string 'a' can be obtained by ro
 1 <= T <= 50
 1 <= length of a, b < 100
 
-#### [My Solution]
-(https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day-10/
-P1_CheckStringRotatedByTwoPlaces.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day-10/P1_CheckStringRotatedByTwoPlaces.cpp)
 
 **Example:**
 
