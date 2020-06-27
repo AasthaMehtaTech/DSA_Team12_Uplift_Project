@@ -874,3 +874,121 @@ Given an input string, reverse the string word by word.
 "blue is sky the"
 ```
 <hr>
+
+## Day-11 Problems
+
+
+### 1. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+
+Given a string, find the length of the longest substring without repeating characters.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day-11/P1_LongestSubstringWithoutRepeatingCharacters.cpp)
+
+**Example 1:**
+```
+Input: "abcabcbb"
+Output: 3 
+Explanation: The answer is "abc", with the length of 3. 
+```
+**Example 2:**
+```
+Input: "bbbbb"
+Output: 1
+Explanation: The answer is "b", with the length of 1.
+```
+**Example 3:**
+```
+Input: "pwwkew"
+Output: 3
+Explanation: The answer is "wke", with the length of 3. 
+Note that the answer must be a substring, "pwke" is a subsequence and not a substring.
+```
+
+### 2. [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+
+Given n pairs of parentheses, write a function to generate all combinations of well-formed parentheses.
+
+For example, given **n = 3**, a solution set is:
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day-11/P2_GenerateParentheses.cpp)
+
+```
+[
+  "((()))",
+  "(()())",
+  "(())()",
+  "()(())",
+  "()()()"
+]
+```
+
+### 3. [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)
+
+Given a string containing only digits, restore it by returning all possible valid IP address combinations.
+A valid IP address consists of exactly four integers (each integer is between 0 and 255) separated by single points.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day-11/P3_RestoreIPAddresses.cpp)
+
+**Example:**
+```
+Input: "25525511135"
+Output: ["255.255.11.135", "255.255.111.35"]
+```
+
+### 4. [Minimum Number of Frogs Croaking](https://leetcode.com/problems/minimum-number-of-frogs-croaking/)
+
+Given the string `croakOfFrogs`, which represents a combination of the string "croak" from different frogs, that is, multiple frogs can croak at the same time, so multiple “croak” are mixed. Return the minimum number of different frogs to finish all the croak in the given string.
+A valid "croak" means a frog is printing 5 letters ‘c’, ’r’, ’o’, ’a’, ’k’ sequentially. The frogs have to print all five letters to finish a croak. If the given string is not a combination of valid "croak" return -1.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day-11/P4_MinimumNumberOfFrogsCroaking.cpp)
+
+**Example 1:**
+```
+Input: croakOfFrogs = "croakcroak"
+Output: 1 
+Explanation: One frog yelling "croak" twice.
+```
+
+**Example 2:**
+```
+Input: croakOfFrogs = "crcoakroak"
+Output: 2 
+Explanation: The minimum number of frogs is two. 
+The first frog could yell "crcoakroak".
+The second frog could yell later "crcoakroak".
+```
+**Example 3:**
+```
+Input: croakOfFrogs = "croakcrook"
+Output: -1
+Explanation: The given string is an invalid combination of "croak" from different frogs.
+```
+**Example 4:**
+```
+Input: croakOfFrogs = "croakcroa"
+Output: -1
+```
+
+**Constraints:**
+
+`1 <= croakOfFrogs.length <= 10^5`
+All characters in the string are: `'c', 'r', 'o', 'a' or 'k'`.
+
+
+### 5. [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+
+Given a string containing digits from `2-9` inclusive, return all possible letter combinations that the number could represent.
+A mapping of digit to letters (just like on the telephone buttons) is given below. Note that 1 does not map to any letters.
+
+![Phone Number](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/images/img1.png)
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day-11/P5_LetterCombinationsOfAPhoneNumber.cpp)
+
+**Example:**
+```
+Input: "23"
+Output: ["ad", "ae", "af", "bd", "be", "bf", "cd", "ce", "cf"].
+```
+**Note:**
+
+Although the above answer is in lexicographical order, your answer could be in any order you want.
