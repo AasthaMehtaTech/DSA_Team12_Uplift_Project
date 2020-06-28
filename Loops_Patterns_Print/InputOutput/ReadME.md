@@ -10,6 +10,11 @@
 
 [More on Strings](https://leetcode.com/tag/string/): Select Medium Level & Ones with Upvotes>>Downvotes. <br>
 
+Linked lists resources to study from- https://docs.google.com/document/d/1TeniAEmiHohrg39m5P3xsZ0gUi_Vtb3phtha-cPIgio/edit?usp=sharing
 ## Day 12 - Linked List
+1. [Finding middle element in a linked list](https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1) <br>
+2. [Nth node from end of linked list](https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1) <br>
+3. [Reverse a linked list](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1) <br>
+4. [Pairwise swap elements of a linked list](https://practice.geeksforgeeks.org/problems/pairwise-swap-elements-of-a-linked-list-by-swapping-data/1) <br>
+5. [Remove duplicate element from sorted Linked List](https://practice.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1) <br>
 
-Coming Soon
