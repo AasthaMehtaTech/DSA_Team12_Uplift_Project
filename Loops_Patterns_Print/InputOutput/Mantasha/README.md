@@ -992,3 +992,123 @@ Output: ["ad", "ae", "af", "bd", "be", "bf", "cd", "ce", "cf"].
 **Note:**
 
 Although the above answer is in lexicographical order, your answer could be in any order you want.
+
+<hr>
+
+## Day-12 Problems
+
+### 1. [Finding middle element in a linked list](https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1)
+
+Given a singly linked list of N nodes. The task is to find the middle of the linked list. For example, if given linked list is 1->2->3->4->5 then the output should be 3.
+If there are even nodes, then there would be two middle nodes, we need to print the second middle element. For example, if given linked list is 1->2->3->4->5->6 then the output should be 4.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day-12/P1_FindingMiddleElementInALinkedList.cpp)
+
+**Example:**
+
+**Input:**
+```
+2
+5
+1 2 3 4 5
+6
+2 4 6 7 5 1
+```
+**Output:**
+```
+3
+7
+```
+
+
+### 2. [Nth node from end of linked list](https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1)
+
+Given a linked list consisting of L nodes and given a number N. The task is to find the Nth node from the end of the linked list.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day-12/P2_NthNodeFromEndOfLinkedList.cpp)
+
+**Example:**
+
+**Input:**
+```
+2
+9 2
+1 2 3 4 5 6 7 8 9
+4 5
+10 5 100 5
+```
+**Output:**
+```
+8
+-1
+```
+
+
+### 3. [Reverse a linked list](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1)
+
+Given a linked list of N nodes. The task is to reverse this list.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day-12/P3_ReverseALlinkedList.cpp)
+
+**Example:**
+
+**Input:**
+```
+2
+6
+1 2 3 4 5 6
+5
+2 7 8 9 10
+```
+**Output:**
+```
+6 5 4 3 2 1
+10 9 8 7 2
+```
+
+
+### 4. [Pairwise swap elements of a linked list](https://practice.geeksforgeeks.org/problems/pairwise-swap-elements-of-a-linked-list-by-swapping-data/1)
+
+Given a singly linked list of size N. The task is to swap elements in the linked list pairwise.
+For example, if the input list is 1 2 3 4, the resulting list after swaps will be 2 1 4 3.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day-12/P4_PairwiseSwapElementsOfALinkedList.cpp)
+
+**Example:**
+
+**Input:**
+```
+1
+8
+1 2 2 4 5 6 7 8
+```
+**Output:**
+```
+2 1 4 2 6 5 8 7
+```
+
+
+### 5. [Remove duplicate element from sorted Linked List](https://practice.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1)
+
+Given a singly linked list consisting of N nodes. The task is to remove duplicates (nodes with duplicate values) from the given list (if exists).
+**Note:** Try not to use extra space. Expected time complexity is O(N). The nodes are arranged in a ***sorted*** way.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day-12/P5_RemoveDuplicateElementFromSortedLinkedList.cpp)
+
+**Example:**
+
+**Input:**
+```
+2
+4
+2 2 4 5
+5
+2 2 2 2 2
+```
+**Output:**
+```
+2 4 5
+2
+```
+
+<hr>
