@@ -1170,3 +1170,100 @@ Given a singly linked list consisting of N nodes. The task is to remove duplicat
 2 4 5
 2
 ```
+
+
+
+## Day-13 Problems
+
+
+### 1. [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
+
+Given a singly linked list, group all odd nodes together followed by the even nodes. Please note here we are talking about the node number and not the value in the nodes.
+You should try to do it in place. The program should run in O(1) space complexity and O(nodes) time complexity.
+
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-13/Day-13--OddEvenLinkedList-Shashank.cpp)
+
+**Example 1:**
+```
+Input: 1->2->3->4->5->NULL
+Output: 1->3->5->2->4->NULL
+```
+**Example 2:**
+```
+Input: 2->1->3->5->6->4->7->NULL
+Output: 2->3->6->7->1->5->4->NULL
+```
+
+
+### 2.[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
+
+Reverse a linked list from position m to n. Do it in one-pass.
+
+**Note:** 1 ≤ m ≤ n ≤ length of list.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-13/Day-13--ReverseLinkedList2-Shashank.cpp)
+
+**Example:**
+```
+Input: 1->2->3->4->5->NULL, m = 2, n = 4
+Output: 1->4->3->2->5->NULLhttps://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-13/Day-13--AddTwoNumbers-Shashank.cpp)
+
+**Example:**
+```
+Input: (2 -> 4 -> 3) + (5 -> 6 -> 4)
+Output: 7 -> 0 -> 8
+Explanation: 342 + 465 = 807.
+```
+```
+
+### 4. [Partition List](https://leetcode.com/problems/partition-list/)
+
+Given a linked list and a value x, partition it such that all nodes less than x come before nodes greater than or equal to x.
+
+You should preserve the original relative order of the nodes in each of the two partitions.
+
+### 3. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+
+You are given two **non-empty** linked lists representing two non-negative integers. The digits are stored in **reverse order** and each of their nodes contain a single digit. Add the two numbers and return it as a linked list.
+You may assume the two numbers do not contain any leading zero, except the number 0 itself.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-13/Day-13--AddTwoNumbers-Shashank.cpp)
+
+**Example:**
+```
+Input: (2 -> 4 -> 3) + (5 -> 6 -> 4)
+Output: 7 -> 0 -> 8
+Explanation: 342 + 465 = 807.
+```
+
+### 4. [Partition List](https://leetcode.com/problems/partition-list/)
+
+Given a linked list and a value x, partition it such that all nodes less than x come before nodes greater than or equal to x.
+You should preserve the original relative order of the nodes in each of the two partitions.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-13/Day-13--PartitionList-Shashank.cpp)
+
+**Example:**
+```
+Input: head = 1->4->3->2->5->2, x = 3
+Output: 1->2->2->4->3->5
+```
+
+### 5. [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
+
+Given a sorted linked list, delete all nodes that have duplicate numbers, leaving only distinct numbers from the original list.
+Return the linked list sorted as well.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-13/Day-13--RemoveDuplicatesFromSortedList-Shashank.cpp)
+
+**Example 1:**
+```
+Input: 1->2->3->3->4->4->5
+Output: 1->2->5
+```
+**Example 2:**
+```
+Input: 1->1->1->2->3
+Output: 2->3
+```
