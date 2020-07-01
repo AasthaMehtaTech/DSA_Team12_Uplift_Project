@@ -1148,7 +1148,7 @@ Reverse a linked list from position m to n. Do it in one-pass.
 **Example:**
 ```
 Input: 1->2->3->4->5->NULL, m = 2, n = 4
-Output: 1->4->3->2->5->NULLhttps://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day-13/P2_ReverseLinkedListII.cpp)
+Output: 1->4->3->2->5->NULL
 
 **Example:**
 ```
@@ -1157,12 +1157,6 @@ Output: 7 -> 0 -> 8
 Explanation: 342 + 465 = 807.
 ```
 ```
-
-### 4. [Partition List](https://leetcode.com/problems/partition-list/)
-
-Given a linked list and a value x, partition it such that all nodes less than x come before nodes greater than or equal to x.
-
-You should preserve the original relative order of the nodes in each of the two partitions.
 
 ### 3. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 
