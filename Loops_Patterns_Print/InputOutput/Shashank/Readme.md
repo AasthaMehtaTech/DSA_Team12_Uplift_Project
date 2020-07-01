@@ -1196,7 +1196,7 @@ Output: 2->3->6->7->1->5->4->NULL
 ```
 
 
-### 2.[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
+### 2. [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
 
 Reverse a linked list from position m to n. Do it in one-pass.
 
