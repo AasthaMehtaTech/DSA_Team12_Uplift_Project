@@ -27,3 +27,8 @@ Linked lists resources to study from- https://docs.google.com/document/d/1TeniAE
 5. [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) <br>
 
 ## Day 14 - Stacks & Queues
+1. [Next larger element](https://practice.geeksforgeeks.org/problems/next-larger-element/0) <br>
+2. [Queue using two Stacks](https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1) <br>
+3. [Stack using two queues](https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1) <br>
+4. [Get minimum element from stack](https://practice.geeksforgeeks.org/problems/get-minimum-element-from-stack/1) <br>
+5. [Parenthesis Checker](https://practice.geeksforgeeks.org/problems/parenthesis-checker/0) <br>
