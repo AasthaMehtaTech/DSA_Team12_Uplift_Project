@@ -1267,3 +1267,91 @@ Output: 1->2->5
 Input: 1->1->1->2->3
 Output: 2->3
 ```
+
+
+## Day-14 Problems
+
+ 1. [Next larger element ](https://practice.geeksforgeeks.org/problems/next-larger-element/0)
+
+Given an array A of size N having distinct elements, the task is to find the next greater element for each element of the array in order of their appearance in the array. If no such element exists, output -1 
+
+#### [My Solution]
+
+Example:
+Input
+2
+4
+1 3 2 4
+4
+4 3 2 1
+Output
+3 4 4 -1
+-1 -1 -1 -1
+
+
+### 2. [Queue using two Stacks ](https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1)
+
+Implement a Queue using 2 stacks s1 and s2 
+
+#### [My Solution]
+
+Your Task:
+Since this is a function problem, you don't need to take inputs. You are required to complete the two methods push which take one argument an integer 'x' to be pushed into the queue and pop which returns a integer poped out from other queue. The printing is done automatically by the driver code.
+
+Expected Time Complexity : O(1) for both push() and O(N) for pop().
+Expected Auxilliary Space : O(N).
+
+Constraints:
+1 <= T <= 100
+1 <= Q <= 100
+1 <= x <= 100
+
+Example:
+Input:
+2
+5
+1 2 1 3 2 1 4 2
+4
+1 2 2 2 1 4
+Output:
+2 3
+2 -1
+
+
+### 3. [Stack using two queues](https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1)
+
+Implement a Stack using two queues q1 and q2.
+
+#### [My Solution]
+
+Your Task:
+Since this is a function problem, you don't need to take inputs. You are required to complete the two methods push() which takes an integer 'x' as input denoting the element to be pushed into the stack and pop() which returns the integer poped out from the stack.
+
+Example:
+Input:
+2
+5
+1 2 1 3 2 1 4 2
+4
+1 2 2 2 1 3
+Output:
+3 4
+2 -1
+
+
+### 4. [Get minimum element from stack ](https://practice.geeksforgeeks.org/problems/get-minimum-element-from-stack/1)
+
+You are given N elements and your task is to Implement a Stack in which you can get minimum element in O(1) time.
+
+
+#### [My Solution]
+
+Example:
+Input:
+1
+6
+1 2 1 3 2 3 1 1 3   
+
+Output:
+3 2 1
+
