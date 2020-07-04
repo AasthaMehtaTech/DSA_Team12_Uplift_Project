@@ -1324,8 +1324,7 @@ Implement a Stack using two queues q1 and q2.
 
 #### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-14/Day-14--StackUsing2Queue-Shashank.cpp)
 
-Your Task:
-Since this is a function problem, you don't need to take inputs. You are required to complete the two methods push() which takes an integer 'x' as input denoting the element to be pushed into the stack and pop() which returns the integer poped out from the stack.
+
 
 **Example:**
 
