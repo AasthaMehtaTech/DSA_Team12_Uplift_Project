@@ -1211,7 +1211,7 @@ Output: 2->3
 
 Given an array A of size N having distinct elements, the task is to find the next greater element for each element of the array in order of their appearance in the array. If no such element exists, output -1 
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-14/Day-14--NextLargerElement-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day-14/)
 
 **Example:**
 
@@ -1234,8 +1234,7 @@ Given an array A of size N having distinct elements, the task is to find the nex
 
 Implement a Queue using 2 stacks s1 and s2 
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-14/Day-14--QueueUsing2Stacks-Shashank.cpp)
-
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day-14/)
 
 **Example:**
 
@@ -1257,7 +1256,7 @@ Implement a Queue using 2 stacks s1 and s2
 
 Implement a Stack using two queues q1 and q2.
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-14/Day-14--StackUsing2Queue-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day-14/)
 
 
 
@@ -1286,8 +1285,7 @@ Implement a Stack using two queues q1 and q2.
 You are given N elements and your task is to Implement a Stack in which you can get minimum element in O(1) time.
 
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-14/Day-14--MinElementFromStack-Shashank.cpp)
-
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day-14/)
 **Example:**
 
 **Input:**
@@ -1307,7 +1305,7 @@ Given an expression string exp. Examine whether the pairs and the orders of `“
 For example, the program should print 'balanced' for `exp = “[()]{}{[()()]()}”` and 'not balanced' for `exp = “[(])”`
 
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-14/Day-14--ParanthesisChecker-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day-14/)
 
 **Example:**
 
