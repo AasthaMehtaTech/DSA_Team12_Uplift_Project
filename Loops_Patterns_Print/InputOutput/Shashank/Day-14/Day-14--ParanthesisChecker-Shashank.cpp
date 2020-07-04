@@ -8,11 +8,16 @@ using namespace std;
 string isBal(string pat, int n)
 {
     string bal = "balanced", notbal = "not balanced";
+    
+
     if(n%2)
     return notbal;
+    
     stack<char> st;
-      for(char ch: pat)
-       {
+    
+    for(char ch: pat)
+    {
+        
         if( ch =='{' || ch == '[' || ch == '(')
         st.push(ch);
         else
@@ -29,24 +34,39 @@ string isBal(string pat, int n)
             else
             {
                 return notbal;
-             }
-         }
+            }
+        }
     }
+    
+    
     if(st.empty())
     return bal;
-    return notbal;   
-  }
+    
+    return notbal;
+    
+}
+
+
+
 int main()
-  {
+{
     ios_base::sync_with_stdio(false);
-    cin.tie(NULL
+    cin.tie(NULL);
+
     int t;
     cin >> t;
+    
+    
     while(t--)
     {
         string pat;
         cin >> pat;
+        
         cout << isBal(pat,pat.size()) << endl;
-   }
-   return 0;
+        
+        
+        
+    }
+
+    return 0;
 }
