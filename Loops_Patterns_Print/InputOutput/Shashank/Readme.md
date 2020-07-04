@@ -1364,7 +1364,7 @@ You are given N elements and your task is to Implement a Stack in which you can 
 3 2 1
 ```
 
-### 5. [Parenthesis Checker](
+### 5. [Parenthesis Checker](https://practice.geeksforgeeks.org/problems/parenthesis-checker/0)
 
 Given an expression string exp. Examine whether the pairs and the orders of “{“,”}”,”(“,”)”,”[“,”]” are correct in exp.
 For example, the program should print 'balanced' for exp = “[()]{}{[()()]()}” and 'not balanced' for exp = “[(])”
