@@ -1366,8 +1366,8 @@ You are given N elements and your task is to Implement a Stack in which you can 
 
 ### 5. [Parenthesis Checker](https://practice.geeksforgeeks.org/problems/parenthesis-checker/0)
 
-Given an expression string exp. Examine whether the pairs and the orders of “{“,”}”,”(“,”)”,”[“,”]” are correct in exp.
-For example, the program should print 'balanced' for exp = “[()]{}{[()()]()}” and 'not balanced' for exp = “[(])”
+Given an expression string exp. Examine whether the pairs and the orders of `“{“,”}”,”(“,”)”,”[“,”]”` are correct in exp.
+For example, the program should print 'balanced' for `exp = “[()]{}{[()()]()}”` and 'not balanced' for `exp = “[(])”`
 
 
 #### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-14/Day-14--ParanthesisChecker-Shashank.cpp)
