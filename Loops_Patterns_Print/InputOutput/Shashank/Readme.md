@@ -1278,7 +1278,8 @@ Given an array A of size N having distinct elements, the task is to find the nex
 
 #### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-14/Day-14--NextLargerElement-Shashank.cpp)
 
-Example:
+**Example:**
+
 **Input:**
 ```
 2
@@ -1327,6 +1328,7 @@ Your Task:
 Since this is a function problem, you don't need to take inputs. You are required to complete the two methods push() which takes an integer 'x' as input denoting the element to be pushed into the stack and pop() which returns the integer poped out from the stack.
 
 **Example:**
+
 **Input:**
 ```
 
@@ -1353,6 +1355,7 @@ You are given N elements and your task is to Implement a Stack in which you can 
 #### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-14/Day-14--MinElementFromStack-Shashank.cpp)
 
 **Example:**
+
 **Input:**
 ```
 1
@@ -1373,6 +1376,7 @@ For example, the program should print 'balanced' for `exp = â€œ[()]{}{[()()]()}â
 #### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-14/Day-14--ParanthesisChecker-Shashank.cpp)
 
 **Example:**
+
 **Input:**
 ```
 3
