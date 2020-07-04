@@ -1202,3 +1202,125 @@ Input: 1->1->1->2->3
 Output: 2->3
 ```
 <hr>
+
+
+## Day-14 Problems
+
+
+### 1. [Next larger element ](https://practice.geeksforgeeks.org/problems/next-larger-element/0)
+
+Given an array A of size N having distinct elements, the task is to find the next greater element for each element of the array in order of their appearance in the array. If no such element exists, output -1 
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-14/Day-14--NextLargerElement-Shashank.cpp)
+
+**Example:**
+
+**Input:**
+```
+2
+4
+1 3 2 4
+4
+4 3 2 1
+```
+**Output:**
+```
+3 4 4 -1
+-1 -1 -1 -1
+```
+
+
+### 2. [Queue using two Stacks ](https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1)
+
+Implement a Queue using 2 stacks s1 and s2 
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-14/Day-14--QueueUsing2Stacks-Shashank.cpp)
+
+
+**Example:**
+
+**Input:**
+```
+2
+5
+1 2 1 3 2 1 4 2
+4
+1 2 2 2 1 4
+```
+**Output:**
+```
+2 3
+2 -1
+```
+
+### 3. [Stack using two queues](https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1)
+
+Implement a Stack using two queues q1 and q2.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-14/Day-14--StackUsing2Queue-Shashank.cpp)
+
+
+
+**Example:**
+
+**Input:**
+```
+
+2
+5
+1 2 1 3 2 1 4 2
+4
+1 2 2 2 1 3
+```
+
+**Output:**
+```
+
+3 4
+2 -1
+```
+
+
+### 4. [Get minimum element from stack ](https://practice.geeksforgeeks.org/problems/get-minimum-element-from-stack/1)
+
+You are given N elements and your task is to Implement a Stack in which you can get minimum element in O(1) time.
+
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-14/Day-14--MinElementFromStack-Shashank.cpp)
+
+**Example:**
+
+**Input:**
+```
+1
+6
+1 2 1 3 2 3 1 1 3   
+```
+**Output:**
+```
+3 2 1
+```
+
+### 5. [Parenthesis Checker](https://practice.geeksforgeeks.org/problems/parenthesis-checker/0)
+
+Given an expression string exp. Examine whether the pairs and the orders of `“{“,”}”,”(“,”)”,”[“,”]”` are correct in exp.
+For example, the program should print 'balanced' for `exp = “[()]{}{[()()]()}”` and 'not balanced' for `exp = “[(])”`
+
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-14/Day-14--ParanthesisChecker-Shashank.cpp)
+
+**Example:**
+
+**Input:**
+```
+3
+{([])}
+()
+([]
+```
+**Output:**
+```
+balanced
+balanced
+not balanced
+```
