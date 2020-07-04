@@ -32,3 +32,11 @@ Linked lists resources to study from- https://docs.google.com/document/d/1TeniAE
 3. [Stack using two queues](https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1) <br>
 4. [Get minimum element from stack](https://practice.geeksforgeeks.org/problems/get-minimum-element-from-stack/1) <br>
 5. [Parenthesis Checker](https://practice.geeksforgeeks.org/problems/parenthesis-checker/0) <br>
+
+## Day 15 - Stacks 
+1. [Simplify Path](https://leetcode.com/problems/simplify-path/) <br>
+2. [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) <br>
+3. [Remove K Digits to form Smallest Number](https://leetcode.com/problems/remove-k-digits/) <br>
+4. [132 Pattern](https://leetcode.com/problems/132-pattern/) <br>
+5. [Next Greater Circular](https://leetcode.com/problems/next-greater-element-ii/) <br>
+
