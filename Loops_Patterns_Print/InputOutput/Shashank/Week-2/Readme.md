@@ -6,7 +6,7 @@
 
 Given two strings s1 and s2, remove those characters from first string which are present in second string. Both the strings are different and contain only lowercase characters.
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-8/Day-8--RemoveCharacter-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-2/Day-8/Day-8--RemoveCharacter-Shashank.cpp)
 
 
 **Example:**
@@ -30,7 +30,7 @@ emovecchaaefom
 
 Given a string which may contains lowercase and uppercase chracters. The task is to remove all  duplicate characters from the string and print the resultant string.  The order of remaining characters in the output should be same as in the original string.
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-8/Day-8--RemoveAllDupCharacter-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-2/Day-8/Day-8--RemoveAllDupCharacter-Shashank.cpp)
 
 
 **Example:**
@@ -52,7 +52,7 @@ HapyNewYr
 
 Given two strings S1 and S2 as input, the task is to merge them alternatively i.e. the first character of S1 then the first character of S2 and so on till the strings end.
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-8/Day-8--MergeTwoStrings-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-2/Day-8/Day-8--MergeTwoStrings-Shashank.cpp)
 
 **Example:**
 
@@ -74,7 +74,7 @@ adbecf
 
 Given two strings a and b consisting of lowercase characters. The task is to check whether two given strings are anagram of each other or not. An anagram of a string is another string that contains same characters, only the order of characters can be different. For example, “act” and “tac” are anagram of each other.
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-8/Day-8--Anagram-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-2/Day-8/Day-8--Anagram-Shashank.cpp)
 
 **Example:**
 
@@ -96,7 +96,7 @@ NO
 
 Given two strings A and B, find if A is a subsequence of B.
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-8/Day-8--CheckForSubsequence-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-2/Day-8/Day-8--CheckForSubsequence-Shashank.cpp)
 
 **Example:**
 
@@ -120,7 +120,7 @@ gksrek geeksforgeeks
 
 Given a 32-bit signed integer, reverse digits of an integer.
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-9/Day-9--ReverseInteger-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-2/Day-9/Day-9--ReverseInteger-Shashank.cpp)
 
 **Example 1:**
 ```
@@ -145,7 +145,7 @@ Output: 21
 Given a string, determine if it is a palindrome, considering only alphanumeric characters and ignoring cases.
 **Note:** For the purpose of this problem, we define empty string as valid palindrome.
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-9/Day-9--ValidPlindrome-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-2/Day-9/Day-9--ValidPlindrome-Shashank.cpp)
 
 
 **Example 1:**
@@ -178,7 +178,7 @@ If no valid conversion could be performed, a zero value is returned.
 Only the space character ' ' is considered as whitespace character.
 Assume we are dealing with an environment which could only store integers within the 32-bit signed integer range: [−2^31,  2^31 − 1]. If the numerical value is out of the range of representable values, INT_MAX (2^31 − 1) or INT_MIN (−2^31) is returned.
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-9/Day-9--StringToInteger-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-2/Day-9/Day-9--StringToInteger-Shashank.cpp)
 
 **Example 1:**
 ```
@@ -232,7 +232,7 @@ The count-and-say sequence is the sequence of integers with the first five terms
 
 Given an integer n where 1 ≤ n ≤ 30, generate the nth term of the count-and-say sequence. You can do so recursively, in other words from the previous member read off the digits, counting the number of digits in groups of the same digit.
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-9/Day-9--CountAndSay-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-2/Day-9/Day-9--CountAndSay-Shashank.cpp)
 
 **Example 1:**
 ```
@@ -255,7 +255,7 @@ Write a function to find the longest common prefix string amongst an array of st
 
 If there is no common prefix, return an empty string `""`.
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-9/Day-9--LongestCommonPrefix-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-2/Day-9/Day-9--LongestCommonPrefix-Shashank.cpp)
 
 **Example 1:**
 ```
@@ -286,7 +286,7 @@ For each test case in a new line print 1 if the string 'a' can be obtained by ro
 1 <= T <= 50
 1 <= length of a, b < 100
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-10/Day-10--CheckStringRotatedByTwoPlaces-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-2/Day-10/Day-10--CheckStringRotatedByTwoPlaces-Shashank.cpp)
 
 **Example:**
 
@@ -308,7 +308,7 @@ geeksgeeksfor
 
 Given two strings s1 and s2, write a function to return true if s2 contains the permutation of s1. In other words, one of the first string's permutations is the substring of the second string.
 
- #### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-10/Day-10--PermutationInString-Shashank.cpp)
+ #### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-2/Day-10/Day-10--PermutationInString-Shashank.cpp)
 
 **Example 1:**
 
@@ -328,7 +328,7 @@ Given two strings s and t, determine if they are isomorphic.
 Two strings are isomorphic if the characters in s can be replaced to get t.
 All occurrences of a character must be replaced with another character while preserving the order of characters. No two characters may map to the same character but a character may map to itself.
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-10/Day-10--IsomorphicString-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-2/Day-10/Day-10--IsomorphicString-Shashank.cpp)
 
 **Example 1:**
 
@@ -348,7 +348,7 @@ Check if the given string S is a Panagram or not. A pangram is a sentence contai
 
 **Example :** The quick brown fox jumps over the lazy dog ” is a Pangram [Contains all the characters from ‘a’ to ‘z’]
  
- #### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-10/Day-10--PangramStrings-Shashank.cpp)
+ #### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-2/Day-10/Day-10--PangramStrings-Shashank.cpp)
 
 **Input**
 ```
@@ -366,7 +366,7 @@ For each test case T print in a new line 1 if the string is pangram else print 0
 
 Given an input string, reverse the string word by word.
  
- #### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-10/Day-10--ReverseWordString-Shashank.cpp)
+ #### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-2/Day-10/Day-10--ReverseWordString-Shashank.cpp)
  
 **Example 1:**
 
@@ -387,7 +387,7 @@ Given an input string, reverse the string word by word.
 
 Given a string, find the length of the longest substring without repeating characters.
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-11/Day-11--LongestSubstringWithoutRepeatingCharacters-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-2/Day-11/Day-11--LongestSubstringWithoutRepeatingCharacters-Shashank.cpp)
 
 **Example 1:**
 ```
@@ -415,7 +415,7 @@ Given n pairs of parentheses, write a function to generate all combinations of w
 
 For example, given **n = 3**, a solution set is:
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-11/Day-11--GenerateParentheses-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-2/Day-11/Day-11--GenerateParentheses-Shashank.cpp)
 
 ```
 [
@@ -432,7 +432,7 @@ For example, given **n = 3**, a solution set is:
 Given a string containing only digits, restore it by returning all possible valid IP address combinations.
 A valid IP address consists of exactly four integers (each integer is between 0 and 255) separated by single points.
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-11/Day-11--RestoreIpAddresses-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-2/Day-11/Day-11--RestoreIpAddresses-Shashank.cpp)
 
 **Example:**
 ```
@@ -445,7 +445,7 @@ Output: ["255.255.11.135", "255.255.111.35"]
 Given the string `croakOfFrogs`, which represents a combination of the string "croak" from different frogs, that is, multiple frogs can croak at the same time, so multiple “croak” are mixed. Return the minimum number of different frogs to finish all the croak in the given string.
 A valid "croak" means a frog is printing 5 letters ‘c’, ’r’, ’o’, ’a’, ’k’ sequentially. The frogs have to print all five letters to finish a croak. If the given string is not a combination of valid "croak" return -1.
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-11/Day-11--MinimumNumberOfFrogsCroaking-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-2/Day-11/Day-11--MinimumNumberOfFrogsCroaking-Shashank.cpp)
 
 **Example 1:**
 ```
@@ -487,7 +487,7 @@ A mapping of digit to letters (just like on the telephone buttons) is given belo
 
 ![Phone Number](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/images/img1.png)
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-11/Day-11--LetterCombinationsOfAPhoneNumber-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-2/Day-11/Day-11--LetterCombinationsOfAPhoneNumber-Shashank.cpp)
 
 **Example:**
 ```
@@ -506,7 +506,7 @@ Although the above answer is in lexicographical order, your answer could be in a
 Given a singly linked list of N nodes. The task is to find the middle of the linked list. For example, if given linked list is 1->2->3->4->5 then the output should be 3.
 If there are even nodes, then there would be two middle nodes, we need to print the second middle element. For example, if given linked list is 1->2->3->4->5->6 then the output should be 4.
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-12/Day-12--FindingMiddleElement-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-2/Day-12/Day-12--FindingMiddleElement-Shashank.cpp)
 
 **Example:**
 
@@ -529,7 +529,7 @@ If there are even nodes, then there would be two middle nodes, we need to print 
 
 Given a linked list consisting of L nodes and given a number N. The task is to find the Nth node from the end of the linked list.
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-12/Day-12--NthNode-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-2/Day-12/Day-12--NthNode-Shashank.cpp)
 
 **Example:**
 
@@ -552,7 +552,7 @@ Given a linked list consisting of L nodes and given a number N. The task is to f
 
 Given a linked list of N nodes. The task is to reverse this list.
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-12/Day-12--ReverseA-LinkedList-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-2/Day-12/Day-12--ReverseA-LinkedList-Shashank.cpp)
 
 **Example:**
 
@@ -576,7 +576,7 @@ Given a linked list of N nodes. The task is to reverse this list.
 Given a singly linked list of size N. The task is to swap elements in the linked list pairwise.
 For example, if the input list is 1 2 3 4, the resulting list after swaps will be 2 1 4 3.
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-12/Day-12--PairwiseSwap-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-2/Day-12/Day-12--PairwiseSwap-Shashank.cpp)
 
 **Example:**
 
@@ -597,7 +597,7 @@ For example, if the input list is 1 2 3 4, the resulting list after swaps will b
 Given a singly linked list consisting of N nodes. The task is to remove duplicates (nodes with duplicate values) from the given list (if exists).
 **Note:** Try not to use extra space. Expected time complexity is O(N). The nodes are arranged in a ***sorted*** way.
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-12/Day-12--RemoveDuplicateElements-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-2/Day-12/Day-12--RemoveDuplicateElements-Shashank.cpp)
 
 **Example:**
 
@@ -626,7 +626,7 @@ Given a singly linked list, group all odd nodes together followed by the even no
 You should try to do it in place. The program should run in O(1) space complexity and O(nodes) time complexity.
 
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-13/Day-13--OddEvenLinkedList-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-2/Day-13/Day-13--OddEvenLinkedList-Shashank.cpp)
 
 **Example 1:**
 ```
@@ -646,12 +646,12 @@ Reverse a linked list from position m to n. Do it in one-pass.
 
 **Note:** 1 ≤ m ≤ n ≤ length of list.
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-13/Day-13--ReverseLinkedList2-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-2/Day-13/Day-13--ReverseLinkedList2-Shashank.cpp)
 
 **Example:**
 ```
 Input: 1->2->3->4->5->NULL, m = 2, n = 4
-Output: 1->4->3->2->5->NULLhttps://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-13/Day-13--AddTwoNumbers-Shashank.cpp)
+Output: 1->4->3->2->5->NULL
 
 **Example:**
 ```
@@ -672,7 +672,7 @@ You should preserve the original relative order of the nodes in each of the two 
 You are given two **non-empty** linked lists representing two non-negative integers. The digits are stored in **reverse order** and each of their nodes contain a single digit. Add the two numbers and return it as a linked list.
 You may assume the two numbers do not contain any leading zero, except the number 0 itself.
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-13/Day-13--AddTwoNumbers-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-2/Day-13/Day-13--AddTwoNumbers-Shashank.cpp)
 
 **Example:**
 ```
@@ -686,7 +686,7 @@ Explanation: 342 + 465 = 807.
 Given a linked list and a value x, partition it such that all nodes less than x come before nodes greater than or equal to x.
 You should preserve the original relative order of the nodes in each of the two partitions.
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-13/Day-13--PartitionList-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-2/Day-13/Day-13--PartitionList-Shashank.cpp)
 
 **Example:**
 ```
@@ -699,7 +699,7 @@ Output: 1->2->2->4->3->5
 Given a sorted linked list, delete all nodes that have duplicate numbers, leaving only distinct numbers from the original list.
 Return the linked list sorted as well.
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-13/Day-13--RemoveDuplicatesFromSortedList-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-2/Day-13/Day-13--RemoveDuplicatesFromSortedList-Shashank.cpp)
 
 **Example 1:**
 ```
@@ -720,7 +720,7 @@ Output: 2->3
 
 Given an array A of size N having distinct elements, the task is to find the next greater element for each element of the array in order of their appearance in the array. If no such element exists, output -1 
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-14/Day-14--NextLargerElement-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-2/Day-14/Day-14--NextLargerElement-Shashank.cpp)
 
 **Example:**
 
@@ -743,7 +743,7 @@ Given an array A of size N having distinct elements, the task is to find the nex
 
 Implement a Queue using 2 stacks s1 and s2 
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-14/Day-14--QueueUsing2Stacks-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-2/Day-14/Day-14--QueueUsing2Stacks-Shashank.cpp)
 
 
 **Example:**
@@ -766,7 +766,7 @@ Implement a Queue using 2 stacks s1 and s2
 
 Implement a Stack using two queues q1 and q2.
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-14/Day-14--StackUsing2Queue-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-2/Day-14/Day-14--StackUsing2Queue-Shashank.cpp)
 
 
 
@@ -795,7 +795,7 @@ Implement a Stack using two queues q1 and q2.
 You are given N elements and your task is to Implement a Stack in which you can get minimum element in O(1) time.
 
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-14/Day-14--MinElementFromStack-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-2/Day-14/Day-14--MinElementFromStack-Shashank.cpp)
 
 **Example:**
 
@@ -816,7 +816,7 @@ Given an expression string exp. Examine whether the pairs and the orders of `“
 For example, the program should print 'balanced' for `exp = “[()]{}{[()()]()}”` and 'not balanced' for `exp = “[(])”`
 
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-14/Day-14--ParanthesisChecker-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-2/Day-14/Day-14--ParanthesisChecker-Shashank.cpp)
 
 **Example:**
 
