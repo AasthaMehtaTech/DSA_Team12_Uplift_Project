@@ -1,0 +1,19 @@
+import java.util.io*'
+public class ArraAntiRotate {
+public static void main(String[] args) {
+    Scanner scn = new Scanner(System.in);
+    int m = scn.nextInt();
+    int n = scn.nextInt();
+    int a[m][n];
+    for(int i=0;i<m;i++){
+        for(int j=0;j<n;j++){
+            a[i][j] = scn.nextInt();
+        }
+    }
+    for(int j=n-1;j>=0;j--){
+        for(int i=0;i<=m-1;i++){
+            System.out.println(a[j][i]+ " ");
+        }
+        System.out.println();
+    }
+}
