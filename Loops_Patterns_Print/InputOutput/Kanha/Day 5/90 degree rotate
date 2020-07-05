@@ -1,0 +1,19 @@
+import java.util.io*'
+public class ArrayRotate {
+public static void main(String[] args) {
+    Scanner scn = new Scanner(System.in);
+    int m = scn.nextInt();
+    int n = scn.nextInt();
+    int a[m][n];
+    for(int i=0;i<m;i++){
+        for(int j=0;j<n;j++){
+            a[i][j] = scn.nextInt();
+        }
+    }
+    for(int j=0;j<n;j++){
+        for(int i=m-1;i>=0;i--){
+            System.out.println(a[i][j]+ " ");
+        }
+        System.out.println();
+    }
+}
