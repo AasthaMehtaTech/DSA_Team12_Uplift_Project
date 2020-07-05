@@ -3,15 +3,14 @@
 ## Day 1 Solutions
 
 ### Question 1: Take a I/P number, print its square.
-[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-1/Day-1--Square-Shashank.cpp
-)
+[My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-1/Day-1/Day-1--Square-Shashank.cpp)
 
 ### Question 2: Take a I/P number, print its table.
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-1/Day-1--Table-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-1/Day-1/Day-1--Table-Shashank.cpp)
 
 ### Question 3a: Upward Star Triangle with n lines (n: I/P) (Eg: n=3)
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-1/Day-1--UpwardTriangle-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-1/Day-1/Day-1--UpwardTriangle-Shashank.cpp)
 ```
 *
 * *
@@ -21,7 +20,7 @@
 
 ### Question 3b: Upward centered (Eg: n=3)
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-1/Day-1--UpwardCenteredTriangle-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-1/Day-1/Day-1--UpwardCenteredTriangle-Shashank.cpp)
 ```
    *
   * *
@@ -31,7 +30,7 @@
 
 ### Question 4: Downward Star Triangle with n lines (Eg: n=4)
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-1/Day-1--DownwardTriangle-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-1/Day-1/Day-1--DownwardTriangle-Shashank.cpp)
 ```
  * * * *
  * * *
@@ -42,7 +41,7 @@
 
 ### Question 5: Kaju Katli (For odd I/P only) (Eg:n=3)
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-1/Day-1--KajuKatli-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-1/Day-1/Day-1--KajuKatli-Shashank.cpp)
 ```
      *
     * *
