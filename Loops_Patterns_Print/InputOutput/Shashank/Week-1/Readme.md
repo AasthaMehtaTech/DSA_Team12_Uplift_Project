@@ -56,7 +56,7 @@
 
 ### Question 1: Take N(number of rows), print the following pattern (Ex: N=4)
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-2/Day-2--FibonacciPattern-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-1/Day-2/Day-2--ArmstrongNumber-Shashank.cpp)
 ```
     0
     1 1
@@ -67,7 +67,7 @@
 
 ### Question 2: Take N(number of rows), print following pattern (Ex: N=4)
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-2/Day-2--NumberPattern-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-1/Day-2--NumberPattern-Shashank.cpp)
 
   ```
      1           1
@@ -78,7 +78,7 @@
 
 ### Question 3: Take N(number of rows), print following pattern (N=5)
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-2/Day-2--NumberStarPattern-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-1/Day-2--NumberStarPattern-Shashank.cpp)
 
   ```
    1 2 3 4 5
@@ -96,7 +96,7 @@ abcd… = pow(a,n) + pow(b,n) + pow(c,n) + pow(d,n) + …. <br> <br>
 OUTPUT: Print boolean output for each testcase. <br>
 "true" if the given number is an Armstrong Number, else print "false".
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-2/Day-2--ArmstrongNumber-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-1/Day-2--ArmstrongNumber-Shashank.cpp)
 
 
 Sample Case
@@ -111,7 +111,7 @@ The first line contains N , the number of binary numbers. Next N lines contain N
 Output Format <br>
 N lines,each containing a decimal equivalent of the binary number.
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-2/Day-2--DecimalRepresentation-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-1/Day-2--DecimalRepresentation-Shashank.cpp)
 
 **Sample Input** 
  ```
@@ -135,7 +135,7 @@ N lines,each containing a decimal equivalent of the binary number.
 
 ### Question 1: Take n elements as I/P, print max, min, sum of them.
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-3/Day-3--MaxMinSum-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-1/Day-3/Day-3--MaxMinSum-Shashank.cpp)
 
 ```
 Eg:
@@ -150,7 +150,7 @@ Sum= 15
 
 ### Question 2: For an I/P array, find sum of squares of each element.
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-3/Day-3--SumOfSquares-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-1/Day-3/Day-3--SumOfSquares-Shashank.cpp)
 
 ```
 Eg: I/P :
@@ -163,7 +163,7 @@ Explanation :1^2+ 5^2+ 2^2 +2^2=1+25+2+2
 
 ### Question 3: Build a prefix array from given I/P array.
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-3/Day-3--PrefixSumArray-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-1/Day-3/Day-3--PrefixSumArray-Shashank.cpp)
 
 ```
 Eg:
@@ -177,7 +177,7 @@ Explanation : 1 1+3 1+3+2 1+3+2+5
 
 ### Question 4: Find the max absolute difference between 2 consecutive elements of array.
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-3/Day-3--MaxAbsoluteDifference-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-1/Day-3/Day-3--MaxAbsoluteDifference-Shashank.cpp)
 
 ```
 Eg:
@@ -195,7 +195,7 @@ Explanation : Differences : |1-3|=2, |3-2|=1, |2-5|=3. MAX DIFFERENCE : 3
 
 ### Question 1: Given an array A of size N-1 and given that there are numbers from 1 to N with one element missing, the missing number is to be found.
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-4/Day-4--MissingNumber-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-1/Day-4/Day-4--MissingNumber-Shashank.cpp)
 
 ```
 Eg:
@@ -208,7 +208,7 @@ Output:
 
 ### Question 2: Given an array arr of N integers. Find the contiguous sub-array with maximum sum.
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-4/Day-4--SubArrayWithMaximumSum-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-1/Day-4/Day-4--SubArrayWithMaximumSum-Shashank.cpp)
 
 ```
 Eg:
@@ -221,7 +221,7 @@ Output:
 
 ### Question 3: Given an array A of size N containing 0s, 1s, and 2s; you need to sort the array in ascending order.
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-4/Day-4--SortArray-Zero's-One's-Two's-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-1/Day-4/Day-4--SortArray-Zero's-One's-Two's-Shashank.cpp)
 
 ```
 Eg:
@@ -234,7 +234,7 @@ Output:
 
 ### Question 4: Given an array arr[] and a number K where K is smaller than size of array, the task is to find the Kth smallest element in the given array. It is given that all array elements are distinct.
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-4/Day-4--KthSmallestElement-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-1/Day-4/Day-4--KthSmallestElement-Shashank.cpp)
  
 ```
 Eg:
@@ -249,7 +249,7 @@ Explanation:3rd smallest element in the given array is 7.
 
 ### Question 5: Take as input N, the size of array. Take N more inputs and store that in an array. Take as input “target”, a number. Write a Program which prints all pairs of numbers which sum to target.
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-4/Day-4--PairEqualToSum-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-1/Day-4/Day-4--PairEqualToSum-Shashank.cpp)
 
 ```
 Eg:
@@ -268,7 +268,7 @@ Explanation: Find any pair of elements in the array which has sum equal to targe
 
 ### Question 1: Find Zigzag Sum (For Square Matrices Only)
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-5/Day-4--ZigZigSum-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-1/Day-5/Day-4--ZigZigSum-Shashank.cpp)
 
 ```
 I/P:
@@ -283,7 +283,7 @@ Explanation: 1+2+3+7+5+9+1=28
 
 ### Question 2.a. Rotate the matrix clock wise by 90 degree
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-5/Day-5--(a)RotateMatrixClockvise(90)-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-1/Day-5/Day-5--(a)RotateMatrixClockvise(90)-Shashank.cpp)
 
 ```
 I/P: 
@@ -299,7 +299,7 @@ O/P:
 
 ### Question 2.b. Rotate the matrix anti-clock wise by 90 degree
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-5/Day-5--(b)RotateMatrixAnticlockvise(90)-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-1/Day-5/Day-5--(b)RotateMatrixAnticlockvise(90)-Shashank.cpp)
 
 ```
 I/P:
@@ -315,7 +315,7 @@ O/P:
 
 ### Question 3. [Print clockwise spirally increasing pattern](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/clockwiseSpiral.JPG)
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-5/Day-5--ClockviseSpiralPattern-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-1/Day-5/Day-5--ClockviseSpiralPattern-Shashank.cpp)
 
 ```
 I/P:
@@ -326,7 +326,7 @@ O/P:
 
 ### Question 4. Traverse Matrix Spirally.
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-5/Day-5--TraverseMatrixSpirally-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-1/Day-5/Day-5--TraverseMatrixSpirally-Shashank.cpp)
 
 ```
 Input:  1    2   3   4
@@ -339,7 +339,7 @@ Output: 1 2 3 4 8 12 16 15 14 13 9 5 6 7 11 10
 
 ### Question 5. Given a matrix, A of size M x N of 0s and 1s. If an element is 0, set its entire row and column to 0.
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-5/Day-5--SetMatrixZero-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-1/Day-5/Day-5--SetMatrixZero-Shashank.cpp)
 
 ```
 I/P:
@@ -360,7 +360,7 @@ O/P:
 
 ### Question 1. Given an array of integers, sort the array according to frequency of elements. That is elements that have higher frequency come first. If frequencies of two elements are same, then smaller number comes first.
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-6/Day-6--SortArrayAccordingToFrequency-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-1/Day-6/Day-6--SortArrayAccordingToFrequency-Shashank.cpp)
 
 ```
 Eg:
@@ -376,7 +376,7 @@ The output is 4 4 5 5 6.
 
 ### Question 2. Given an integer array and a non-negative integer k,count all distinct pairs with difference equal to k, i.e., A[ i ] - A[ j] = k.
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-6/Day-6--CountDifferenceEqualToK-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-1/Day-6/Day-6--CountDifferenceEqualToK-Shashank.cpp)
 
 ```
 Ex:
@@ -392,7 +392,7 @@ Explanation: There is only one pair with difference 0 i.e (1,1)
 
 ### Question 3. Rahul had a sorted array of numbers from which he had to find a given number quickly. His friend by mistake rotated the array. Now Rahul doesn't have time to sort the elements again. Help him to quickly find the given number from the rotated array.
 
-####  [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-6/Day-6--RotatedArray-Shashank.cpp)
+####  [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-1/Day-6/Day-6--RotatedArray-Shashank.cpp)
 
 ```
 Eg:
@@ -409,7 +409,7 @@ Input:
  
 ### Question 4. Given an integer x. The task is to find the square root of x. If x is not a perfect square, then return floor(√x).
  
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-6/Day-6-SquareRoot-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-1/Day-6/Day-6-SquareRoot-Shashank.cpp)
  
  ```
  Eg:
@@ -424,7 +424,7 @@ Input:
  
 ### Question 5. Given a matrix mat[] of size n x m, where every row and column is sorted in increasing order, and a number x is given. The task is to find whether element x is present in the matrix or not.
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-6/Day-6--FindNumberPresentInMatrixOrNot-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-1/Day-6/Day-6--FindNumberPresentInMatrixOrNot-Shashank.cpp)
 
  Expected Time Complexity: O(m+n)
  ```
@@ -447,7 +447,7 @@ Explanation: 62 is not present in the matrix, so output is 0.
 Given an array containing n distinct numbers taken from 0, 1, 2, ..., n, find the one that is missing from the array.
 
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-7/Day-7--MissingNumber-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-1/Day-7/Day-7--MissingNumber-Shashank.cpp)
 
 
 **Example 1:**
@@ -464,7 +464,7 @@ Output: 8
 ### 2. [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 Given an array nums containing n + 1 integers where each integer is between 1 and n (inclusive), prove that at least one duplicate number must exist. Assume that there is only one duplicate number, find the duplicate one.
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-7/Day-7--FindDuplicateNumber-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-1/Day-7/Day-7--FindDuplicateNumber-Shashank.cpp)
 
 **Example 1:**
 ```
@@ -488,7 +488,7 @@ Return A and B.
 **Note:** Your algorithm should have a linear runtime complexity. Could you implement it without using extra memory?
 **Note:** That in your output A should precede B.
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-7/Day-7--RepeatingAndMissing-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-1/Day-7/Day-7--RepeatingAndMissing-Shashank.cpp)
 
 **Example:**
 ```
@@ -502,7 +502,7 @@ A = 3, B = 4
 ### 4. [Merge Two Sorted Lists](https://www.interviewbit.com/problems/merge-two-sorted-lists-ii/)
 Given two sorted integer arrays A and B, merge B into A as one sorted array. If the number of elements initialized in A and B are m and n respectively, the resulting size of array A after your code is executed should be `m + n`   
    
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-7/Day-7--Merge2SortedArray-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-1/Day-7/Day-7--Merge2SortedArray-Shashank.cpp)
 
 **Example :**
 ```
@@ -518,7 +518,7 @@ Modified A : [1 5 6 8 9]
 Given a set of non-overlapping intervals, insert a new interval into the intervals (merge if necessary).
 *You may assume that the intervals were initially sorted according to their start times.*
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-7/Day-7--MergeIntervals-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-1/Day-7/Day-7--MergeIntervals-Shashank.cpp)
 
 **Example 1:**
 
@@ -534,7 +534,7 @@ Make sure the returned intervals are also sorted.
 
 ### 6. [Merge Overlapping Intervals](https://www.interviewbit.com/problems/merge-overlapping-intervals/)
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Day-7/Day-7--MergeAllOverlappingIntervals-Shashank.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-1/Day-7/Day-7--MergeAllOverlappingIntervals-Shashank.cpp)
 
 
 **For example:**
