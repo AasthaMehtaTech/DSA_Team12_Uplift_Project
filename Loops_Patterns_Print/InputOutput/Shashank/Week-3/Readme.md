@@ -82,7 +82,7 @@ To represent a cycle in the given linked list, we use an integer pos which repre
 
 #### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-3/Day-16/Day-16--LinkedListCycle-Shashank.cpp)
 
-**Example 1:**
+**Example :**
 ```
 Input: head = [3,2,0,-4], pos = 1
 Output: true
@@ -90,3 +90,22 @@ Explanation: There is a cycle in the linked list, where tail connects to the sec
 ```
 
 ![CLL](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/images/cll.png)
+
+
+### 2. [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+
+Write a program to find the node at which the intersection of two singly linked lists begins.
+For example, the following two linked lists:
+
+![IOTLL](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/images/Iotll.png)
+
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-3/Day-16/Day-16--IntersectionOfTwoLinkedList-Shashank.cpp)
+
+**Example :**
+![IOTLL-EX1](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/images/IOTLL-EX1.png)
+```
+Input: intersectVal = 8, listA = [4,1,8,4,5], listB = [5,6,1,8,4,5], skipA = 2, skipB = 3
+Output: Reference of the node with value = 8
+Input Explanation: The intersected node's value is 8 (note that this must not be 0 if the two lists intersect). From the head of A, it reads as [4,1,8,4,5]. From the head of B, it reads as [5,6,1,8,4,5]. There are 2 nodes before the intersected node in A; There are 3 nodes before the intersected node in B.
+```
