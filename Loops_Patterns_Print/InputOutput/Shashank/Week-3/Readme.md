@@ -70,3 +70,23 @@ Explanation: The first 1's next greater number is 2;
 The number 2 can't find next greater number; 
 The second 1's next greater number needs to search circularly, which is also 2.
 ```
+
+
+## Day-16 Problems
+
+
+### 1. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+
+Given a linked list, determine if it has a cycle in it.
+To represent a cycle in the given linked list, we use an integer pos which represents the position (0-indexed) in the linked list where tail connects to. If pos is -1, then there is no cycle in the linked list.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-3/Day-16/Day-16--LinkedListCycle-Shashank.cpp)
+
+**Example 1:**
+```
+Input: head = [3,2,0,-4], pos = 1
+Output: true
+Explanation: There is a cycle in the linked list, where tail connects to the second node.
+```
+
+![CLL](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/images/cll.png)
