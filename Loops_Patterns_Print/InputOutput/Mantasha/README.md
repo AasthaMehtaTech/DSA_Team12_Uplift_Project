@@ -1392,3 +1392,108 @@ Explanation: The first 1's next greater number is 2;
 The number 2 can't find next greater number; 
 The second 1's next greater number needs to search circularly, which is also 2.
 ```
+<hr>
+
+
+## Day-16 Problems
+
+
+### 1. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+
+Given a linked list, determine if it has a cycle in it.
+To represent a cycle in the given linked list, we use an integer pos which represents the position (0-indexed) in the linked list where tail connects to. If pos is -1, then there is no cycle in the linked list.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day-16/P1_LinkedListCycle.cpp)
+
+**Example :**
+```
+Input: head = [3,2,0,-4], pos = 1
+Output: true
+Explanation: There is a cycle in the linked list, where tail connects to the second node.
+```
+
+![CLL](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/images/cll.png)
+
+
+### 2. [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+
+Write a program to find the node at which the intersection of two singly linked lists begins.
+For example, the following two linked lists:
+
+![IOTLL](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/images/Iotll.png)
+
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day-16/P2_IntersectionOfTwoLinkedLists.cpp)
+
+**Example :**
+![IOTLL-EX1](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/images/IOTLL-EX1.png)
+```
+Input: intersectVal = 8, listA = [4,1,8,4,5], listB = [5,6,1,8,4,5], skipA = 2, skipB = 3
+Output: Reference of the node with value = 8
+Input Explanation: The intersected node's value is 8 (note that this must not be 0 if the two lists intersect). From the head of A, it reads as [4,1,8,4,5]. From the head of B, it reads as [5,6,1,8,4,5]. There are 2 nodes before the intersected node in A; There are 3 nodes before the intersected node in B.
+```
+
+
+### 3. [Delete without head pointer ](https://practice.geeksforgeeks.org/problems/delete-without-head-pointer/1)
+
+You are given a pointer/ reference to the node which is to be deleted from the linked list of N nodes. The task is to delete the node. Pointer/ reference to head node is not given
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day-16/P3_DeleteWithoutHeadPointer.cpp)
+
+**Example:**
+```
+Input:
+2
+2
+1 2
+1
+4
+10 20 4 30
+20
+Output:
+2
+10 4 30
+```
+
+
+### 4. [Sorted insert for circular linked list](https://practice.geeksforgeeks.org/problems/sorted-insert-for-circular-linked-list/1)
+
+Given a sorted circular linked list, the task is to insert a new node in this circular list so that it remains a sorted circular linked list.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day-16/P4_SortedInsertForCircularLinkedList.cpp)
+
+**Example:**
+```
+Input:
+2
+3
+1 2 4
+2
+4
+1 4 7 9
+5
+
+Output:
+1 2 2 4
+1 4 5 7 9
+```
+
+
+### 5. [Given a linked list of 0s, 1s and 2s, sort it](https://practice.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1)
+
+Given a linked list of **N** nodes where nodes can contain values **0s**, **1s**, and **2s** only. The task is to segregate **0s**, **1s**, and **2s** linked list such that all zeros segregate to head side, 2s at the end of the linked list, and 1s in the mid of 0s and 2s.
+
+#### [My Solution](oject/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day-16/P5_GivenALinkedListOf0s1sAnd2sSortIt.cpp)
+
+**Example:**
+```
+Input:
+2
+8
+1 2 2 1 2 0 2 2
+4
+2 2 0 1
+Output:
+0 1 1 2 2 2 2 2
+0 1 2 2
+```
