@@ -109,3 +109,68 @@ Input: intersectVal = 8, listA = [4,1,8,4,5], listB = [5,6,1,8,4,5], skipA = 2, 
 Output: Reference of the node with value = 8
 Input Explanation: The intersected node's value is 8 (note that this must not be 0 if the two lists intersect). From the head of A, it reads as [4,1,8,4,5]. From the head of B, it reads as [5,6,1,8,4,5]. There are 2 nodes before the intersected node in A; There are 3 nodes before the intersected node in B.
 ```
+
+
+### 3. [Delete without head pointer ](https://practice.geeksforgeeks.org/problems/delete-without-head-pointer/1)
+
+You are given a pointer/ reference to the node which is to be deleted from the linked list of N nodes. The task is to delete the node. Pointer/ reference to head node is not given
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-3/Day-16/Day-16--DeleteWithoutHeadPointer-Shashank.cpp)
+
+**Example:**
+```
+Input:
+2
+2
+1 2
+1
+4
+10 20 4 30
+20
+Output:
+2
+10 4 30
+```
+
+
+### 4. [Sorted insert for circular linked list](https://practice.geeksforgeeks.org/problems/sorted-insert-for-circular-linked-list/1)
+
+Given a sorted circular linked list, the task is to insert a new node in this circular list so that it remains a sorted circular linked list.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-3/Day-16/Day-16--SortedInsertForCircularLinkedList-Shashank.cpp)
+
+**Example:**
+```
+Input:
+2
+3
+1 2 4
+2
+4
+1 4 7 9
+5
+
+Output:
+1 2 2 4
+1 4 5 7 9
+```
+
+
+### 5. [Given a linked list of 0s, 1s and 2s, sort it](https://practice.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1)
+
+Given a linked list of **N** nodes where nodes can contain values **0s**, **1s**, and **2s** only. The task is to segregate **0s**, **1s**, and **2s** linked list such that all zeros segregate to head side, 2s at the end of the linked list, and 1s in the mid of 0s and 2s.
+
+#### [My Solution](oject/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-3/Day-16/Day-16--SortingGivenLikedList-Shashank.cpp)
+
+**Example:**
+```
+Input:
+2
+8
+1 2 2 1 2 0 2 2
+4
+2 2 0 1
+Output:
+0 1 1 2 2 2 2 2
+0 1 2 2
+```
