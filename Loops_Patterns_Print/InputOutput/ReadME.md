@@ -41,12 +41,17 @@ Linked lists resources to study from- https://docs.google.com/document/d/1TeniAE
 5. [Next Greater Circular](https://leetcode.com/problems/next-greater-element-ii/) <br>
 
 ## Day 16 Linked List (Some more Practise)
-## [Circular Linked list](https://www.geeksforgeeks.org/circular-linked-list/) <br>
-## [Doubly Linked List](https://www.geeksforgeeks.org/doubly-linked-list/) <br>
+### [Circular Linked list](https://www.geeksforgeeks.org/circular-linked-list/) <br>
+### [Doubly Linked List](https://www.geeksforgeeks.org/doubly-linked-list/) <br>
 1. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) <br>
 2. [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) <br>
 3. [Delete without head pointer](https://practice.geeksforgeeks.org/problems/delete-without-head-pointer/1) <br>
 4. [Sorted insert for circular linked list](https://practice.geeksforgeeks.org/problems/sorted-insert-for-circular-linked-list/1) <br>
 5. [Given a linked list of 0s, 1s and 2s, sort it](https://practice.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1) <br>
 
-
+## Day 17 - Hash Maps / Dictionary 
+1. [2 Sum](https://leetcode.com/problems/two-sum) <br>
+2. [Sub-array with sum K](https://leetcode.com/problems/subarray-sum-equals-k/) <br>
+3. [Sort Character by Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) <br>
+4. [Find All Anagrams](https://leetcode.com/problems/find-all-anagrams-in-a-string/) <br>
+5. [Contiguous Array](https://leetcode.com/problems/contiguous-array/) <br>
