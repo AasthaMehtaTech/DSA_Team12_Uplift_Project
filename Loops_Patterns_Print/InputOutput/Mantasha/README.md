@@ -1497,3 +1497,86 @@ Output:
 0 1 1 2 2 2 2 2
 0 1 2 2
 ```
+<hr>
+
+
+## Day-17 Problems
+
+
+### 1. [Two Sum](https://leetcode.com/problems/two-sum/)
+
+Given an array of integers, return **indices** of the two numbers such that they add up to a specific target.
+You may assume that each input would have **exactly** one solution, and you may not use the same element twice.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day-17P1_TwoSum.cpp)
+
+**Example:**
+```
+Given nums = [2, 7, 11, 15], target = 9,
+Because nums[0] + nums[1] = 2 + 7 = 9,
+return [0, 1].
+```
+
+
+### 2. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
+
+Given an array of integers and an integer **k**, you need to find the total number of continuous subarrays whose sum equals to **k**.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day-17/P2_Sub-arrayWithSumK.cpp)
+**Example:**
+```
+Input:nums = [1,1,1], k = 2
+Output: 2
+```
+
+
+### 3. [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
+
+Given a string, sort it in decreasing order based on the frequency of characters.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day-17/P3_SortCharacterByFrequency.cpp)
+
+**Example:**
+```
+Input:
+"tree"
+Output:
+"eert"
+Explanation:
+'e' appears twice while 'r' and 't' both appear once.
+So 'e' must appear before both 'r' and 't'. Therefore "eetr" is also a valid answer.
+```
+
+
+### 4. [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
+
+Given a string **s** and a **non-empty** string **p**, find all the start indices of **p**'s anagrams in s.
+Strings consists of lowercase English letters only and the length of both strings **s** and **p** will not be larger than 20,100.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day-17/P4_FindAllAnagrams.cpp)
+
+**Example :**
+```
+Input:
+s: "cbaebabacd" p: "abc"
+Output:
+[0, 6]
+Explanation:
+The substring with start index = 0 is "cba", which is an anagram of "abc".
+The substring with start index = 6 is "bac", which is an anagram of "abc".
+```
+
+
+### 5. [Contiguous Array](https://leetcode.com/problems/contiguous-array/)
+
+Given a binary array, find the maximum length of a contiguous subarray with equal number of 0 and 1.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day-17/P5_ContiguousArray.cpp)
+
+**Example:**
+```
+Input: [0,1]
+Output: 2
+Explanation: [0, 1] is the longest contiguous subarray with equal number of 0 and 1.
+```
+
