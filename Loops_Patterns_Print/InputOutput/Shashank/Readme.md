@@ -11,13 +11,18 @@
 * [![Slack](https://img.shields.io/badge/Slack-Shashank-yellow)](https://app.slack.com/client/T0145PE3493/C0140D0LQ78/user_profile/U014JTYJE1Y)
 
 
-# Problem Solutions 🔻   
-###                                                                                                                                       ⚫ Completed
-###                                                                                                                                       🟢 Live
-
+# Problem Solutions 🔻   **⚫ Completed,  🟢 Live**
 
 ## [⚫ Week 1](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/tree/master/Loops_Patterns_Print/InputOutput/Shashank/Week-1)
 
 ## [⚫ Week 2](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/tree/master/Loops_Patterns_Print/InputOutput/Shashank/Week-2)
 
 ## [🟢 Week 3](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/tree/master/Loops_Patterns_Print/InputOutput/Shashank/Week-3)
+
+
+<hr>
+
+
+
+
+
