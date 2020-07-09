@@ -1508,7 +1508,7 @@ Output:
 Given an array of integers, return **indices** of the two numbers such that they add up to a specific target.
 You may assume that each input would have **exactly** one solution, and you may not use the same element twice.
 
-#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day-17P1_TwoSum.cpp)
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day-17/P1_TwoSum.cpp)
 
 **Example:**
 ```
