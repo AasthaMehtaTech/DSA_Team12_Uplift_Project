@@ -67,9 +67,9 @@
 
 #### [⚫ Day-15](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/tree/master/Loops_Patterns_Print/InputOutput/Shashank/Week-3/Day-15)
 
-#### [⚫ Day-15](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/tree/master/Loops_Patterns_Print/InputOutput/Shashank/Week-3/Day-16)
+#### [⚫ Day-16](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/tree/master/Loops_Patterns_Print/InputOutput/Shashank/Week-3/Day-16)
 
-#### [🟢 Day-15](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/tree/master/Loops_Patterns_Print/InputOutput/Shashank/Week-3/Day-17)
+#### [🟢 Day-17](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/tree/master/Loops_Patterns_Print/InputOutput/Shashank/Week-3/Day-17)
 
 </details>
 
