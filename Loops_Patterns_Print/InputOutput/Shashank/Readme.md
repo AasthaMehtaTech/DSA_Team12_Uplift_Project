@@ -12,7 +12,11 @@
 
 
 # Problem Solutions 👇
-### Status:   .......................................   *⚫ Completed,  🟢 Live*
+### Status:
+*⚫ Completed,  🟢 Live*
+
+---
+
 
 ## [⚫ Week 1](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/tree/master/Loops_Patterns_Print/InputOutput/Shashank/Week-1)
 <details>
