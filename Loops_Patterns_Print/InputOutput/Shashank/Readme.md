@@ -14,9 +14,9 @@
 # Problem Solutions 👇
 ### Status:   .......................................   *⚫ Completed,  🟢 Live*
 
-## [Week 1](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/tree/master/Loops_Patterns_Print/InputOutput/Shashank/Week-1)
+## [⚫ Week 1](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/tree/master/Loops_Patterns_Print/InputOutput/Shashank/Week-1)
 <details>
-  <summary>View Details</summary>
+  <summary>Open Week-1</summary>
   
   
 #### [⚫ Day-1](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/tree/master/Loops_Patterns_Print/InputOutput/Shashank/Week-1/Day-1)
@@ -34,11 +34,12 @@
 #### [⚫ Day-7](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/tree/master/Loops_Patterns_Print/InputOutput/Shashank/Week-1/Day-7)
 
 </details>
+
 ---
 
-## [Week 2](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/tree/master/Loops_Patterns_Print/InputOutput/Shashank/Week-2)
+## [⚫ Week 2](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/tree/master/Loops_Patterns_Print/InputOutput/Shashank/Week-2)
 <details>
-  <summary>View Details</summary>
+  <summary>Open Week-2</summary>
 
 
 #### [⚫ Day-8](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/tree/master/Loops_Patterns_Print/InputOutput/Shashank/Week-2/Day-8)
@@ -56,14 +57,21 @@
 #### [⚫ Day-14](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/tree/master/Loops_Patterns_Print/InputOutput/Shashank/Week-2/Day-14)
 
 </details>
+
 ---
 
-## [Week 3](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/tree/master/Loops_Patterns_Print/InputOutput/Shashank/Week-3)
+## [🟢 Week 3](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/tree/master/Loops_Patterns_Print/InputOutput/Shashank/Week-3)
 
+<details>
+  <summary>Open Week-3</summary>
 
-<hr>
+#### [⚫ Day-15](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/tree/master/Loops_Patterns_Print/InputOutput/Shashank/Week-3/Day-15)
 
+#### [⚫ Day-15](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/tree/master/Loops_Patterns_Print/InputOutput/Shashank/Week-3/Day-16)
 
+#### [🟢 Day-15](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/tree/master/Loops_Patterns_Print/InputOutput/Shashank/Week-3/Day-17)
 
+</details>
 
+---
 
