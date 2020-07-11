@@ -1,42 +1,66 @@
-class MinStack {
-    Stack <Integer>stack,minStack;
-
-    /** initialize your data structure here. */
-    public MinStack() 
+class GfG
+{
+    int minEle;
+    Stack<Integer> s = new Stack<Integer>();
+    Stack <Integer>s1 = new Stack<Integer>();
+    /*returns min element from stack*/
+    int getMin()
     {
-          stack = new Stack();
-        minStack = new Stack();
+	// Your code here
+	    
+	    if(s1.isEmpty())
+	    {
+	       return -1;
+	    }
+	    else
+	    {
+	         minEle = s1.peek();
+	    }
+	    return minEle;
     }
     
-    public void push(int x)
+    /*returns poped element from stack*/
+    int pop()
     {
-         stack.push(x);
-        if (minStack.empty())
-        {  
-            minStack.push(x);
-        }
-        else if (minStack.peek() >= x)
-        {
-            minStack.push(x);
-        }    
+        int del=0;
+	 // Your code here
+	   if(s.isEmpty())
+	   {
+	       return -1;
+	   }
+	   else 
+	   {
+	       del = s.pop();
+	       if(s1.isEmpty())
+	       {
+	           return -1;
+	       }
+	       else
+	       { 
+	           if(del==s1.peek() && !s1.isEmpty()) 
+	           {
+	               s1.pop();
+	           }
+	       }
+	   }
+	   return del;
+	    
     }
     
-    public void pop() {
-        int popEle = stack.pop();
-        if(popEle == minStack.peek() && !minStack.isEmpty())
-        {
-            minStack.pop();
-        }
-        
-    }
-    
-    public int top() 
+    /*push element x into the stack*/
+    void push(int x)
     {
-        return stack.peek();
-    }
-    
-    public int getMin() {
-        return minStack.peek();
-        
-    }
+	// Your code here
+	   s.push(x);
+	   if(s1.isEmpty())
+	   {
+	       s1.push(x);
+	   }
+	  else if(x<=s1.peek())
+	   {
+	      s1.push(x); 
+	   }
+    }	
 }
+
+
