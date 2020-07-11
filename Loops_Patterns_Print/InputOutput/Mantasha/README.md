@@ -54,6 +54,8 @@
 ```
 [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day1/P5_KajuKatli.cpp)
 
+<hr>
+
 ## Day 2 Solutions
 
 ### Question 1: Take N(number of rows), print the following pattern (Ex: N=4)
@@ -118,6 +120,8 @@ Sample output <br>
  ```
 [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day2/P5_DecimalRepresentation.cpp)
 
+<hr>
+
 ## Day 3 Solutions
 
 ### Question 1: Take n elements as I/P, print max, min, sum of them.
@@ -167,6 +171,8 @@ O/P :
 Explanation : Differences : |1-3|=2, |3-2|=1, |2-5|=3. MAX DIFFERENCE : 3
 ```
 [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day3/P4_MaxAbsoluteDifference.cpp)
+
+<hr>
 
 ## Day 4 Solutions
 
@@ -229,6 +235,8 @@ Output:
 Explanation: Find any pair of elements in the array which has sum equal to target element and print them.
 ```
 [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day4/P5-PairEqualToSum.cpp)
+
+<hr>
 
 ## Day 5 Solutions( 2D Arrays )
 
@@ -330,6 +338,8 @@ O/P:
 
 (100 Coding  Problems for future)[https://codeburst.io/100-coding-interview-questions-for-programmers-b1cf74885fb7]
 
+<hr>
+
 ## Day 6 Problems
 
 ### Question 1. Given an array of integers, sort the array according to frequency of elements. That is elements that have higher frequency come first. If frequencies of two elements are same, then smaller number comes first.
@@ -403,6 +413,7 @@ Explanation: 62 is not present in the matrix, so output is 0.
 ```
 
 [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day6/P5_FindNumberPresentInMatrixOrNot.cpp)
+<hr>
 
 ## Day 7- Arrays & Maths & Pointer concepts:
 Note: Try to run your code on the links provided so that you know it passes all corner test cases as well & then upload your soln here.
@@ -494,6 +505,8 @@ Make sure the returned intervals are sorted
 Now let's Dive into some strings and Character array Problems. <br> 
 Resources to read from: https://docs.google.com/document/d/1GKOcQCGw3T4kSD0G5dckz1jlJfrWh4ZvXmCW05NGbCE/edit?usp=sharing
 <br>
+
+<hr>
 
 ## Day 8 Problems Solution
 
@@ -610,6 +623,7 @@ gksrek geeksforgeeks
 
 [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day8/P5_CheckForSubsequence.cpp)
 
+<hr>
 
 ## Day 9 Problems Solution
 
@@ -765,6 +779,8 @@ Output: ""
 Explanation: There is no common prefix among the input strings.
 ```
 **Note:**  All given inputs are in lowercase letters a-z.
+
+<hr>
 
 ## Day 10 Problems
 
@@ -1580,3 +1596,4 @@ Output: 2
 Explanation: [0, 1] is the longest contiguous subarray with equal number of 0 and 1.
 ```
 
+<hr>
