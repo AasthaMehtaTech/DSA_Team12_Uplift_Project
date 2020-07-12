@@ -8,6 +8,17 @@
 * [![LinkedIn](https://img.shields.io/badge/connect-%40MantashaShakeel-%230077B5?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/mantasha-shakeel-92109317a/)
 * [![Slack](https://img.shields.io/badge/Slack-Mantasha-yellow)](https://app.slack.com/client/T0145PE3493/C0140D0LQ78/user_profile/U01443BCF8X)
 
+Week 1 Problems: 
+
+Tutorial link: https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/tutorial/ <br>
+
+# Pattern Resource
+
+(Patterns Eg Source Codes)[https://www.edureka.co/blog/30-pattern-programs-in-java/] <br>
+Patterns using Cpp: https://www.programiz.com/cpp-programming/examples/pyramid-pattern , 
+         https://www.educba.com/star-patterns-in-c-plus-plus/<br>
+Some more questions: https://www.faceprep.in/c/pattern-programs-in-c/ <br>
+Additional questions: https://www.geeksforgeeks.org/programs-printing-pyramid-patterns-c/ <br>
 
 
 
