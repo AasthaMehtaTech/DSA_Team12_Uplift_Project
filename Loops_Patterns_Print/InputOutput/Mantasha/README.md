@@ -912,6 +912,10 @@ Given an input string, reverse the string word by word.
 
 ## Day-11 Problems
 
+[More on Strings](https://leetcode.com/tag/string/): Select Medium Level & Ones with Upvotes>>Downvotes. <br>
+
+Linked lists resources to study from- https://docs.google.com/document/d/1TeniAEmiHohrg39m5P3xsZ0gUi_Vtb3phtha-cPIgio/edit?usp=sharing
+
 
 ### 1. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
@@ -1431,6 +1435,9 @@ The second 1's next greater number needs to search circularly, which is also 2.
 
 
 ## Day-16 Problems
+
+### [Circular Linked list](https://www.geeksforgeeks.org/circular-linked-list/) <br>
+### [Doubly Linked List](https://www.geeksforgeeks.org/doubly-linked-list/) <br>
 
 
 ### 1. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
