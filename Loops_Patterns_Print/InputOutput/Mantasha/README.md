@@ -350,6 +350,14 @@ O/P:
 [100 Coding  Problems for future](https://codeburst.io/100-coding-interview-questions-for-programmers-b1cf74885fb7)
 
 <hr>
+## Level Up Array:
+Next let's dive into sorting techniques:<br>
+More Practise Problems on Arrays:[here](https://www.interviewbit.com/courses/programming/topics/arrays/)
+
+## Resources related to Searching and Sorting : 
+https://docs.google.com/document/d/1vR5BLH5borpibYjQ0R6y00zgo-RP5JdkejS_3ilU-DI/edit?usp=sharing  <br>
+https://codeburst.io/algorithms-i-searching-and-sorting-algorithms-56497dbaef20
+<hr>
 
 ## Day 6 Problems
 
