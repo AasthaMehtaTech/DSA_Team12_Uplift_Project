@@ -6,7 +6,7 @@
 ## College: *Institute Of Technology & Management, Lucknow*
 
 
-## Hall Of Fame
+## Hall Of Fames
 
 
 [![](https://sourcerer.io/fame/amshashank/AasthaGithub/DSA_Team12_Uplift_Project/images/4)](https://sourcerer.io/fame/amshashank/AasthaGithub/DSA_Team12_Uplift_Project/links/4)[![](https://sourcerer.io/fame/amshashank/AasthaGithub/DSA_Team12_Uplift_Project/images/7)](https://sourcerer.io/fame/amshashank/AasthaGithub/DSA_Team12_Uplift_Project/links/7)
