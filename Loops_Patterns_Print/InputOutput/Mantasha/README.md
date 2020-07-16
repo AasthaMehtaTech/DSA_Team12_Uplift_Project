@@ -2,7 +2,7 @@
 
 ## Name   : *Mantasha Shakeel*
 ## College: *Institute Of Technology & Management, Lucknow*
-
+## City : *Lucknow*
 **You can connect with me on:**
 
 * [![LinkedIn](https://img.shields.io/badge/connect-%40MantashaShakeel-%230077B5?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/mantasha-shakeel-92109317a/)
