@@ -313,7 +313,7 @@ O/P:
 ```
 
 
-### Question 3. [Print clockwise spirally increasing pattern](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/clockwiseSpiral.JPG)
+### Question 3. ![Print clockwise spirally increasing pattern](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/clockwiseSpiral.JPG)
 
 #### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-1/Day-5/Day-5--ClockviseSpiralPattern-Shashank.cpp)
 
