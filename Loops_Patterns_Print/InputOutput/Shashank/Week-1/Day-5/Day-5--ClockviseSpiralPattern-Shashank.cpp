@@ -1,61 +1,68 @@
 #include <bits/stdc++.h> 
 using namespace std; 
-	
-int main() 
-{ 	
-	int m , n;
-	cout << "Enter order of matrix : ";
-	cin >> m >> n;
-	int a[m][n];
-	
-	cout << "Enter elements in array : " << endl;
-	for(int i=0; i<m; i++){
-		cout << "Enter element in " << i << "th row : ";
-		for(int j=0; j<n; j++){	
-			cin >> a[i][j];
-		}
-	}	
-	int i, k = 0, l = 0; 
-	/* k - starting row index 
-		m - ending row index 
-		l - starting column index 
-		n - ending column index 
-		i - iterator 
-	*/
-	
-	cout << "Spiral Pattern of given Matrix : ";
-	while (k < m && l < n) { 
-		/* Print the first row from 
-			the remaining rows */
-		for (i = l; i < n; ++i) { 
-			cout << a[k][i] << " "; 
-		} 
-		k++; 
 
-		/* Print the last column 
-		from the remaining columns */
-		for (i = k; i < m; ++i) { 
-			cout << a[i][n - 1] << " "; 
-		} 
-		n--; 
+#define R 5 
+#define C 5 
 
-		/* Print the last row from 
-				the remaining rows */
-		if (k < m) { 
-			for (i = n - 1; i >= l; --i) { 
-				cout << a[m - 1][i] << " "; 
-			} 
-			m--; 
-		} 
+void formSpiralMatrix(int arr[], int mat[R][C]) 
+{ 
+	int top = 0, 
+		bottom = R - 1, 
+		left = 0, 
+		right = C - 1; 
 
-		/* Print the first column from 
-				the remaining columns */
-		if (l < n) { 
-			for (i = m - 1; i >= k; --i) { 
-				cout << a[i][l] << " "; 
-			} 
-			l++; 
-		} 
+	int index = 0; 
+
+	while (1) { 
+
+		if (left > right) 
+			break; 
+
+		for (int i = left; i <= right; i++) 
+			mat[top][i] = arr[index++]; 
+		top++; 
+
+		if (top > bottom) 
+			break; 
+
+		for (int i = top; i <= bottom; i++) 
+			mat[i][right] = arr[index++]; 
+		right--; 
+
+		if (left > right) 
+			break; 
+
+		for (int i = right; i >= left; i--) 
+			mat[bottom][i] = arr[index++]; 
+		bottom--; 
+
+		if (top > bottom) 
+			break; 
+
+		for (int i = bottom; i >= top; i--) 
+			mat[i][left] = arr[index++]; 
+		left++; 
 	} 
+} 
+
+void printSpiralMatrix(int mat[R][C]) 
+{ 
+
+	for (int i = 0; i < R; i++) { 
+		for (int j = 0; j < C; j++) 
+			cout << mat[i][j] << " "; 
+		cout << '\n'; 
+	} 
+} 
+
+int main() 
+{ 
+	int arr[] 
+		= { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25}; 
+	int mat[R][C]; 
+
+	formSpiralMatrix(arr, mat); 
+	printSpiralMatrix(mat); 
+
 	return 0; 
 } 
