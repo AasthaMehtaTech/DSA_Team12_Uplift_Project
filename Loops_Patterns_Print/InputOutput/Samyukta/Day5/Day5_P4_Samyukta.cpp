@@ -9,8 +9,8 @@ int main() {
 	    for(j=0;j<m;j++)
 	    {
 	        cin>>arr[i][j];
-	    }
-	}
+	    }                               //l- column start , m- max column
+	}                                   //k- row start, n- max row
 	while(k<n&&l<m)
 	{
 	    for(i=l;i<m;i++)                //first row
@@ -20,7 +20,7 @@ int main() {
 	    k++;
 	    for(i=k;i<n;i++)                //last column
 	    {
-	        cout<<arr[i][n-1]<<" ";
+	        cout<<arr[i][m-1]<<" ";
 	    }
 	    m--;
 	    if(k<n){
