@@ -2,7 +2,7 @@
 
 
 
-## Name   : *Shashank Kesarwani*
+![Name](https://github.com/amshashank/amshashank/blob/master/img/Name.gif)
 ## College: *Institute Of Technology & Management, Lucknow*
 
 ---
