@@ -1,5 +1,3 @@
-# Uplift Project - DSA Team 12
-
 
 
 ![Name](https://github.com/amshashank/amshashank/blob/master/img/Name.gif)
@@ -7,6 +5,9 @@
 
 ---
 ---
+
+# Uplift Project - DSA Team 12
+
 
 ## Hall Of Fames Overall
 
