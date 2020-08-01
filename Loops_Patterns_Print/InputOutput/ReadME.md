@@ -55,3 +55,11 @@ Linked lists resources to study from- https://docs.google.com/document/d/1TeniAE
 3. [Sort Character by Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) <br>
 4. [Find All Anagrams](https://leetcode.com/problems/find-all-anagrams-in-a-string/) <br>
 5. [Contiguous Array](https://leetcode.com/problems/contiguous-array/) <br>
+
+## Day 18 - Hash Maps (A light & delightful comeback- 1 Aug)
+1. [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) <br>
+2. [H Index](https://leetcode.com/problems/h-index/) <br>
+
+
+
+
