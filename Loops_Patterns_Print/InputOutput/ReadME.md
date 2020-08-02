@@ -57,8 +57,14 @@ Linked lists resources to study from- https://docs.google.com/document/d/1TeniAE
 5. [Contiguous Array](https://leetcode.com/problems/contiguous-array/) <br>
 
 ## Day 18 - Hash Maps (A light & delightful comeback- 1 Aug)
-1. [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) <br>
+1. [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)<br>
+Same as Day 10 Isomorphic which was solved using Normal Array Look up earlier.<br>
 2. [H Index](https://leetcode.com/problems/h-index/) <br>
+
+## Resources Update:
+[Super 30](https://docs.google.com/spreadsheets/d/1O_qwBKEESxXos-4auFjiU56RemuF2Fic--Mm7ABPvHA/edit#gid=0)
+[500 Question](https://docs.google.com/spreadsheets/u/1/d/1XdXJbn9NC7fx1CeavItkxR0Yos8rQAC9xXjnH4-f6Eg/htmlview#)
+[General](https://yangshun.github.io/tech-interview-handbook/introduction)
 
 
 
