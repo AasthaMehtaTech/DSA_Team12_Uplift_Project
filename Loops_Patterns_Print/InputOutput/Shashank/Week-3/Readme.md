@@ -257,3 +257,23 @@ Output: 2
 Explanation: [0, 1] is the longest contiguous subarray with equal number of 0 and 1.
 ```
 
+
+## Day-18 Problems
+
+
+### 1. [H-index](https://leetcode.com/problems/h-index/)
+
+Given an array of citations (each citation is a non-negative integer) of a researcher, write a function to compute the researcher's h-index.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-3/Day-18/Day-18--H-Index-Shashank.cpp)
+
+**Example:**
+```
+Input: citations = [3,0,6,1,5]
+Output: 3 
+Explanation: [3,0,6,1,5] means the researcher has 5 papers in total and each of them had 
+             received 3, 0, 6, 1, 5 citations respectively. 
+             Since the researcher has 3 papers with at least 3 citations each and the remaining 
+             two with no more than 3 citations each, her h-index is 3.
+```
+
