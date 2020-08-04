@@ -60,12 +60,15 @@ Linked lists resources to study from- https://docs.google.com/document/d/1TeniAE
 1. [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)<br>
 Same as Day 10 Isomorphic which was solved using Normal Array Look up earlier.<br>
 2. [H Index](https://leetcode.com/problems/h-index/) <br>
+3. [Find Common Characters](https://leetcode.com/problems/find-common-characters/) <br>
+4. [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) <br>
+5. [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) <br>
 
 ## Resources Update:
 [Super 30](https://docs.google.com/spreadsheets/d/1O_qwBKEESxXos-4auFjiU56RemuF2Fic--Mm7ABPvHA/edit#gid=0)
 [500 Question](https://docs.google.com/spreadsheets/u/1/d/1XdXJbn9NC7fx1CeavItkxR0Yos8rQAC9xXjnH4-f6Eg/htmlview#)
 [General](https://yangshun.github.io/tech-interview-handbook/introduction)
-
+[Company specific questions to practise for interviews](https://github.com/MysteryVaibhav/leetcode_company_wise_questions)
 
 
 
