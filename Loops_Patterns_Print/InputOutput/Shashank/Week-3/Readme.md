@@ -297,3 +297,15 @@ Explanation: [3,0,6,1,5] means the researcher has 5 papers in total and each of 
              two with no more than 3 citations each, her h-index is 3.
 ```
 
+
+### 3. [Find Common Characters](https://leetcode.com/problems/find-common-characters/)
+
+Given an array A of strings made only from lowercase letters, return a list of all characters that show up in all strings within the list (**including duplicates**).
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-3/Day-18/Day-18--FindCommonCharacters-Shashank.cpp)
+
+**Example 1:**
+```
+Input: ["bella","label","roller"]
+Output: ["e","l","l"]
+```
