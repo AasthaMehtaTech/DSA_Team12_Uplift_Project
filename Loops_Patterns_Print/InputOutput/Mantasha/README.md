@@ -1623,3 +1623,93 @@ Explanation: [0, 1] is the longest contiguous subarray with equal number of 0 an
 ```
 
 <hr>
+
+## Day-18 Problems
+
+### 1. [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
+
+Given two strings s and t, determine if they are isomorphic.
+Two strings are isomorphic if the characters in s can be replaced to get t.
+All occurrences of a character must be replaced with another character while preserving the order of characters. No two characters may map to the same character but a character may map to itself.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day-18/P1_IsomorphicStrings.cpp)
+
+**Example 1:**
+
+**Input:**
+```
+s = "egg", 
+t = "add"
+```
+**Output:**
+```
+true
+```
+
+
+### 2. [H-index](https://leetcode.com/problems/h-index/)
+
+Given an array of citations (each citation is a non-negative integer) of a researcher, write a function to compute the researcher's h-index.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day-18/P2_HIndex.cpp)
+
+**Example:**
+```
+Input: citations = [3,0,6,1,5]
+Output: 3 
+Explanation: [3,0,6,1,5] means the researcher has 5 papers in total and each of them had 
+             received 3, 0, 6, 1, 5 citations respectively. 
+             Since the researcher has 3 papers with at least 3 citations each and the remaining 
+             two with no more than 3 citations each, her h-index is 3.
+```
+
+
+### 3. [Find Common Characters](https://leetcode.com/problems/find-common-characters/)
+
+Given an array A of strings made only from lowercase letters, return a list of all characters that show up in all strings within the list (**including duplicates**).
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day-18/P3_FindCommonCharacters.cpp)
+
+**Example 1:**
+```
+Input: ["bella","label","roller"]
+Output: ["e","l","l"]
+```
+
+
+### 4. [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
+
+Given two arrays, write a function to compute their intersection.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day-18/P4_IntersectionOfTwoArrays.cpp)
+
+**Example 1:**
+```
+Input: nums1 = [1,2,2,1], nums2 = [2,2]
+Output: [2]
+```
+
+
+### 5. [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)
+
+We define a harmounious array as an array where the difference between its maximum value and its minimum value is exactly 1.
+Now, given an integer array, you need to find the length of its longest harmonious subsequence among all its possible subsequences.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Mantasha/Day-18/P5_LongestHarmoniousSubsequence.cpp)
+
+**Example 1:**
+```
+Input: [1,3,2,2,5,2,3,7]
+Output: 5
+Explanation: The longest harmonious subsequence is [3,2,2,2,3].
+```
+
+## Resources Update:
+[Super 30](https://docs.google.com/spreadsheets/d/1O_qwBKEESxXos-4auFjiU56RemuF2Fic--Mm7ABPvHA/edit#gid=0)<br>
+[500 Question](https://docs.google.com/spreadsheets/u/1/d/1XdXJbn9NC7fx1CeavItkxR0Yos8rQAC9xXjnH4-f6Eg/htmlview#)<br>
+[General](https://yangshun.github.io/tech-interview-handbook/introduction)<br>
+[Company specific questions to practise for interviews](https://github.com/MysteryVaibhav/leetcode_company_wise_questions)<br>
+
+
+
+
