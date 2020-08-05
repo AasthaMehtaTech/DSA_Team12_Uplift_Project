@@ -309,3 +309,17 @@ Given an array A of strings made only from lowercase letters, return a list of a
 Input: ["bella","label","roller"]
 Output: ["e","l","l"]
 ```
+
+
+### 4. [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
+
+Given two arrays, write a function to compute their intersection.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-3/Day-18/Day-18--IntersectionOfTwoArrays-Shashank.cpp)
+
+**Example 1:**
+```
+Input: nums1 = [1,2,2,1], nums2 = [2,2]
+Output: [2]
+```
+
