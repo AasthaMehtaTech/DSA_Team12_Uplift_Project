@@ -64,11 +64,21 @@ Same as Day 10 Isomorphic which was solved using Normal Array Look up earlier.<b
 4. [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) <br>
 5. [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) <br>
 
+## Day 19 - Hash Maps & Graphs
+### HashMaps
+1. [Four Sum](https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers/0)<br>
+2. [Swapping & making Sum Equal](https://practice.geeksforgeeks.org/problems/swapping-pairs-make-sum-equal/0) <br>
+### Graphs
+3. [Clone Graph](https://leetcode.com/problems/clone-graph) <br>
+4. [Find Town Judge](https://leetcode.com/problems/find-the-town-judge) <br>
+5. [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary) <br>
+6. [Course Schedule](https://leetcode.com/problems/course-schedule) <br>
+
 ## Resources Update:
-[Super 30](https://docs.google.com/spreadsheets/d/1O_qwBKEESxXos-4auFjiU56RemuF2Fic--Mm7ABPvHA/edit#gid=0)
-[500 Question](https://docs.google.com/spreadsheets/u/1/d/1XdXJbn9NC7fx1CeavItkxR0Yos8rQAC9xXjnH4-f6Eg/htmlview#)
-[General](https://yangshun.github.io/tech-interview-handbook/introduction)
-[Company specific questions to practise for interviews](https://github.com/MysteryVaibhav/leetcode_company_wise_questions)
+- [Super 30](https://docs.google.com/spreadsheets/d/1O_qwBKEESxXos-4auFjiU56RemuF2Fic--Mm7ABPvHA/edit#gid=0)<br>
+- [500 Question](https://docs.google.com/spreadsheets/u/1/d/1XdXJbn9NC7fx1CeavItkxR0Yos8rQAC9xXjnH4-f6Eg/htmlview#)<br>
+- [General Interview handbook](https://yangshun.github.io/tech-interview-handbook/introduction)<br>
+- [Company specific questions to practise for interviews](https://github.com/MysteryVaibhav/leetcode_company_wise_questions)<br>
 
 
 
