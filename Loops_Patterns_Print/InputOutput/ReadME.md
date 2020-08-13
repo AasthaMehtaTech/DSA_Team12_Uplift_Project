@@ -74,6 +74,10 @@ Same as Day 10 Isomorphic which was solved using Normal Array Look up earlier.<b
 5. [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary) <br>
 6. [Course Schedule](https://leetcode.com/problems/course-schedule) <br>
 
+## Day 20 - Graphs
+Coming Soon <br>
+Till then check Resources Updated on [Main ReadME](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/README.md)<br>
+
 ## Resources Update:
 - [Super 30](https://docs.google.com/spreadsheets/d/1O_qwBKEESxXos-4auFjiU56RemuF2Fic--Mm7ABPvHA/edit#gid=0)<br>
 - [500 Question](https://docs.google.com/spreadsheets/u/1/d/1XdXJbn9NC7fx1CeavItkxR0Yos8rQAC9xXjnH4-f6Eg/htmlview#)<br>
