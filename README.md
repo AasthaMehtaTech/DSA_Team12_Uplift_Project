@@ -1,5 +1,16 @@
 # DSA_Team12_Uplift_Project
 Built and Maintained by Girlscript's Uplift Project DSA Team 12  to share our daily progress. 3 month long Data Structures And Algorithms Practice Problems in various programming Languages are covered here.
+
+## Links to Daily Questions:
+
+* [Day 1-10 Questions](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/ReadME_1to10.md) 
+- Basic Printing Exercise, Loops, Patterns: [Patterns_Loops_Print](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/tree/master/Loops_Patterns_Print)
+
+* [Day 11-20 Questions](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/ReadME.md) 
+
+## To upload solutions:
+[Upload/ Create a file here](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/tree/master/Loops_Patterns_Print/InputOutput)
+
 ## Guidelines to Contribute
 ```
 * Upload soln files in respective problem folders/directory.
@@ -20,11 +31,30 @@ Books to get started added here: [Resources](https://github.com/AasthaGithub/DSA
 ```
 Check this for more: https://cp-algorithms.com/ , https://www.pepcoding.com/resources/data-structures-and-algorithms/
 
-## Basic Printing Exercise, Loops, Patterns
+## Links to other resourceful contents: 
+- [Leetcode Questions Google Sheet](https://lnkd.in/d2NHt-2)
+- [Get a Software Engg Job Git Guide](https://github.com/workattech/get-a-software-engineering-job)
+- [Super 30](https://docs.google.com/spreadsheets/d/1O_qwBKEESxXos-4auFjiU56RemuF2Fic--Mm7ABPvHA/edit#gid=0)<br>
+- [500 Question](https://docs.google.com/spreadsheets/u/1/d/1XdXJbn9NC7fx1CeavItkxR0Yos8rQAC9xXjnH4-f6Eg/htmlview#)<br>
+- [General Interview handbook](https://yangshun.github.io/tech-interview-handbook/introduction)<br>
+- [Company specific questions to practise for interviews](https://github.com/MysteryVaibhav/leetcode_company_wise_questions)<br>
+- [Resume Tips](https://docs.google.com/document/d/1fYRfhdeZ3dcfxmo82RK2gBMDB-Pemd-rMfBUNfS3QO8/edit?usp=sharing)<br>
+- [Leetcode Question Repo](https://lnkd.in/d2NHt-2)
 
-[Patterns_Loops_Print](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/tree/master/Loops_Patterns_Print)
+## Maintainer's Info:
+<b> Mentors </b>
+Sl. No. |Name                 |  Email address       | 
+| ----- | ------------------- |-------------| 
+| 1 | [Aastha Mehta](https://github.com/AasthaGithub/)    | aasthamehta2704@gmail.com |
+| 2 | [Aastha Satija](https://github.com/AasthaSatija/) | astha.satija9@gmail.com |
 
-* Week 1 Update 
-*To upload solutions:
-[Upload/ Create a file here](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/tree/master/Loops_Patterns_Print/InputOutput)
+<b> Description </b>
+<br>
+[Repository](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project) Built and Maintained by Girlscript's Uplift Project DSA Team 12 to share our daily progress. 
+3 month long Data Structures And Algorithms Practice Problems in various programming Languages are covered here.
 
+<b> [Contributors list](https://github.com/AasthaGithub/data-structures/blob/Team-DS12/Team%20DS12%20Details.csv) </b><br>
+<b> [Additional List of contributing members](https://github.com/AasthaGithub/data-structures/blob/Team-DS12/Names.csv) </b> <br> 
+```
+DM/Open Pull Request for getting contributing Rights
+```
