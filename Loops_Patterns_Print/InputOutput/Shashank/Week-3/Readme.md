@@ -407,7 +407,7 @@ class Node {
 
 **Example:**
 
-<img src="https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/images/clone%20graph.png" width="250" height="200">
+<img src="https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/images/clone%20graph.png" width="350" height="300">
 
 ```
 Input: adjList = [[2,4],[1,3],[2,4],[1,3]]
