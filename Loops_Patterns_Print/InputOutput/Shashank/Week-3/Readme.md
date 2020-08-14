@@ -404,7 +404,7 @@ class Node {
 
 #### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-3/Day-19/Day-19--CloneGraph-Shashank.cpp)
 
-![Clone Graph](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/images/clone%20graph.png)
+![Clone Graph](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/images/clone%20graph.png = 100x125)
 
 **Example:**
 ```
