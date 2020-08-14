@@ -340,6 +340,79 @@ Explanation: The longest harmonious subsequence is [3,2,2,2,3].
 
 
 
-### Day-19 Problems
+## Day-19 Problems
 
+## Hash Maps
 
+### 1. [Four Sum](https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers/0)
+
+Given an array A of size N, find all combination of four elements in the array whose sum is equal to a given value K. For example, if the given array is {10, 2, 3, 4, 5, 9, 7, 8} and K = 23, one of the quadruple is “3 5 7 8” (3 + 5 + 7 + 8 = 23).
+
+The output should contain only unique quadrples  For example, if input array is {1, 1, 1, 1, 1, 1} and K = 4, then output should be only one quadrple {1, 1, 1, 1}.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-3/Day-19/Day-19--FindSumOfAllNumbers-Shashank.cpp)
+
+**Example:**
+```
+Input:
+2
+5 3
+0 0 2 1 1 
+7 23
+10 2 3 4 5 7 8
+
+Output:
+0 0 1 2 $
+2 3 8 10 $2 4 7 10 $3 5 7 8 $
+```
+
+### 2. [Swapping & making Sum Equal](https://practice.geeksforgeeks.org/problems/swapping-pairs-make-sum-equal/0)
+
+Given two arrays of integers, write a program to check if a pair of values (one value from each array) exists such that swapping the elements of the pair will make the sum of two arrays equal.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-3/Day-19/Day-19--SwappingPairsMakeSumEqual-Shashank.cpp)
+
+**Example:**
+```
+Input:
+2
+6 4
+4 1 2 1 1 2
+3 6 3 3
+4 4
+5 7 4 6
+1 2 3 8
+
+Output:
+1
+1
+```
+
+## Graphs
+
+### 3. [Clone Graph](https://leetcode.com/problems/clone-graph/)
+
+Given a reference of a node in a connected undirected graph.
+Return a deep copy (clone) of the graph.
+Each node in the graph contains a val (int) and a list (List[Node]) of its neighbors.
+```
+class Node {
+    public int val;
+    public List<Node> neighbors;
+}
+```
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-3/Day-19/Day-19--CloneGraph-Shashank.cpp)
+
+![Clone Graph](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/images/clone%20graph.png)
+
+**Example:**
+```
+Input: adjList = [[2,4],[1,3],[2,4],[1,3]]
+Output: [[2,4],[1,3],[2,4],[1,3]]
+Explanation: There are 4 nodes in the graph.
+1st node (val = 1)'s neighbors are 2nd node (val = 2) and 4th node (val = 4).
+2nd node (val = 2)'s neighbors are 1st node (val = 1) and 3rd node (val = 3).
+3rd node (val = 3)'s neighbors are 2nd node (val = 2) and 4th node (val = 4).
+4th node (val = 4)'s neighbors are 1st node (val = 1) and 3rd node (val = 3).
+```
