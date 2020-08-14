@@ -435,8 +435,37 @@ If the town judge exists and can be identified, return the label of the town jud
 
 #### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-3/Day-19/Day-19--FindTownJudge-Shashank.cpp)
 
-**Example 1:**
+**Example:**
 ```
 Input: N = 2, trust = [[1,2]]
 Output: 2
 ```
+
+
+### 5. [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)
+
+Given a list of airline tickets represented by pairs of departure and arrival airports `[from, to]`, reconstruct the itinerary in order. All of the tickets belong to a man who departs from `JFK`. Thus, the itinerary must begin with `JFK`.
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-3/Day-19/Day-19--ReconstructedIntinerary-Shashank.cpp)
+
+**Example:**
+```
+Input: [["MUC", "LHR"], ["JFK", "MUC"], ["SFO", "SJC"], ["LHR", "SFO"]]
+Output: ["JFK", "MUC", "LHR", "SFO", "SJC"]
+```
+
+### 6. [Course Schedule](https://leetcode.com/problems/course-schedule/)
+
+There are a total of `numCourses` courses you have to take, labeled from `0` to `numCourses-1`.
+Some courses may have prerequisites, for example to take course 0 you have to first take course 1, which is expressed as a pair: `[0,1]`
+Given the total number of courses and a list of prerequisite **pairs**, is it possible for you to finish all courses?
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-3/Day-19/Day-19--CourseSchedule-Shashank.cpp)
+
+**Example:**
+```
+Input: numCourses = 2, prerequisites = [[1,0]]
+Output: true
+Explanation: There are a total of 2 courses to take. 
+             To take course 1 you should have finished course 0. So it is possible.
+             ```
