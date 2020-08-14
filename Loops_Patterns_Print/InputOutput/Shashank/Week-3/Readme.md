@@ -418,3 +418,25 @@ Explanation: There are 4 nodes in the graph.
 3rd node (val = 3)'s neighbors are 2nd node (val = 2) and 4th node (val = 4).
 4th node (val = 4)'s neighbors are 1st node (val = 1) and 3rd node (val = 3).
 ```
+
+
+### 4. [Find The Town Judge](https://leetcode.com/problems/find-the-town-judge/)
+
+In a town, there are N people labelled from `1` to `N`.  There is a rumor that one of these people is secretly the town judge.
+
+If the town judge exists, then:
+
+The town judge trusts nobody.
+Everybody (except for the town judge) trusts the town judge.
+There is exactly one person that satisfies properties 1 and 2.
+You are given `trust`, an array of pairs `trust[i] = [a, b]` representing that the person labelled `a` trusts the person labelled `b`.
+
+If the town judge exists and can be identified, return the label of the town judge.  Otherwise, return `-1` 
+
+#### [My Solution](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/Loops_Patterns_Print/InputOutput/Shashank/Week-3/Day-19/Day-19--FindTownJudge-Shashank.cpp)
+
+**Example 1:**
+```
+Input: N = 2, trust = [[1,2]]
+Output: 2
+```
