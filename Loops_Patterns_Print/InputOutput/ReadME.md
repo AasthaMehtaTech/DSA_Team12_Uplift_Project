@@ -1,3 +1,6 @@
+# Important :
+ Mark your status as Active by Editing a yes across your name. Also fill in the missing details. Update this by 21/08/2020.:  https://docs.google.com/spreadsheets/d/1NwiDje856MOtIYEDorMNycU5qCe8N7SSJsqt2-bDc2M/edit#gid=0 <br>
+ 
 [Day 1 to 10 Problems ](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/ReadME_1to10.md)
 
 ## Day 11 - Strings
@@ -75,8 +78,9 @@ Same as Day 10 Isomorphic which was solved using Normal Array Look up earlier.<b
 6. [Course Schedule](https://leetcode.com/problems/course-schedule) <br>
 
 ## Day 20 - Graphs
-Coming Soon <br>
-Till then check Resources Updated on [Main ReadME](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/README.md)<br>
+[link](https://leetcode.com/tag/graph/)
+
+Check Resources Updated on [Main ReadME](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/README.md)<br>
 
 ## Resources Update:
 - [Super 30](https://docs.google.com/spreadsheets/d/1O_qwBKEESxXos-4auFjiU56RemuF2Fic--Mm7ABPvHA/edit#gid=0)<br>
