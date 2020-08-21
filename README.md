@@ -1,8 +1,8 @@
 # DSA_Team12_Uplift_Project
 Built and Maintained by Girlscript's Uplift Project DSA Team 12  to share our daily progress. 3 month long Data Structures And Algorithms Practice Problems in various programming Languages are covered here.
 
-# Important :
- Mark your status as Active by Editing a yes across your name. Also fill in the missing details. Update this by 21/08/2020.:  https://docs.google.com/spreadsheets/d/1NwiDje856MOtIYEDorMNycU5qCe8N7SSJsqt2-bDc2M/edit#gid=0 <br>
+[Link](https://github.com/AasthaGithub/data-structures/tree/Team-DS12) to Uplift Team Repository.<br>
+
 ## Links to Daily Questions:
 
 * [Day 1-10 Questions](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/blob/master/ReadME_1to10.md) 
