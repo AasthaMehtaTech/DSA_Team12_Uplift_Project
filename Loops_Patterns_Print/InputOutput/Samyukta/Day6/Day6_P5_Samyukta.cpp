@@ -50,3 +50,70 @@ int main() {
     
 	return 0;
 }
+
+
+
+
+
+//Second way
+
+
+#include <iostream>
+using namespace std;
+void search(int arr[][100],int m,int n,int x)
+{
+    int r=0;                     //starting from top right corner
+    int c=m-1;                
+    int flag=0;
+    int smallest=arr[0][0];
+    int largest=arr[m-1][n-1];
+    while(r<n && c>=0)
+    {
+        if(x<smallest && x>largest)
+        {
+            cout<<"not found";
+            break;
+        }
+        if(arr[r][c] == x)
+        {
+            cout<<"found";
+            flag=1;
+            break;
+        }
+        else if(arr[r][c] > x)
+        {
+            c--;
+        }
+        else if(arr[r][c] < x)
+        {
+            r++;
+        }
+    }
+    if(flag==0)
+    {
+        cout<<"not found";
+    }
+}
+int main() {
+    int m,n,i,j,x;
+    cin>>m>>n;
+    int arr[100][100];
+    for(i=0;i<n;i++)
+    {
+        for(j=0;j<m;j++)
+        {
+            cin>>arr[i][j];
+        }
+    }
+    cin>>x;
+    search(arr,m,n,x);
+    
+	return 0;
+}
+
+
+
+
+
+
+
