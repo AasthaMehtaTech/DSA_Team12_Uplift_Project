@@ -1,6 +1,8 @@
 
 
 ![Name](https://github.com/amshashank/amshashank/blob/master/img/Name.gif)
+
+# Thank You everyone for joining here and making it the best Group
 ## College: *Institute Of Technology & Management, Lucknow*
 
 ---
