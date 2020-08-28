@@ -2,7 +2,6 @@
 
 ![Name](https://github.com/amshashank/amshashank/blob/master/img/Name.gif)
 
-# Thank You everyone for joining here and making it the best Group
 ## College: *Institute Of Technology & Management, Lucknow*
 
 ---
@@ -78,7 +77,7 @@
 
 ---
 
-## [🟢 Week 3](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/tree/master/Loops_Patterns_Print/InputOutput/Shashank/Week-3)
+## [⚫ Week 3](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/tree/master/Loops_Patterns_Print/InputOutput/Shashank/Week-3)
 
 <details>
   <summary>Open Week-3</summary>
@@ -91,9 +90,10 @@
 
 #### [⚫ Day-18](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/tree/master/Loops_Patterns_Print/InputOutput/Shashank/Week-3/Day-18)
 
-#### [🟢 Day-19](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/tree/master/Loops_Patterns_Print/InputOutput/Shashank/Week-3/Day-19)
+#### [⚫ Day-19](https://github.com/AasthaGithub/DSA_Team12_Uplift_Project/tree/master/Loops_Patterns_Print/InputOutput/Shashank/Week-3/Day-19)
 
 </details>
 
 ---
 
+# Thank You ALL 
