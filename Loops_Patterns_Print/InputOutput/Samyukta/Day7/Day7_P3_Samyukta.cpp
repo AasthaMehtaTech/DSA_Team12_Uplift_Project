@@ -1,4 +1,4 @@
-vector<int> Solution::repeatedNumber(const vector<int> &A) {
+vector<int> Solution::repeatedNumber(const vector<int> &A) {                     //needs improvement
     int a,b,n,i;
     n=A.size();
     vector<int> temp(n+1,false);
