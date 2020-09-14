@@ -35,3 +35,47 @@ int main() {
 	}
 	return 0;
 }
+
+
+
+
+//Another approach
+
+
+
+
+
+//Time Complexity: O(n)
+
+
+#include <iostream>
+using namespace std;
+
+int main() {
+	int t;
+	cin>>t;
+	while(t--)
+	{
+	    int i=0,j=0;                             //i will point s1 and j will point s2
+	    string s1,s2;                            //s1 is substring
+	    cin>>s1>>s2;                             //s2 is full string
+	    while(i<s1.length() && j<s2.length())
+	    {
+	        if(s1[i]==s2[j])
+	        {
+	            i++;
+	        }
+	        j++;
+	    }
+	    if(i==s1.length())
+	    {
+	        cout<<"Yes";
+	    }
+	    else
+	    {
+	        cout<<"No";
+	    }
+	    cout<<endl;
+	}
+	return 0;
+}
