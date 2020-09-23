@@ -1,5 +1,5 @@
 class Solution {
-public:
+public:                                                     //Isomorphic String one alphabet will point to same certain alphabet in second string
     bool isIsomorphic(string s, string t) {
         if(s.length()!=t.length())
         {
