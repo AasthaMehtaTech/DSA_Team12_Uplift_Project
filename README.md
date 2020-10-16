@@ -34,6 +34,9 @@ Books to get started added here: [Resources](https://github.com/AasthaGithub/DSA
 Check this for more: https://cp-algorithms.com/ , https://www.pepcoding.com/resources/data-structures-and-algorithms/
 
 ## Links to other resourceful contents: 
+- [studyalgorithms.com](https://studyalgorithms.com/site-map/)
+- [Love Babbar's 450 Question List](https://www.youtube.com/redirect?q=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb%2Fview%3Fusp%3Dsharing&v=4iFALQ1ACdA&event=video_description&redir_token=QUFFLUhqbk5UNjFJeDVQc01kZjVmRDJUUl9LaHFodHdrQXxBQ3Jtc0trT2pYTXlNMFNLS1NFaDdHaXVWVWJfS0pRUGpSbVFBMG52US0wRjFBRU5sS1NpTk1EaHhEaDUyNk5wak1MNF9ianFKUm5GTEY0YVZvMlVTSUlfY0NxQjAtM2U2TWpMdUJnVmhNZDkxQkNXUkpjUlUxcw%3D%3D)
+- [Interactive Python Book](https://runestone.academy/runestone/books/published/pythonds/index.html)
 - [Leetcode Questions Google Sheet](https://lnkd.in/d2NHt-2)
 - [Get a Software Engg Job Git Guide](https://github.com/workattech/get-a-software-engineering-job)
 - [Super 30](https://docs.google.com/spreadsheets/d/1O_qwBKEESxXos-4auFjiU56RemuF2Fic--Mm7ABPvHA/edit#gid=0)<br>
